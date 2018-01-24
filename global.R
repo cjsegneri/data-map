@@ -1,5 +1,9 @@
-# get dataset that contains zipcodes tied to lat/long values
+# libraries
+library(shinydashboard)
+library(leaflet)
 library(zipcode)
+
+# get dataset that contains zipcodes tied to lat/long values
 data(zipcode)
 
 # get ncmec data
