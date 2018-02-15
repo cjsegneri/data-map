@@ -19,27 +19,27 @@ body <- dashboardBody(
                       tabBox(width = NULL,
                              tabPanel("Location",
                                       selectInput("m_state_inp", "State", multiple = TRUE,
-                                                  choices = sort(unique(kidnapping$state))),
+                                                  choices = sort(unique(missing$state))),
                                       selectInput("m_city_inp", "City", multiple = TRUE,
-                                                  choices = sort(unique(kidnapping$city))),
+                                                  choices = sort(unique(missing$city))),
                                       selectInput("m_zip_inp", "Zipcode", multiple = TRUE,
-                                                  choices = sort(unique(kidnapping$zip)))
+                                                  choices = sort(unique(missing$zip)))
                                       ),
                              tabPanel("Child",
                                       selectInput("m_case_num_inp", "Case Number", multiple = TRUE,
-                                                  choices = c()),
+                                                  choices = sort(unique(missing$Case.Number))),
                                       selectInput("m_child_race_inp", "Child Race", multiple = TRUE,
-                                                  choices = c()),
+                                                  choices = sort(unique(missing$Race))),
                                       selectInput("m_child_gender_inp", "Child Gender", multiple = TRUE,
-                                                  choices = c()),
+                                                  choices = sort(unique(missing$Gender))),
                                       selectInput("m_child_age_inp", "Child Age", multiple = TRUE,
-                                                  choices = c())
+                                                  choices = sort(unique(missing$Age.Missing)))
                                       ),
                              tabPanel("Vehicle",
                                       selectInput("m_veh_style_inp", "Vehicle Style", multiple = TRUE,
-                                                  choices = c()),
+                                                  choices = sort(unique(missing$Vehicle.Style))),
                                       selectInput("m_veh_color_inp", "Vehicle Color", multiple = TRUE,
-                                                  choices = c())
+                                                  choices = sort(unique(missing$Vehicle.Color)))
                                       )
                              )
                       ),
@@ -49,46 +49,50 @@ body <- dashboardBody(
                       tabBox(width = NULL,
                              tabPanel("Location",
                                       selectInput("k_state_inp", "State", multiple = TRUE,
-                                                  choices = sort(unique(missing$state))),
+                                                  choices = sort(unique(kidnapping$state))),
                                       selectInput("k_city_inp", "City", multiple = TRUE,
-                                                  choices = sort(unique(missing$city))),
+                                                  choices = sort(unique(kidnapping$city))),
                                       selectInput("k_zip_inp", "Zipcode", multiple = TRUE,
-                                                  choices = sort(unique(missing$zip)))
+                                                  choices = sort(unique(kidnapping$zip)))
                              ),
                              tabPanel("Case",
                                       selectInput("k_case_type_inp", "Case Type", multiple = TRUE,
-                                                  choices = c()),
+                                                  choices = sort(unique(kidnapping$Case.Type))),
                                       selectInput("k_case_num_inp", "Case Number", multiple = TRUE,
-                                                  choices = c()),
+                                                  choices = sort(unique(kidnapping$Case.Number))),
                                       selectInput("k_status_inp", "Status", multiple = TRUE,
-                                                  choices = c()),
+                                                  choices = sort(unique(kidnapping$Status))),
                                       selectInput("k_source_inp", "Source", multiple = TRUE,
-                                                  choices = c())
+                                                  choices = sort(unique(kidnapping$Source)))
                              ),
                              tabPanel("Child",
                                       selectInput("k_child_id_inp", "Child ID", multiple = TRUE,
-                                                  choices = c()),
+                                                  choices = sort(unique(kidnapping$Child.ID.1))),
                                       selectInput("k_child_race_inp", "Child Race", multiple = TRUE,
-                                                  choices = c()),
+                                                  choices = sort(unique(kidnapping$Child.Race.1))),
                                       selectInput("k_child_gender_inp", "Child Gender", multiple = TRUE,
-                                                  choices = c()),
+                                                  choices = sort(unique(kidnapping$Child.Gender.1))),
                                       selectInput("k_child_perc_age_inp", "Child Perceived Age", multiple = TRUE,
-                                                  choices = c())
+                                                  choices = sort(unique(kidnapping$Child.Perceived.Age.1)))
                              ),
                              tabPanel("Offender",
                                       selectInput("k_off_race_inp", "Offender Race", multiple = TRUE,
-                                                  choices = c()),
+                                                  choices = sort(unique(kidnapping$Offender.Race.1))),
                                       selectInput("k_off_gender_inp", "Offender Gender", multiple = TRUE,
-                                                  choices = c()),
+                                                  choices = sort(unique(kidnapping$Offender.Gender.1))),
                                       selectInput("k_off_age_inp", "Offender Age", multiple = TRUE,
-                                                  choices = c()),
+                                                  choices = sort(unique(kidnapping$Offender.Age.1))),
                                       selectInput("k_off_perc_age_inp", "Offender Perceived Age", multiple = TRUE,
-                                                  choices = c()),
-                                      selectInput("k_vehicle_inp", "Vehicle Style", multiple = TRUE,
-                                                  choices = c()),
-                                      selectInput("k_method_inp", "Offender Method", multiple = TRUE,
-                                                  choices = c())
-                             )
+                                                  choices = sort(unique(kidnapping$Offender.Perceived.Age.1))),
+                                      selectInput("k_method_inp", "If Offender Offered a Ride", multiple = TRUE,
+                                                  choices = sort(unique(kidnapping$Offender.Method.Ride)))
+                             ),
+                             tabPanel("Vehicle",
+                                      selectInput("k_vehicle_style", "Vehicle Style", multiple = TRUE,
+                                                  choices = sort(unique(kidnapping$Vehicle.Style.1))),
+                                      selectInput("k_vehicle_color", "Vehicle Color", multiple = TRUE,
+                                                  choices = sort(unique(kidnapping$Vehicle.Color.1)))
+                                      )
                       )
              ),
              downloadButton("download_btn", "Download Filtered Data")
