@@ -85,7 +85,7 @@ function(input, output, session) {
     # check offender perceived age
     if (!is.null(input$k_off_perc_age_inp)) { filtered = filtered[filtered$Offender.Perceived.Age.1 %in% input$k_off_perc_age_inp,] }
 
-    kidnapping.download = filtered
+    kidnapping.download <<- filtered
     return (filtered)
   })
 
