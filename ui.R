@@ -83,9 +83,7 @@ body <- dashboardBody(
                                       selectInput("k_off_age_inp", "Offender Age", multiple = TRUE,
                                                   choices = sort(unique(kidnapping$Offender.Age.1))),
                                       selectInput("k_off_perc_age_inp", "Offender Perceived Age", multiple = TRUE,
-                                                  choices = sort(unique(kidnapping$Offender.Perceived.Age.1))),
-                                      selectInput("k_method_inp", "If Offender Offered a Ride", multiple = TRUE,
-                                                  choices = sort(unique(kidnapping$Offender.Method.Ride)))
+                                                  choices = sort(unique(kidnapping$Offender.Perceived.Age.1)))
                              ),
                              tabPanel("Vehicle",
                                       selectInput("k_vehicle_style", "Vehicle Style", multiple = TRUE,

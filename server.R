@@ -66,8 +66,6 @@ function(input, output, session) {
     if (!is.null(input$k_off_age_inp)) { filtered = filtered[filtered$Offender.Age.1 %in% input$k_off_age_inp,] }
     # check offender perceived age
     if (!is.null(input$k_off_perc_age_inp)) { filtered = filtered[filtered$Offender.Perceived.Age.1 %in% input$k_off_perc_age_inp,] }
-    # check offender method
-    if (!is.null(input$k_method_inp)) { filtered = filtered[filtered$Offender.Method.Ride %in% input$k_method_inp,] }
 
     return (filtered)
   })
@@ -80,6 +78,46 @@ function(input, output, session) {
 
     # read in which datasets to show
     sets = whichSets()
+
+    # create the labels
+    missing.popup = paste(sep = "<br/>",
+                          "<center><b>Location Info</b></center>",
+                          paste0("State: ", missing.filtered$state),
+                          paste0("City: ", missing.filtered$city),
+                          paste0("Zipcode: ", missing.filtered$zip, "<br/>"),
+                          "<center><b>Child Info</b></center>",
+                          paste0("Case Number: ", missing.filtered$Case.Number),
+                          paste0("Child Race: ", missing.filtered$Race),
+                          paste0("Child Gender: ", missing.filtered$Gender),
+                          paste0("Child Age: ", missing.filtered$Age.Missing, "<br/>"),
+                          "<center><b>Vehicle Info</b></center>",
+                          paste0("Vehicle Style: ", missing.filtered$Vehicle.Style),
+                          paste0("Vehicle Color: ", missing.filtered$Vehicle.Color)
+                          )
+    kidnapping.popup = paste(sep = "<br/>",
+                             "<center><b>Location Info</b></center>",
+                             paste0("State: ", kidnapping.filtered$state),
+                             paste0("City: ", kidnapping.filtered$city),
+                             paste0("Zipcode: ", kidnapping.filtered$zip, "<br/>"),
+                             "<center><b>Case Info</b></center>",
+                             paste0("Case Type: ", kidnapping.filtered$Case.Type),
+                             paste0("Case Number: ", kidnapping.filtered$Case.Number),
+                             paste0("Status: ", kidnapping.filtered$Status),
+                             paste0("Source: ", kidnapping.filtered$Source, "<br/>"),
+                             "<center><b>Child Info</b></center>",
+                             paste0("Child ID: ", kidnapping.filtered$Child.ID.1),
+                             paste0("Child Race: ", kidnapping.filtered$Child.Race.1),
+                             paste0("Child Gender: ", kidnapping.filtered$Child.Gender.1),
+                             paste0("Child Perceived Age: ", kidnapping.filtered$Child.Perceived.Age.1, "<br/>"),
+                             "<center><b>Offender Info</b></center>",
+                             paste0("Offender Race: ", kidnapping.filtered$Offender.Race.1),
+                             paste0("Offender Gender: ", kidnapping.filtered$Offender.Gender.1),
+                             paste0("Offender Age: ", kidnapping.filtered$Offender.Age.1),
+                             paste0("Offender Perceived Age: ", kidnapping.filtered$Offender.Perceived.Age.1, "<br/>"),
+                             "<center><b>Vehicle Info</b></center>",
+                             paste0("Vehicle Style: ", kidnapping.filtered$Vehicle.Style.1),
+                             paste0("Vehicle Color: ", kidnapping.filtered$Vehicle.Color.1)
+                             )
 
     # create the map
     if (sets == 1) {
@@ -94,7 +132,8 @@ function(input, output, session) {
                                                      className: 'marker-cluster'
                                                      });
                                                      }")
-          )
+          ),
+          popup = missing.popup
                                                   ) %>%
         addCircleMarkers(
           data = kidnapping.filtered, lng = ~longitude, lat = ~latitude, color = "#66b2ff",
@@ -106,7 +145,8 @@ function(input, output, session) {
                                                      className: 'marker-cluster'
                                                      });
                                                      }")
-          )
+          ),
+          popup = kidnapping.popup
                                                   ) %>%
         addLegend(
           "bottomleft", title = "Datasets", labels = c("Missing Persons", "Attempted Kidnapping"),
@@ -124,7 +164,8 @@ function(input, output, session) {
                                                      className: 'marker-cluster'
                                                      });
                                                      }")
-          )
+          ),
+          popup = missing.popup
                                                   ) %>%
         addLegend(
           "bottomleft", title = "Datasets", labels = c("Missing Persons", "Attempted Kidnapping"),
@@ -142,7 +183,8 @@ function(input, output, session) {
                                                      className: 'marker-cluster'
                                                      });
                                                      }")
-          )
+          ),
+          popup = kidnapping.popup
                                                   ) %>%
         addLegend(
           "bottomleft", title = "Datasets", labels = c("Missing Persons", "Attempted Kidnapping"),
