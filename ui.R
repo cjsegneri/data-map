@@ -8,7 +8,8 @@ body <- dashboardBody(
     column(width = 8,
            box(width = NULL, title = "Map View", solidHeader = TRUE,
                status = "warning",
-               leafletOutput("map", height = 600)
+               leafletOutput("map", height = 600),
+               downloadLink("download_link", label = "Download Filtered Data")
            )
     ),
     column(4,
@@ -92,8 +93,7 @@ body <- dashboardBody(
                                                   choices = sort(unique(kidnapping$Vehicle.Color.1)))
                                       )
                       )
-             ),
-             downloadButton("download_btn", "Download Filtered Data")
+             )
       )
     )
   )

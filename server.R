@@ -1,6 +1,23 @@
 
 function(input, output, session) {
 
+  output$download_link <- downloadHandler(
+    filename = function(){
+      paste0("NCMEC-data",".zip")
+    },
+    content = function(file){
+      #go to a temp dir to avoid permission issues
+      owd <- setwd(tempdir())
+      on.exit(setwd(owd))
+      write.csv(missing.download, "Missing-Persons.csv")
+      write.csv(kidnapping.download, "Kidnapping-Attempts.csv")
+      files = c("Missing-Persons.csv", "Kidnapping-Attempts.csv")
+      #create the zip file
+      zip(file,files)
+    },
+    contentType = "application/zip"
+  )
+
   whichSets = reactive({
     if (input$missing_switch & input$kidnapping_switch) { return (1) }
     if (input$missing_switch & !input$kidnapping_switch) { return (2) }
@@ -30,6 +47,7 @@ function(input, output, session) {
     # check for vehicle color
     if (!is.null(input$m_veh_color_inp)) { filtered = filtered[filtered$Vehicle.Color %in% input$m_veh_color_inp,] }
 
+    missing.download <<- filtered
     return (filtered)
   })
 
@@ -67,6 +85,7 @@ function(input, output, session) {
     # check offender perceived age
     if (!is.null(input$k_off_perc_age_inp)) { filtered = filtered[filtered$Offender.Perceived.Age.1 %in% input$k_off_perc_age_inp,] }
 
+    kidnapping.download = filtered
     return (filtered)
   })
 
@@ -194,16 +213,5 @@ function(input, output, session) {
       leaflet() %>% addProviderTiles(providers$CartoDB.Positron)
     }
   })
-
-
-  output$download_btn = downloadHandler(
-    filename = function() {
-      paste("data-", Sys.Date(), ".csv", sep="")
-    },
-    content = function(file) {
-      missing.filtered = getMissing()
-      write.csv(missing.filtered, file)
-    }
-  )
 
 }

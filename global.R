@@ -30,3 +30,6 @@ kidnapping$Offender.Method.Candy[kidnapping$Offender.Method.Candy==-1] = 1
 kidnapping$Offender.Method.Money[kidnapping$Offender.Method.Money==-1] = 1
 kidnapping$Offender.Method.Other[kidnapping$Offender.Method.Other==-1] = 1
 kidnapping$Offender.Method.Ride[kidnapping$Offender.Method.Ride==-1] = 1
+
+missing.download <<- missing
+kidnapping.download <<- kidnapping
