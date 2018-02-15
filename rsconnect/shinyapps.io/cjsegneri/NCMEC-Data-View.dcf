@@ -1,0 +1,12 @@
+name: NCMEC-Data-View
+title: NCMEC-Data-View
+username:
+account: cjsegneri
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 281047
+bundleId: 1222217
+url: https://cjsegneri.shinyapps.io/NCMEC-Data-View/
+when: 1518589071.52898
+asMultiple: FALSE
+asStatic: FALSE
