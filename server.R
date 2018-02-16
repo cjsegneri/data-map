@@ -142,12 +142,12 @@ function(input, output, session) {
     if (sets == 1) {
       leaflet() %>% addProviderTiles(providers$CartoDB.Positron) %>%
         addCircleMarkers(
-          data = missing.filtered, lng = ~longitude, lat = ~latitude, color = "#ff6666",
+          data = missing.filtered, lng = ~longitude, lat = ~latitude, color = "#DC7633",
           clusterOptions = markerClusterOptions(iconCreateFunction =
                                                   JS("
                                                      function(cluster) {
                                                      return new L.DivIcon({
-                                                     html: '<div style=\"background-color:rgba(255,102,102,0.8)\"><span>' + cluster.getChildCount() + '</div><span>',
+                                                     html: '<div style=\"background-color:rgba(220,118,51,0.8)\"><span>' + cluster.getChildCount() + '</div><span>',
                                                      className: 'marker-cluster'
                                                      });
                                                      }")
@@ -155,12 +155,12 @@ function(input, output, session) {
           popup = missing.popup
                                                   ) %>%
         addCircleMarkers(
-          data = kidnapping.filtered, lng = ~longitude, lat = ~latitude, color = "#66b2ff",
+          data = kidnapping.filtered, lng = ~longitude, lat = ~latitude, color = "#CD6155",
           clusterOptions = markerClusterOptions(iconCreateFunction =
                                                   JS("
                                                      function(cluster) {
                                                      return new L.DivIcon({
-                                                     html: '<div style=\"background-color:rgba(102,178,255,0.8)\"><span>' + cluster.getChildCount() + '</div><span>',
+                                                     html: '<div style=\"background-color:rgba(205,97,85,0.8)\"><span>' + cluster.getChildCount() + '</div><span>',
                                                      className: 'marker-cluster'
                                                      });
                                                      }")
@@ -169,17 +169,17 @@ function(input, output, session) {
                                                   ) %>%
         addLegend(
           "bottomleft", title = "Datasets", labels = c("Missing Persons", "Attempted Kidnapping"),
-          colors = c("#ff6666","#66b2ff"), opacity = 0.5
+          colors = c("#DC7633","#CD6155"), opacity = 0.5
         )
     } else if (sets == 2) {
       leaflet() %>% addProviderTiles(providers$CartoDB.Positron) %>%
         addCircleMarkers(
-          data = missing.filtered, lng = ~longitude, lat = ~latitude, color = "#ff6666",
+          data = missing.filtered, lng = ~longitude, lat = ~latitude, color = "#DC7633",
           clusterOptions = markerClusterOptions(iconCreateFunction =
                                                   JS("
                                                      function(cluster) {
                                                      return new L.DivIcon({
-                                                     html: '<div style=\"background-color:rgba(255,102,102,0.8)\"><span>' + cluster.getChildCount() + '</div><span>',
+                                                     html: '<div style=\"background-color:rgba(220,118,51,0.8)\"><span>' + cluster.getChildCount() + '</div><span>',
                                                      className: 'marker-cluster'
                                                      });
                                                      }")
@@ -188,17 +188,17 @@ function(input, output, session) {
                                                   ) %>%
         addLegend(
           "bottomleft", title = "Datasets", labels = c("Missing Persons", "Attempted Kidnapping"),
-          colors = c("#ff6666","#66b2ff"), opacity = 0.5
+          colors = c("#DC7633","#CD6155"), opacity = 0.5
         )
     } else if (sets == 3) {
       leaflet() %>% addProviderTiles(providers$CartoDB.Positron) %>%
         addCircleMarkers(
-          data = kidnapping.filtered, lng = ~longitude, lat = ~latitude, color = "#66b2ff",
+          data = kidnapping.filtered, lng = ~longitude, lat = ~latitude, color = "#CD6155",
           clusterOptions = markerClusterOptions(iconCreateFunction =
                                                   JS("
                                                      function(cluster) {
                                                      return new L.DivIcon({
-                                                     html: '<div style=\"background-color:rgba(102,178,255,0.8)\"><span>' + cluster.getChildCount() + '</div><span>',
+                                                     html: '<div style=\"background-color:rgba(205,97,85,0.8)\"><span>' + cluster.getChildCount() + '</div><span>',
                                                      className: 'marker-cluster'
                                                      });
                                                      }")
@@ -207,11 +207,42 @@ function(input, output, session) {
                                                   ) %>%
         addLegend(
           "bottomleft", title = "Datasets", labels = c("Missing Persons", "Attempted Kidnapping"),
-          colors = c("#ff6666","#66b2ff"), opacity = 0.5
+          colors = c("#DC7633","#CD6155"), opacity = 0.5
         )
     } else {
       leaflet() %>% addProviderTiles(providers$CartoDB.Positron)
     }
+  })
+
+  output$timeline1 = renderTimevis({
+
+    # read in the missing and kidnapping data
+    missing.filtered = getMissing()
+
+    # rename data columns for timevis
+    missing.filtered$start = as.Date(missing.filtered$Missing.Date)
+    missing.filtered$content = paste("Case ID:",missing.filtered$Case.Number)
+
+    # remove NA values
+    missing.filtered = missing.filtered[!is.na(missing.filtered$start),]
+    missing.filtered = missing.filtered[!is.na(missing.filtered$content),]
+
+    timevis(missing.filtered, height = 600)
+  })
+
+  output$timeline2 = renderTimevis({
+
+    # read in the missing and kidnapping data
+    kidnapping.filtered = getKidnapping()
+
+    # rename data columns for timevis
+    kidnapping.filtered$start = as.Date(kidnapping.filtered$Incident.Date)
+    kidnapping.filtered$content = paste("Case ID:",kidnapping.filtered$Case.Number)
+    # remove NA values
+    kidnapping.filtered = kidnapping.filtered[!is.na(kidnapping.filtered$start),]
+    kidnapping.filtered = kidnapping.filtered[!is.na(kidnapping.filtered$content),]
+
+    timevis(kidnapping.filtered, height = 600)
   })
 
 }

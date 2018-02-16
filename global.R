@@ -3,6 +3,7 @@ library(shinydashboard)
 library(shinyWidgets)
 library(shinythemes)
 library(leaflet)
+library(timevis)
 library(zipcode)
 
 # get dataset that contains zipcodes tied to lat/long values

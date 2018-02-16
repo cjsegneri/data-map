@@ -6,17 +6,22 @@ header <- dashboardHeader(
 body <- dashboardBody(
   fluidRow(tags$head(tags$style(".rightAlign{float:right;}")),
     column(width = 8,
-           box(width = NULL, title = "Map View", solidHeader = TRUE,
-               status = "warning",
-               leafletOutput("map", height = 600),
-               downloadLink("download_link", label = "Download Filtered Data")
+           tabBox(width = NULL, title = "Data View",
+                  tabPanel(title = "Map",
+                           leafletOutput("map", height = 600),
+                           downloadLink("download_link", label = "Download Filtered Data")
+                           ),
+                  tabPanel(title = "Missing Persons Timeline",
+                           timevisOutput("timeline1")
+                           ),
+                  tabPanel(title = "Attempted Kidnapping Timeline",
+                           timevisOutput("timeline2")
+                  )
            )
     ),
     column(4,
-      tabBox(width = NULL, title = "Data Filters",
-             tabPanel("Missing Persons Set",
-                      materialSwitch("missing_switch", status = "primary", right = TRUE,
-                                     value = TRUE, label = "Include Missing Persons Data Set"),
+      tabBox(width = NULL, title = "Filters",
+             tabPanel("Missing Persons",
                       tabBox(width = NULL,
                              tabPanel("Location",
                                       selectInput("m_state_inp", "State", multiple = TRUE,
@@ -42,11 +47,11 @@ body <- dashboardBody(
                                       selectInput("m_veh_color_inp", "Vehicle Color", multiple = TRUE,
                                                   choices = sort(unique(missing$Vehicle.Color)))
                                       )
-                             )
+                             ),
+                      materialSwitch("missing_switch", status = "primary", right = TRUE,
+                                     value = TRUE, label = "Include Missing Persons Data Set")
                       ),
-             tabPanel("Attempted Kidnapping Set",
-                      materialSwitch("kidnapping_switch", status = "primary", right = TRUE,
-                                     value = TRUE, label = "Include Attempted Kidnapping Data Set"),
+             tabPanel("Attempted Kidnapping",
                       tabBox(width = NULL,
                              tabPanel("Location",
                                       selectInput("k_state_inp", "State", multiple = TRUE,
@@ -92,7 +97,9 @@ body <- dashboardBody(
                                       selectInput("k_vehicle_color", "Vehicle Color", multiple = TRUE,
                                                   choices = sort(unique(kidnapping$Vehicle.Color.1)))
                                       )
-                      )
+                      ),
+                      materialSwitch("kidnapping_switch", status = "primary", right = TRUE,
+                                     value = TRUE, label = "Include Attempted Kidnapping Data Set")
              )
       )
     )

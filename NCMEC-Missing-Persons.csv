@@ -1,0 +1,462 @@
+"","zip","Case.Number","Missing.Date","Gender","Race","Age.Missing","Missing.City","Missing.State","Vehicle.Style","Vehicle.Color","city","state","latitude","longitude"
+"1",10466,1197880,2012-01-07,"Male","Black",5,"Mount Vernon","NY","","","Bronx","NY",40.89095,-73.84702
+"2",10940,1214771,NA,"Male","White",20,"Middletown","NY","","","Middletown","NY",41.449364,-74.43951
+"3",10950,1220164,NA,"Male","White",10,"Kiryas Joel","NY","","","Monroe","NY",41.323547,-74.19531
+"4",11101,1223775,2013-04-10,"Male","Black",14,"Astoria","NY","","","Long Island City","NY",40.745341,-73.93907
+"5",11207,1218919,2013-04-07,"Male","Hispanic",12,"Brooklyn","NY","","","Brooklyn","NY",40.670874,-73.89424
+"6",11220,1202265,2012-08-09,"Female","Hispanic",9,"Brooklyn","NY","","","Brooklyn","NY",40.641436,-74.01574
+"7",11234,1244495,NA,"Male","White",20,"Brooklyn","NY","","","Brooklyn","NY",40.618561,-73.9216
+"8",11235,1232363,NA,"Male","Hispanic",14,"Brooklyn","NY","","","Brooklyn","NY",40.583803,-73.95019
+"9",11418,1217076,NA,"Male","Hispanic",15,"Richmond Hill","NY","","","Richmond Hill","NY",40.698485,-73.83365
+"10",11510,1279982,NA,"Male","Black",18,"Baldwin","NY","","","Baldwin","NY",40.654112,-73.6095
+"11",11958,1211481,NA,"Female","White",16,"Peconic","NY","","","Peconic","NY",41.03687,-72.45341
+"12",12206,1239270,NA,"Male","White",17,"Albany","NY","","","Albany","NY",42.669645,-73.77719
+"13",12534,1280352,NA,"Female","White",16,"Hudson","NY","","","Hudson","NY",42.22948,-73.75846
+"14",12986,1197145,2012-11-03,"Male","White",18,"Tupper Lake","NY","","","Tupper Lake","NY",44.220344,-74.46299
+"15",13088,1232712,NA,"Male","Black",9,"Liverpool","NY","","","Liverpool","NY",43.105917,-76.19365
+"16",13637,1257453,2015-02-11,"Male","White",14,"Evans Mills","NY","","","Evans Mills","NY",44.091494,-75.82694
+"17",14150,1235951,NA,"Male","White",20,"Tonawanda","NY","Sedan, 2 door","Gray","Tonawanda","NY",43.001907,-78.8631
+"18",14301,1201418,NA,"Female","White",5,"Niagara Falls","NY","","","Niagara Falls","NY",43.096555,-79.03925
+"19",14305,1250223,NA,"Male","Black",8,"Niagara Falls","NY","","","Niagara Falls","NY",43.115355,-79.03769
+"20",14613,1220595,2013-04-08,"Male","Black",10,"Rochester","NY","","","Rochester","NY",43.182163,-77.63794
+"21",14616,1221612,NA,"Male","White",15,"Rochester","NY","","","Rochester","NY",43.232312,-77.64905
+"22",15424,1215236,2013-04-05,"Male","White",6,"Confluence","PA","","White","Confluence","PA",39.817148,-79.34803
+"23",15902,1227501,NA,"Female","Black",3,"Johnstown","PA","","","Johnstown","PA",40.309087,-78.90069
+"24",17067,1269656,2016-05-06,"Male","Hispanic",14,"Myerstown","PA","","","Myerstown","PA",40.389502,-76.3147
+"25",17104,1219607,2013-06-07,"Male","Black",9,"Harrisburg","PA","","","Harrisburg","PA",40.258972,-76.85922
+"26",17241,1228437,2014-11-02,"Male","White",10,"Newville","PA","","","Newville","PA",40.172412,-77.40826
+"27",17313,1245728,NA,"Female","White",2,"Dallastown","PA","Sedan, 4 door","Gold","Dallastown","PA",39.8989,-76.64405
+"28",17740,1274071,2016-06-08,"Female","White",16,"Jersey Shore","PA","","","Jersey Shore","PA",41.209389,-77.25975
+"29",18644,1227206,2013-04-12,"Female","White",17,"Wyoming","PA","","","Wyoming","PA",41.31943,-75.85208
+"30",18705,1252301,NA,"Female","Black",16,"Wilkes Barre","PA","","Red","Wilkes Barre","PA",41.268231,-75.84569
+"31",19104,1232026,2014-08-05,"Female","Black",2,"Philadelphia","PA","","","Philadelphia","PA",39.961612,-75.19957
+"32",19123,1232487,NA,"Male","Black",10,"Philadelphia","PA","","","Philadelphia","PA",39.964012,-75.14764
+"33",19133,1226499,2013-11-12,"Male","Black",2,"Philadelphia","PA","","","Philadelphia","PA",39.992862,-75.14054
+"34",19134,1200804,NA,"Male","Black",10,"Philadelphia","PA","","","Philadelphia","PA",39.991712,-75.11116
+"35",19139,1261830,NA,"Female","Black",9,"Philadelphia","PA","","","Philadelphia","PA",39.961812,-75.23003
+"36",19142,1193114,NA,"Male","Black",5,"Philadelphia","PA","","","Philadelphia","PA",39.922612,-75.23453
+"37",19153,1257450,2015-05-11,"Male","Black",15,"Philadelphia","PA","","","Philadelphia","PA",39.898985,-75.23221
+"38",19973,1239240,NA,"Male","Black",12,"Seaford","DE","Sport Utility","Black","Seaford","DE",38.643248,-75.61102
+"39",20019,1244128,2015-12-02,"Male","Black",12,"Washington","DC","","","Washington","DC",38.891445,-76.93811
+"40",20170,1269680,2016-05-06,"Female","Hispanic",13,"Herndon","VA","Sedan, 4 door","Black","Herndon","VA",38.977109,-77.38527
+"41",20705,1234365,NA,"Female","Hispanic",11,"Beltsville","MD","","","Beltsville","MD",39.044509,-76.9133
+"42",20743,1249769,NA,"Female","Black",13,"Capitol Heights","MD","","","Capitol Heights","MD",38.886812,-76.90645
+"43",20745,1247825,NA,"Female","Black",17,"Oxon Hill","MD","","","Oxon Hill","MD",38.80758,-76.99193
+"44",20782,1246957,NA,"Male","Black",11,"Hyattsville","MD","","","Hyattsville","MD",38.96401,-76.96139
+"45",21045,1274262,2016-09-08,"Male","Black",9,"Columbia","MD","","","Columbia","MD",39.207523,-76.82527
+"46",21223,1227229,2014-03-01,"Male","White",17,"Baltimore","MD","","","Baltimore","MD",39.286556,-76.64644
+"47",21225,1195510,2012-08-05,"Female","White",20,"Brooklyn Park","MD","","","Brooklyn","MD",39.229507,-76.61203
+"48",21236,1240318,2014-11-11,"Female","White",12,"Nottingham","MD","","","Nottingham","MD",39.389457,-76.48709
+"49",21502,1250802,NA,"Female","Black",16,"Cumberland","MD","","","Cumberland","MD",39.646587,-78.77398
+"50",21904,1217443,2013-09-06,"Female","White",10,"Port Deposit","MD","","","Port Deposit","MD",39.61881,-76.0853
+"51",22030,1238417,NA,"Female","White",16,"Fairfax","VA","","","Fairfax","VA",38.846212,-77.32787
+"52",22150,1259083,2015-05-12,"Female","White",19,"Springfield","VA","","","Springfield","VA",38.778243,-77.18562
+"53",22150,1268611,NA,"Female","Hispanic",12,"Springfield","VA","","","Springfield","VA",38.778243,-77.18562
+"54",22193,1237576,2014-08-09,"Male","Hispanic",16,"Woodbridge","VA","","","Woodbridge","VA",38.646375,-77.34469
+"55",22546,1284935,NA,"Female","Black",5,"Ruther Glen","VA","Sport Utility","Silver","Ruther Glen","VA",37.95969,-77.47733
+"56",22664,1223225,NA,"Male","White",2,"Woodstock","VA","","","Woodstock","VA",38.881558,-78.51586
+"57",22903,1237926,NA,"Female","White",18,"Charlottesville","VA","","","Charlottesville","VA",38.026342,-78.5348
+"58",22903,1207898,NA,"Male","Black",19,"Charlottesville","VA","","","Charlottesville","VA",38.026342,-78.5348
+"59",22971,1220626,2013-03-08,"Female","Black",17,"Shipman","VA","Sedan, 4 door","White","Shipman","VA",37.74747,-78.80233
+"60",23234,1240819,NA,"Male","Hispanic",16,"Richmond","VA","","","Richmond","VA",37.457341,-77.4658
+"61",23324,1207967,NA,"Female","Hispanic",12,"Chesapeake","VA","Sedan, 2 door","Red","Chesapeake","VA",36.805717,-76.27126
+"62",23518,1246469,2015-02-03,"Female","White",18,"Norfolk","VA","","","Norfolk","VA",36.916497,-76.21796
+"63",25801,1285070,NA,"Female","Black",16,"Beckley","WV","Sedan, 2 door","Red","Beckley","WV",37.79064,-81.19958
+"64",27028,1253413,NA,"Female","White",5,"Mocksville","NC","Crossover","Silver","Mocksville","NC",35.920477,-80.57143
+"65",27101,1231313,NA,"Male","White",17,"Winston Salem","NC","","","Winston Salem","NC",36.107037,-80.21918
+"66",27265,1210300,2013-10-01,"Male","Black",18,"High Point","NC","","","High Point","NC",36.017647,-80.00628
+"67",27601,1279790,NA,"Female","Black",12,"Raleigh","NC","","","Raleigh","NC",35.774451,-78.63274
+"68",27703,1219967,NA,"Male","Hispanic",4,"Durham","NC","","","Durham","NC",35.966431,-78.83969
+"69",27803,1277597,NA,"Female","Black",2,"Rocky Mount","NC","Crossover","Green","Rocky Mount","NC",35.924465,-77.83689
+"70",27834,1256971,NA,"Female","White",19,"Greenville","NC","","","Greenville","NC",35.626653,-77.37896
+"71",27909,1213184,NA,"Male","Black",16,"Elizabeth City","NC","","","Elizabeth City","NC",36.293192,-76.23692
+"72",28001,1243470,NA,"Male","Black",18,"Albemarle","NC","","","Albemarle","NC",35.351477,-80.19879
+"73",28034,1267713,2016-05-05,"Male","White",17,"Dallas","NC","","","Dallas","NC",35.333668,-81.18303
+"74",28037,1204322,NA,"Male","Biracial",17,"Denver","NC","","Green","Denver","NC",35.501448,-81.00412
+"75",28105,1227592,NA,"Male","Black",17,"Matthews","NC","","","Matthews","NC",35.116851,-80.7164
+"76",28227,1207455,2012-09-12,"Female","White",16,"Mint Hill","NC","","","Charlotte","NC",35.192919,-80.66822
+"77",28340,1243889,2015-04-02,"Female","Am. Ind.",18,"Fairmont","NC","","","Fairmont","NC",34.476857,-79.13005
+"78",28371,1267469,2016-01-05,"Female","White",16,"Parkton","NC","","","Parkton","NC",34.912113,-78.9999
+"79",28377,1226747,NA,"Male","Am. Ind.",1,"Red Springs","NC","Sedan, 4 door","Green","Red Springs","NC",34.828798,-79.21215
+"80",28570,1203072,NA,"Female","White",12,"Newport","NC","Sedan, 2 door","Red","Newport","NC",34.770681,-76.87786
+"81",28601,1232707,NA,"Male","Hispanic",9,"Hickory","NC","","","Hickory","NC",35.759932,-81.33012
+"82",28608,1237640,2014-02-09,"Female","White",18,"Boone","NC","","","Boone","NC",36.221334,-81.713416
+"83",28673,1204607,NA,"Male","White",18,"Sherrills Ford","NC","Sedan, 4 door","Green","Sherrills Ford","NC",35.589022,-80.99326
+"84",28697,1198609,2012-12-07,"Female","Hispanic",14,"Wilkesboro","NC","Sedan, 4 door","Silver","Wilkesboro","NC",36.136991,-81.17462
+"85",28712,1263987,2016-07-03,"Female","White",15,"Brevard","NC","","","Brevard","NC",35.188077,-82.75799
+"86",28801,1237499,2014-06-09,"Female","White",13,"Asheville","NC","Sedan, 2 door","White","Asheville","NC",35.595661,-82.55632
+"87",29115,1226247,2013-10-12,"Female","White",19,"Orangeburg","SC","Pickup Truck","Green, Dark","Orangeburg","SC",33.487767,-80.8564
+"88",29403,1230107,NA,"Female","Biracial",18,"Charleston","SC","","","Charleston","SC",32.799326,-79.94813
+"89",29566,1241991,NA,"Male","Black",4,"Little River","SC","","","Little River","SC",33.873017,-78.64282
+"90",29575,1253371,NA,"Female","White",16,"Myrtle Beach","SC","Sport Utility","Silver","Myrtle Beach","SC",33.627763,-78.98126
+"91",29577,1249836,NA,"Female","Black",13,"Myrtle Beach","SC","","","Myrtle Beach","SC",33.698101,-78.89604
+"92",29730,1241610,NA,"Female","Black",18,"Rock Hill","SC","","","Rock Hill","SC",34.914611,-81.0125
+"93",30047,1236903,NA,"Female","White",17,"Lilburn","GA","Sport Utility","Black","Lilburn","GA",33.872371,-84.11655
+"94",30076,1229060,NA,"Female","Hispanic",13,"Roswell","GA","Sedan, 4 door","Gold","Roswell","GA",34.032532,-84.31774
+"95",30080,1188520,2012-03-02,"Male","Hispanic",9,"Smyrna","GA","","","Smyrna","GA",33.87578,-84.50382
+"96",30204,1188294,NA,"Female","White",14,"Barnesville","GA","Sedan, 4 door","White","Barnesville","GA",33.05413,-84.14862
+"97",30223,1208005,NA,"Female","White",9,"Griffin","GA","","","Griffin","GA",33.268185,-84.27306
+"98",30281,1255392,2015-01-10,"Male","White",14,"Stockbridge","GA","","","Stockbridge","GA",33.547578,-84.21809
+"99",30294,1222912,NA,"Female","Hispanic",14,"Ellenwood","GA","","","Ellenwood","GA",33.639658,-84.26822
+"100",30297,1216380,NA,"Female","Black",1,"Forest Park","GA","Sedan, 4 door","Green","Forest Park","GA",33.615409,-84.36704
+"101",30297,1261511,NA,"Female","Biracial",15,"Forest Park","GA","","Red","Forest Park","GA",33.615409,-84.36704
+"102",30307,1207257,NA,"Male","Black",1,"Atlanta","GA","","","Atlanta","GA",33.768205,-84.33786
+"103",30308,1218707,NA,"Male","Black",19,"Atlanta","GA","","","Atlanta","GA",33.771755,-84.38065
+"104",30809,1283644,2016-04-12,"Female","White",15,"Evans","GA","Sedan, 4 door","Tan","Evans","GA",33.551145,-82.13949
+"105",31088,1194231,2012-08-05,"Male","White",10,"Warner Robins","GA","","","Warner Robins","GA",32.594698,-83.64873
+"106",31401,1237030,NA,"Female","White",18,"Savannah","GA","","","Savannah","GA",32.068658,-81.09258
+"107",31539,1197559,NA,"Female","White",14,"Hazlehurst","GA","Motorcycle","Blue","Hazlehurst","GA",31.844772,-82.59809
+"108",32063,1239607,NA,"Male","Biracial",8,"Macclenny","FL","","","Macclenny","FL",30.267664,-82.12457
+"109",32091,1233213,2014-03-06,"Female","Black",17,"Starke","FL","","","Starke","FL",29.937512,-82.11706
+"110",32118,1218969,2013-06-07,"Female","Black",17,"Daytona Beach","FL","","","Daytona Beach","FL",29.210309,-81.00259
+"111",32177,1241624,NA,"Male","Black",0,"Palatka","FL","","","Palatka","FL",29.666218,-81.67401
+"112",32218,1218200,NA,"Female","White",8,"Jacksonville","FL","Van","White","Jacksonville","FL",30.449096,-81.65651
+"113",32352,1262810,NA,"Male","White",13,"Quincy","FL","","","Mount Pleasant","FL",30.665715,-84.75363
+"114",32608,1203606,NA,"Male","Hispanic",18,"Gainesville","FL","","","Gainesville","FL",29.611545,-82.3941
+"115",32693,1241096,2014-02-12,"Male","White",17,"Trenton","FL","","","Trenton","FL",29.598935,-82.82752
+"116",32811,1266918,NA,"Male","White",14,"Orlando","FL","","","Orlando","FL",28.52493,-81.43994
+"117",33012,1255618,2015-06-10,"Male","Hispanic",17,"Hialeah","FL","","","Hialeah","FL",25.864773,-80.30069
+"118",33023,1246641,2015-02-04,"Female","Black",20,"Miramar","FL","","","Hollywood","FL",25.989119,-80.21318
+"119",33056,1202079,2012-04-09,"Female","Hispanic",11,"Miami Gardens","FL","","","Opa Locka","FL",25.946754,-80.24962
+"120",33063,1197391,NA,"Female","White",12,"Margate","FL","Sedan, 4 door","Silver","Pompano Beach","FL",26.251909,-80.21016
+"121",33125,1283601,2016-07-12,"Female","Hispanic",15,"Miami","FL","","","Miami","FL",25.782176,-80.23607
+"122",33144,1202267,2012-01-06,"Female","Biracial",19,"Miami","FL","","","Miami","FL",25.76226,-80.30839
+"123",33161,1232076,2014-09-05,"Male","Black",8,"Miami","FL","","","Miami","FL",25.893372,-80.18164
+"124",33161,1210258,2013-04-02,"Male","Hispanic",5,"North Miami","FL","Sport Utility","Silver","Miami","FL",25.893372,-80.18164
+"125",33161,1210258,2013-04-02,"Male","Hispanic",3,"North Miami","FL","Sport Utility","Silver","Miami","FL",25.893372,-80.18164
+"126",33162,1247500,NA,"Female","Black",18,"Miami","FL","","","Miami","FL",25.929571,-80.17839
+"127",33181,1203415,NA,"Female","Biracial",5,"North Miami","FL","","","Miami","FL",25.897372,-80.16048
+"128",33309,1220961,2013-09-08,"Male","Biracial",14,"Fort Lauderdale","FL","","","Fort Lauderdale","FL",26.185461,-80.17218
+"129",33311,1280962,2016-05-11,"Male","Black",3,"Fort Lauderdale","FL","Sedan, 4 door","Maroon","Fort Lauderdale","FL",26.13883,-80.16865
+"130",33312,1263419,NA,"Female","Black",0,"Fort Lauderdale","FL","","Dark","Fort Lauderdale","FL",26.094665,-80.17987
+"131",33404,1232016,2014-08-05,"Male","Black",2,"Riviera Beach","FL","Sedan, 4 door","Blue","West Palm Beach","FL",26.782114,-80.06528
+"132",33409,1225118,2013-08-11,"Male","Black",8,"West Palm Beach","FL","","","West Palm Beach","FL",26.709575,-80.09443
+"133",33460,1189898,NA,"Female","Black",12,"Lake Worth","FL","","","Lake Worth","FL",26.619695,-80.05676
+"134",33480,1271640,2016-03-07,"Male","White",15,"Palm Beach","FL","","","Palm Beach","FL",26.715067,-80.03937
+"135",33496,1203509,2012-01-10,"Female","Hispanic",14,"Boca Raton","FL","","","Boca Raton","FL",26.404353,-80.1627
+"136",33569,1204800,NA,"Female","Hispanic",11,"Riverview","FL","","","Riverview","FL",27.847802,-82.31799
+"137",33605,1221144,NA,"Male","Black",2,"Tampa","FL","","","Tampa","FL",27.963849,-82.43193
+"138",33617,1232347,NA,"Female","Black",9,"Temple Terrace","FL","","","Tampa","FL",28.039096,-82.39371
+"139",33712,1200157,NA,"Female","Biracial",17,"Saint Petersburg","FL","Sedan, 4 door","White","Saint Petersburg","FL",27.745355,-82.66572
+"140",33712,1270814,NA,"Male","Biracial",16,"Saint Petersburg","FL","","","Saint Petersburg","FL",27.745355,-82.66572
+"141",33908,1269206,NA,"Female","Hispanic",9,"Fort Myers","FL","Sedan, 4 door","","Fort Myers","FL",26.502677,-81.93052
+"142",33928,1234229,NA,"Male","White",2,"Estero","FL","","","Estero","FL",26.425671,-81.80196
+"143",33953,1235382,NA,"Female","White",10,"Port Charlotte","FL","","","Port Charlotte","FL",27.012758,-82.2112
+"144",34142,1209035,NA,"Female","White",2,"Immokalee","FL","","","Immokalee","FL",26.398248,-81.39325
+"145",34208,1251806,NA,"Male","Hispanic",18,"Bradenton","FL","","","Bradenton","FL",27.486448,-82.535
+"146",35211,1217921,NA,"Male","Black",0,"Birmingham","AL","","Silver","Birmingham","AL",33.479306,-86.85878
+"147",35501,1247463,2015-08-02,"Female","Hispanic",14,"Jasper","AL","Sedan, 4 door","Green","Jasper","AL",33.828412,-87.27632
+"148",36078,1264765,2016-09-03,"Female","Black",14,"Tallassee","AL","","","Tallassee","AL",32.553036,-85.9136
+"149",36426,1262427,2016-07-02,"Female","White",16,"Brewton","AL","","","Brewton","AL",31.129008,-87.10173
+"150",36607,1197561,NA,"Female","Black",14,"Mobile","AL","","","Mobile","AL",30.699539,-88.10474
+"151",36619,1199371,NA,"Female","White",19,"Mobile","AL","","","Mobile","AL",30.586808,-88.18552
+"152",36867,1251780,NA,"Male","Black",16,"Phenix City","AL","","","Phenix City","AL",32.492304,-85.01943
+"153",37013,1210639,2013-11-02,"Female","Black",16,"Antioch","TN","","","Antioch","TN",36.055115,-86.64782
+"154",37174,1222947,NA,"Male","White",11,"Spring Hill","TN","","","Spring Hill","TN",35.73062,-86.91144
+"155",37381,1220294,2013-12-06,"Female","White",17,"Spring City","TN","","","Spring City","TN",35.68801,-84.82777
+"156",37688,1257849,2015-11-11,"Female","White",16,"Shady Valley","TN","","","Shady Valley","TN",36.529827,-81.91718
+"157",38366,1260997,NA,"Male","White",2,"Pinson","TN","","","Pinson","TN",35.4832,-88.73125
+"158",38501,1193866,2012-02-05,"Female","White",15,"Cookeville","TN","","","Cookeville","TN",36.1832,-85.52054
+"159",38555,1232087,2014-10-05,"Female","White",1,"Crossville","TN","Sedan, 4 door","White","Crossville","TN",35.929314,-85.05926
+"160",38555,1232087,2014-10-05,"Female","White",6,"Crossville","TN","Sedan, 4 door","White","Crossville","TN",35.929314,-85.05926
+"161",38555,1232087,2014-10-05,"Female","White",3,"Crossville","TN","Sedan, 4 door","White","Crossville","TN",35.929314,-85.05926
+"162",39042,1224855,2013-01-11,"Male","Black",7,"Brandon","MS","","","Brandon","MS",32.237742,-89.93514
+"163",39047,1257848,2015-12-11,"Female","White",16,"Brandon","MS","","","Brandon","MS",32.39705,-89.98466
+"164",39358,1215022,NA,"Female","Black",6,"Scooba","MS","Sedan, 4 door","Gray","Scooba","MS",32.838485,-88.48707
+"165",41011,1205487,2012-02-11,"Female","Biracial",10,"Covington","KY","","","Covington","KY",39.0752,-84.52064
+"166",41042,1241748,NA,"Male","White",0,"Florence","KY","Sedan, 4 door","Blue","Florence","KY",38.983853,-84.64401
+"167",42134,1252643,2015-07-08,"Female","White",15,"Franklin","KY","","","Franklin","KY",36.718074,-86.58202
+"168",42134,1252643,2015-07-08,"Female","White",13,"Franklin","KY","","","Franklin","KY",36.718074,-86.58202
+"169",42166,1248658,NA,"Female","White",2,"Summer Shade","KY","","Red","Summer Shade","KY",36.86322,-85.71774
+"170",42764,1237329,2014-03-09,"Female","White",2,"Mount Sherman","KY","","","Mount Sherman","KY",37.463961,-85.639231
+"171",42765,1188200,NA,"Male","White",19,"Munfordville","KY","","","Munfordville","KY",37.291869,-85.90786
+"172",43130,1274275,NA,"Female","White",13,"Lancaster","OH","","","Lancaster","OH",39.712887,-82.61216
+"173",43348,1206517,NA,"Female","White",11,"Russells Point","OH","","","Russells Point","OH",40.469231,-83.88554
+"174",44054,1251989,NA,"Male","White",4,"Sheffield Lake","OH","","","Sheffield Lake","OH",41.48054,-82.09914
+"175",44095,1277535,NA,"Female","Biracial",12,"Willowick","OH","","","Eastlake","OH",41.653796,-81.44614
+"176",44130,1246428,NA,"Female","Black",19,"Cleveland","OH","Sedan, 4 door","Gray","Cleveland","OH",41.378051,-81.77945
+"177",44144,1257750,2015-08-11,"Female","White",15,"Brooklyn","OH","","","Cleveland","OH",41.437018,-81.73488
+"178",44446,1204151,2012-11-10,"Male","White",3,"Niles","OH","Sedan, 4 door","Silver","Niles","OH",41.186257,-80.75297
+"179",44450,1255486,2015-02-10,"Female","White",2,"North Bloomfield","OH","","","North Bloomfield","OH",41.449052,-80.81921
+"180",44511,1222275,2013-08-07,"Male","Black",18,"Youngstown","OH","","","Youngstown","OH",41.069158,-80.69134
+"181",44883,1230950,NA,"Male","White",18,"Tiffin","OH","","","Tiffin","OH",41.12071,-83.17658
+"182",45069,1266064,2016-09-04,"Female","White",18,"West Chester","OH","Sedan, 4 door","Black","West Chester","OH",39.343757,-84.40249
+"183",45174,1191008,NA,"Male","White",16,"Columbia Township","OH","","","Terrace Park","OH",39.161061,-84.30808
+"184",45504,1229006,NA,"Female","White",14,"Springfield","OH","","","Springfield","OH",39.941827,-83.83702
+"185",45640,1220072,NA,"Female","White",6,"Jackson","OH","","","Jackson","OH",39.034226,-82.63678
+"186",45801,1268094,2016-12-05,"Male","White",17,"Lima","OH","","","Lima","OH",40.759451,-84.08458
+"187",46001,1209498,2013-09-01,"Male","White",18,"Alexandria","IN","Sport Utility","Black","Alexandria","IN",40.257082,-85.673
+"188",46226,1210151,2013-01-02,"Female","Black",10,"Indianapolis","IN","","","Indianapolis","IN",39.83729,-86.05378
+"189",46582,1222873,NA,"Female","White",18,"Warsaw","IN","","","Warsaw","IN",41.281518,-85.81927
+"190",46805,1221397,NA,"Male","White",8,"Fort Wayne","IN","","","Fort Wayne","IN",41.098248,-85.12061
+"191",46816,1282057,NA,"Female","Asian",13,"Fort Wayne","IN","Sedan, 2 door","Black","Fort Wayne","IN",41.006281,-85.0692
+"192",46835,1264122,2016-09-03,"Male","Black",18,"Fort Wayne","IN","","","Fort Wayne","IN",41.138599,-85.05941
+"193",47172,1205349,2012-11-09,"Male","White",19,"Sellersburg","IN","Sedan, 4 door","Silver","Sellersburg","IN",38.387722,-85.75936
+"194",47711,1273312,NA,"Female","Biracial",19,"Evansville","IN","","","Evansville","IN",38.000442,-87.54178
+"195",48025,1210890,NA,"Female","White",16,"Beverly Hills","MI","","","Franklin","MI",42.524134,-83.25454
+"196",48044,1270848,2016-10-03,"Male","White",19,"Macomb","MI","","","Macomb","MI",42.650265,-82.93416
+"197",48060,1235022,2014-11-07,"Male","Black",5,"Port Huron","MI","","","Port Huron","MI",42.978974,-82.44402
+"198",48174,1248370,NA,"Male","White",1,"Romulus","MI","Sedan, 2 door","Red","Romulus","MI",42.212372,-83.37223
+"199",48205,1270365,NA,"Female","Black",0,"Detroit","MI","","","Detroit","MI",42.433703,-82.98068
+"200",48214,1262966,NA,"Female","White",4,"Detroit","MI","Sport Utility","Black","Detroit","MI",42.368137,-82.99314
+"201",48336,1221004,2013-10-08,"Female","Black",13,"Farmington Hills","MI","","","Farmington","MI",42.458502,-83.3464
+"202",48455,1211651,2013-01-03,"Male","White",13,"Metamora","MI","","","Metamora","MI",42.938891,-83.29409
+"203",48602,1188523,2012-03-02,"Male","Biracial",9,"Saginaw","MI","Sedan, 4 door","Maroon","Saginaw","MI",43.423925,-83.97142
+"204",48602,1188523,2012-03-02,"Female","Biracial",6,"Saginaw","MI","Sedan, 4 door","Maroon","Saginaw","MI",43.423925,-83.97142
+"205",48809,1222845,NA,"Male","White",10,"Belding","MI","","","Belding","MI",43.085313,-85.24478
+"206",49098,1265460,NA,"Female","White",15,"Watervliet","MI","","","Watervliet","MI",42.186679,-86.25718
+"207",49338,1223843,2013-08-10,"Female","White",2,"Paris","MI","","","Paris","MI",43.764906,-85.57223
+"208",49419,1224372,NA,"Female","Am. Ind.",13,"Hamilton","MI","Coupe","Orange","Hamilton","MI",42.679762,-85.98996
+"209",49548,1201338,NA,"Male","White",15,"Wyoming","MI","","","Grand Rapids","MI",42.868228,-85.66391
+"210",49614,1203248,NA,"Female","Black",10,"Bear Lake","MI","","","Bear Lake","MI",44.433903,-86.12625
+"211",49735,1256398,NA,"Female","White",15,"Gaylord","MI","","","Gaylord","MI",44.989608,-84.67492
+"212",50703,1267323,NA,"Female","Black",15,"Waterloo","IA","Sedan, 4 door","Silver","Waterloo","IA",42.513636,-92.32418
+"213",50707,1198725,NA,"Female","White",10,"Evansdale","IA","","","Evansdale","IA",42.477887,-92.28275
+"214",50707,1198726,NA,"Female","White",8,"Evansdale","IA","","","Evansdale","IA",42.477887,-92.28275
+"215",52501,1256751,NA,"Female","White",13,"Ottumwa","IA","","Yellow","Ottumwa","IA",41.023872,-92.41741
+"216",53086,1223737,2013-03-10,"Male","White",18,"Slinger","WI","Pickup Truck","Blue","Slinger","WI",43.33278,-88.27907
+"217",53189,1278084,2016-02-10,"Male","Asian",10,"Waukesha","WI","","","Waukesha","WI",42.967394,-88.264
+"218",53208,1212871,NA,"Female","Black",9,"Milwaukee","WI","","","Milwaukee","WI",43.047863,-87.96618
+"219",53208,1212871,NA,"Female","Black",4,"Milwaukee","WI","","","Milwaukee","WI",43.047863,-87.96618
+"220",53704,1274015,NA,"Female","Asian",18,"Madison","WI","","","Madison","WI",43.121416,-89.34968
+"221",53821,1236673,NA,"Female","White",16,"Prairie Du Chien","WI","Sport Utility","","Prairie Du Chien","WI",43.036566,-91.11838
+"222",54011,1198002,2012-03-07,"Male","White",5,"Oak Grove","WI","","","Ellsworth","WI",44.718955,-92.46651
+"223",54102,1192068,NA,"Female","Biracial",10,"Amberg","WI","Sport Utility","Maroon","Amberg","WI",45.503625,-88.08108
+"224",54165,1247113,2015-01-03,"Female","Black",19,"Seymour","WI","","","Seymour","WI",44.51523,-88.31075
+"225",55130,1241214,NA,"Female","Biracial",20,"Saint Paul","MN","Sedan, 4 door","Black","Saint Paul","MN",44.97,-93.08
+"226",55407,1277097,2016-01-09,"Female","Black",10,"Minneapolis","MN","","","Minneapolis","MN",44.934915,-93.25424
+"227",55407,1279615,NA,"Male","Black",10,"Minneapolis","MN","","","Minneapolis","MN",44.934915,-93.25424
+"228",55422,1245852,NA,"Male","Black",10,"Crystal","MN","","","Minneapolis","MN",45.014764,-93.33965
+"229",55904,1269646,2016-04-06,"Male","Black",10,"Rochester","MN","","","Rochester","MN",43.988708,-92.42937
+"230",56601,1270879,NA,"Female","White",5,"Bemidji","MN","","","Bemidji","MN",47.504496,-94.87105
+"231",56601,1281567,NA,"Male","Am. Ind.",17,"Bemidji","MN","","","Bemidji","MN",47.504496,-94.87105
+"232",56721,1220809,2013-07-08,"Male","White",11,"East Grand Forks","MN","","","East Grand Forks","MN",47.956458,-96.98774
+"233",59201,1263413,NA,"Female","Am. Ind.",4,"Wolf Point","MT","","","Wolf Point","MT",48.126066,-105.65893
+"234",59255,1266643,NA,"Female","Am. Ind.",1,"Poplar","MT","","Silver","Poplar","MT",48.136011,-105.16175
+"235",59405,1274537,2016-12-08,"Female","White",1,"Great Falls","MT","","","Great Falls","MT",47.476152,-111.26909
+"236",59749,1273862,2016-02-08,"Female","White",16,"Sheridan","MT","Pickup Truck","Black","Sheridan","MT",45.528809,-112.1097
+"237",60014,1244930,2015-01-03,"Male","Hispanic",18,"Crystal Lake","IL","","","Crystal Lake","IL",42.226623,-88.33066
+"238",60041,1280579,2016-01-11,"Male","White",14,"Ingleside","IL","","","Ingleside","IL",42.372721,-88.15303
+"239",60067,1189325,NA,"Male","Hispanic",8,"Palatine","IL","Sedan, 4 door","Silver","Palatine","IL",42.10979,-88.04917
+"240",60076,1235668,NA,"Female","Black",10,"Skokie","IL","","","Skokie","IL",42.03618,-87.7321
+"241",60077,1238311,NA,"Male","White",8,"Skokie","IL","","","Skokie","IL",42.033313,-87.75764
+"242",60201,1203170,NA,"Male","Asian",18,"Evanston","IL","","","Evanston","IL",42.056391,-87.69684
+"243",60473,1207269,2012-06-12,"Male","Black",9,"South Holland","IL","","","South Holland","IL",41.597472,-87.59909
+"244",60505,1264849,NA,"Female","Biracial",15,"Aurora","IL","","","Aurora","IL",41.756129,-88.29699
+"245",60619,1199097,NA,"Male","Black",5,"Chicago","IL","","","Chicago","IL",41.744834,-87.60444
+"246",60630,1246412,2015-04-04,"Female","Biracial",13,"Chicago","IL","","","Chicago","IL",41.971044,-87.75869
+"247",60637,1197137,NA,"Male","Black",15,"Chicago","IL","","","Chicago","IL",41.779384,-87.60544
+"248",60651,1202063,NA,"Female","Black",10,"Chicago","IL","","","Chicago","IL",41.901485,-87.74055
+"249",60804,1257489,2015-04-11,"Female","Hispanic",12,"Cicero","IL","","","Cicero","IL",41.844382,-87.7599
+"250",60827,1220243,NA,"Male","Black",7,"Riverdale","IL","","","Riverdale","IL",41.649717,-87.63292
+"251",60901,1248566,NA,"Male","Black",10,"Kankakee","IL","","","Kankakee","IL",41.114132,-87.86784
+"252",61104,1254919,NA,"Male","Black",2,"Rockford","IL","Sport Utility","Maroon","Rockford","IL",42.25537,-89.07602
+"253",62691,1251084,2015-07-07,"Female","White",16,"Virginia","IL","Convertible","Blue","Virginia","IL",39.952909,-90.21218
+"254",62946,1242652,NA,"Male","White",19,"Harrisburg","IL","Sport Utility","Black","Harrisburg","IL",37.725834,-88.54208
+"255",63044,1194432,2012-06-05,"Female","White",2,"Bridgeton","MO","","","Bridgeton","MO",38.757318,-90.42335
+"256",63104,1193101,NA,"Female","Black",3,"Saint Louis","MO","","","Saint Louis","MO",38.610701,-90.21362
+"257",63134,1188923,2012-10-02,"Male","Black",0,"Berkeley","MO","Sport Utility","Silver","Saint Louis","MO",38.738217,-90.33904
+"258",63136,1220075,NA,"Male","Black",12,"Saint Louis","MO","","","Saint Louis","MO",38.73835,-90.26154
+"259",63137,1240651,NA,"Male","Black",19,"Saint Louis","MO","","","Saint Louis","MO",38.748183,-90.21864
+"260",63304,1209169,NA,"Female","White",16,"Cottleville","MO","Truck","Gray","Saint Charles","MO",38.72926,-90.65332
+"261",63901,1204922,NA,"Female","Biracial",5,"Poplar Bluff","MO","Sport Utility","Silver","Poplar Bluff","MO",36.759357,-90.41689
+"262",64024,1237045,NA,"Female","White",3,"Excelsior Springs","MO","Unknown","Blue","Excelsior Springs","MO",39.340332,-94.22601
+"263",64052,1190455,2012-07-03,"Female","White",15,"Independence","MO","","","Independence","MO",39.076405,-94.44943
+"264",64083,1284316,NA,"Male","Black",19,"Raymore","MO","","","Raymore","MO",38.803528,-94.45103
+"265",64119,1213619,2013-07-04,"Female","White",5,"Gladstone","MO","","Green","Kansas City","MO",39.202654,-94.51816
+"266",64132,1228579,NA,"Male","Black",9,"Kansas City","MO","","","Kansas City","MO",38.991406,-94.551
+"267",64642,1220938,2013-08-08,"Female","White",15,"Gilman City","MO","Pickup Truck","Silver","Gilman City","MO",40.154895,-93.8395
+"268",64770,1246118,NA,"Female","White",13,"Montrose","MO","Pickup Truck","Black","Montrose","MO",38.277754,-93.98973
+"269",65109,1226663,NA,"Male","Biracial",6,"Jefferson City","MO","Sedan, 4 door","Maroon","Jefferson City","MO",38.568287,-92.25329
+"270",65560,1277400,NA,"Female","White",13,"Salem","MO","Pickup Truck","White","Salem","MO",37.630896,-91.51423
+"271",65775,1264226,2016-11-03,"Female","White",14,"West Plains","MO","","","West Plains","MO",36.719145,-91.87408
+"272",65802,1228708,NA,"Female","White",10,"Springfield","MO","Pickup Truck","Gold","Springfield","MO",37.212639,-93.31817
+"273",65803,1264834,NA,"Female","White",16,"Springfield","MO","Pickup Truck","Red","Springfield","MO",37.257053,-93.29015
+"274",65803,1211666,2013-02-03,"Female","Biracial",1,"Springfield","MO","Sedan, 4 door","Gray","Springfield","MO",37.257053,-93.29015
+"275",66048,1198086,2012-04-07,"Female","White",16,"Leavenworth","KS","","White","Leavenworth","KS",39.298776,-94.93555
+"276",66441,1268704,NA,"Male","Black",6,"Junction City","KS","","","Junction City","KS",39.01585,-96.83653
+"277",67042,1195744,NA,"Female","White",12,"El Dorado","KS","Sedan, 4 door","White","El Dorado","KS",37.830417,-96.84294
+"278",67202,1267815,2016-08-05,"Female","Black",2,"Wichita","KS","","","Wichita","KS",37.686992,-97.33362
+"279",67212,1281896,NA,"Female","Hispanic",0,"Wichita","KS","","","Wichita","KS",37.700632,-97.4343
+"280",67214,1273146,NA,"Female","Hispanic",14,"Wichita","KS","","","Wichita","KS",37.705384,-97.31777
+"281",68352,1262987,NA,"Male","White",0,"Fairbury","NE","Station Wagon","Brown","Fairbury","NE",40.151358,-97.20374
+"282",70058,1219378,NA,"Female","Black",6,"Harvey","LA","","","Harvey","LA",29.878578,-90.06903
+"283",70086,1234541,NA,"Female","Black",12,"Saint James","LA","","","Saint James","LA",30.013027,-90.85714
+"284",70529,1193817,NA,"Female","Black",15,"Duson","LA","Sedan, 4 door","Silver","Duson","LA",30.198258,-92.16211
+"285",70533,1223375,NA,"Male","White",20,"Erath","LA","","","Erath","LA",29.941157,-92.03811
+"286",70592,1276967,NA,"Male","Black",6,"Youngsville","LA","","","Youngsville","LA",30.103107,-91.99993
+"287",71111,1242306,2015-04-01,"Male","Black",14,"Bossier City","LA","","","Bossier City","LA",32.552315,-93.70836
+"288",71360,1255570,2015-05-10,"Male","Black",14,"Pineville","LA","","","Pineville","LA",31.352105,-92.4006
+"289",71486,1260302,NA,"Male","Black",7,"Zwolle","LA","Sport Utility","","Zwolle","LA",31.597407,-93.66397
+"290",72396,1247991,2013-01-12,"Male","White",20,"Wynne","AR","","","Wynne","AR",35.229779,-90.83237
+"291",72450,1207337,2012-07-12,"Female","White",14,"Paragould","AR","Sport Utility","Bronze","Paragould","AR",36.065711,-90.5102
+"292",72476,1212127,2013-09-03,"Female","White",14,"Walnut Ridge","AR","","","Walnut Ridge","AR",36.068015,-90.94429
+"293",72663,1202433,2012-11-09,"Male","White",3,"Onia","AR","","","Onia","AR",35.927802,-92.32249
+"294",73084,1196350,2012-08-06,"Female","Black",2,"Spencer","OK","Sport Utility","Black","Spencer","OK",35.52106,-97.34173
+"295",73533,1270170,2016-12-06,"Male","White",8,"Duncan","OK","","","Duncan","OK",34.502833,-97.95185
+"296",73533,1238449,NA,"Female","White",6,"Duncan","OK","","","Duncan","OK",34.502833,-97.95185
+"297",73533,1238449,NA,"Male","White",0,"Duncan","OK","","","Duncan","OK",34.502833,-97.95185
+"298",74354,1255407,NA,"Female","White",15,"Miami","OK","","","Miami","OK",36.880746,-94.87142
+"299",74447,1263263,2016-02-02,"Female","White",20,"Okmulgee","OK","","","Okmulgee","OK",35.628612,-95.9734
+"300",75051,1223582,NA,"Female","Hispanic",18,"Grand Prairie","TX","","","Grand Prairie","TX",32.728982,-97.00428
+"301",75203,1271193,NA,"Male","Hispanic",10,"Dallas","TX","","","Dallas","TX",32.745831,-96.80672
+"302",75455,1215276,2013-05-05,"Female","Hispanic",14,"Mount Pleasant","TX","Pickup Truck","Brown","Mount Pleasant","TX",33.166739,-94.9814
+"303",75604,1282896,NA,"Male","White",16,"Longview","TX","","","Longview","TX",32.523779,-94.80692
+"304",75757,1280574,2016-01-11,"Female","Hispanic",10,"Bullard","TX","","","Bullard","TX",32.136787,-95.3671
+"305",75961,1228981,NA,"Female","Hispanic",15,"Nacogdoches","TX","Sedan, 4 door","Silver","Nacogdoches","TX",31.626011,-94.60338
+"306",76021,1227965,NA,"Female","Black",11,"Bedford","TX","","","Bedford","TX",32.851678,-97.13849
+"307",76107,1280064,NA,"Male","Black",16,"Fort Worth","TX","","","Fort Worth","TX",32.738481,-97.38424
+"308",76248,1214798,NA,"Male","Biracial",10,"Keller","TX","","","Keller","TX",32.92704,-97.2506
+"309",77014,1269962,2016-08-06,"Female","Black",11,"Houston","TX","","","Houston","TX",29.979063,-95.47294
+"310",77044,1198224,2012-06-07,"Male","Black",7,"Houston","TX","Sedan, 4 door","Black","Houston","TX",29.88277,-95.16782
+"311",77063,1187295,2012-12-01,"Male","Black",1,"Houston","TX","Sedan, 4 door","Green","Houston","TX",29.734379,-95.52269
+"312",77327,1230681,2014-08-04,"Female","White",16,"Cleveland","TX","","","Cleveland","TX",30.35469,-95.04514
+"313",77355,1230966,NA,"Female","White",14,"Magnolia","TX","","","Magnolia","TX",30.158706,-95.74464
+"314",77380,1192820,NA,"Male","White",0,"Spring","TX","Sedan, 4 door","Blue","Spring","TX",30.143485,-95.46821
+"315",77498,1194166,2012-07-05,"Male","Asian",9,"Sugar Land","TX","Sedan, 4 door","Red","Sugar Land","TX",29.63,-95.65
+"316",77713,1260992,2016-08-01,"Male","Black",8,"Beaumont","TX","Sedan, 4 door","Dark","Beaumont","TX",30.090135,-94.2467
+"317",77995,1270521,NA,"Female","Black",6,"Yoakum","TX","Sedan, 4 door","White","Yoakum","TX",29.254632,-97.13046
+"318",78332,1251170,2015-08-07,"Male","Hispanic",7,"Alice","TX","Sedan, 4 door","White","Alice","TX",27.737965,-98.09302
+"319",78355,1200867,2012-09-08,"Female","Hispanic",12,"Falfurrias","TX","","","Falfurrias","TX",27.217893,-98.16479
+"320",78416,1231795,2014-02-05,"Male","Hispanic",10,"Corpus Christi","TX","","","Corpus Christi","TX",27.752356,-97.43465
+"321",78521,1277682,NA,"Female","Hispanic",14,"Brownsville","TX","Sedan, 4 door","Black","Brownsville","TX",25.918758,-97.42739
+"322",78724,1224877,2013-01-11,"Male","Biracial",9,"Austin","TX","","","Austin","TX",30.294148,-97.62863
+"323",79252,1262242,2016-05-02,"Male","White",16,"Quanah","TX","","","Quanah","TX",34.297126,-99.77713
+"324",79322,1208747,2013-03-01,"Female","Hispanic",1,"Crosbyton","TX","","Red","Crosbyton","TX",33.653787,-101.22866
+"325",79403,1246525,2015-07-04,"Female","Black",2,"Lubbock","TX","Sport Utility","Tan","Lubbock","TX",33.614934,-101.8067
+"326",79414,1225920,NA,"Female","Hispanic",18,"Lubbock","TX","","","Lubbock","TX",33.550335,-101.91661
+"327",79706,1264407,2015-10-10,"Male","Hispanic",19,"Midland","TX","","","Midland","TX",31.880341,-101.96324
+"328",79706,1264408,2015-10-10,"Female","Hispanic",18,"Midland","TX","","","Midland","TX",31.880341,-101.96324
+"329",79927,1258884,2015-01-12,"Female","Hispanic",16,"El Paso","TX","","","El Paso","TX",31.684338,-106.20788
+"330",80011,1272949,NA,"Female","Black",16,"Aurora","CO","","","Aurora","CO",39.739737,-104.80905
+"331",80020,1232409,NA,"Female","White",19,"Broomfield","CO","","","Broomfield","CO",39.93404,-105.05454
+"332",80534,1209512,NA,"Female","White",16,"Johnstown","CO","","","Johnstown","CO",40.335398,-104.91477
+"333",81001,1223931,2013-01-10,"Female","White",18,"Pueblo","CO","","","Pueblo","CO",38.282872,-104.57029
+"334",81004,1187645,NA,"Female","Hispanic",9,"Pueblo","CO","","","Pueblo","CO",38.197344,-104.6331
+"335",81120,1253192,NA,"Male","White",18,"Antonito","CO","","","Antonito","CO",37.086403,-106.08325
+"336",82301,1231473,NA,"Female","White",13,"Rawlins","WY","","","Rawlins","WY",41.971581,-107.29475
+"337",82426,1279806,NA,"Male","White",16,"Greybull","WY","Sport Utility","Camouflage","Greybull","WY",44.500759,-108.03102
+"338",82426,1279805,NA,"Male","White",16,"Greybull","WY","Sport Utility","Camouflage","Greybull","WY",44.500759,-108.03102
+"339",83110,1235685,NA,"Male","White",3,"Afton","WY","Van","Red","Afton","WY",42.681301,-110.92196
+"340",83334,1225000,2013-05-11,"Female","White",17,"Hansen","ID","","","Hansen","ID",42.482046,-114.299
+"341",83651,1283027,2016-03-10,"Male","White",18,"Nampa","ID","","","Nampa","ID",43.583454,-116.58697
+"342",84044,1249602,2015-08-06,"Male","White",15,"Magna","UT","","","Magna","UT",40.700162,-112.08318
+"343",84096,1208907,2013-08-01,"Female","White",13,"Herriman","UT","","","Herriman","UT",40.48,-112.07
+"344",84119,1229206,2014-03-03,"Female","Hispanic",12,"Salt Lake City","UT","","","Salt Lake City","UT",40.696596,-111.95239
+"345",84631,1206938,NA,"Female","White",9,"Fillmore","UT","","","Fillmore","UT",38.951694,-112.31666
+"346",85206,1278620,2016-09-10,"Female","White",9,"Mesa","AZ","","","Mesa","AZ",33.400306,-111.72452
+"347",85247,1231533,NA,"Male","Am. Ind.",2,"Coolidge","AZ","Station Wagon","Blue, Light","Sacaton","AZ",33.107581,-111.75128
+"348",85281,1221108,NA,"Female","Hispanic",19,"Tempe","AZ","","","Tempe","AZ",33.426885,-111.92733
+"349",85326,1272890,NA,"Male","Black",10,"Buckeye","AZ","","","Buckeye","AZ",33.354418,-112.56941
+"350",85541,1235260,2014-12-07,"Male","Am. Ind.",18,"Payson","AZ","","","Payson","AZ",34.243578,-111.28137
+"351",85543,1243537,NA,"Female","White",17,"Pima","AZ","","","Pima","AZ",32.90375,-109.84995
+"352",85711,1193092,NA,"Female","Hispanic",6,"Tucson","AZ","","","Tucson","AZ",32.216326,-110.88511
+"353",86303,1249353,2015-04-06,"Female","Black",14,"Prescott","AZ","","","Prescott","AZ",34.515939,-112.45399
+"354",86337,1208583,2013-05-01,"Male","White",7,"Seligman","AZ","","","Seligman","AZ",35.334394,-113.05774
+"355",86442,1237246,2014-01-09,"Female","White",8,"Bullhead City","AZ","","","Bullhead City","AZ",35.097719,-114.59734
+"356",87031,1265979,2016-08-04,"Female","White",20,"Los Lunas","NM","","","Los Lunas","NM",34.786133,-106.70536
+"357",87112,1230313,NA,"Female","White",14,"Albuquerque","NM","Hatchback/Fastback","","Albuquerque","NM",35.100796,-106.52067
+"358",87124,1239837,NA,"Female","White",10,"Rio Rancho","NM","","","Rio Rancho","NM",35.290647,-106.71469
+"359",87124,1251274,2015-09-07,"Female","Hispanic",16,"Rio Rancho","NM","Convertible","Gray","Rio Rancho","NM",35.290647,-106.71469
+"360",87505,1224677,NA,"Male","White",10,"Santa Fe","NM","Sedan, 4 door","Green","Santa Fe","NM",35.616662,-105.97926
+"361",87701,1219282,NA,"Female","Hispanic",19,"Las Vegas","NM","Sedan, 4 door","Purple","Las Vegas","NM",35.594103,-105.08142
+"362",88030,1190242,NA,"Female","Hispanic",6,"Deming","NM","","","Deming","NM",32.223023,-107.71282
+"363",88130,1266913,NA,"Female","Hispanic",16,"Portales","NM","Sport Utility","Unknown","Portales","NM",34.166231,-103.34255
+"364",88220,1190117,2012-03-03,"Male","Biracial",4,"Carlsbad","NM","","","Carlsbad","NM",32.408311,-104.29134
+"365",89014,1201790,NA,"Female","Hispanic",17,"Henderson","NV","Sedan, 2 door","Red","Henderson","NV",36.045811,-115.0778
+"366",89106,1208078,NA,"Female","Black",10,"Las Vegas","NV","","","Las Vegas","NV",36.184219,-115.16292
+"367",89110,1202911,NA,"Male","Hispanic",18,"Las Vegas","NV","","","Las Vegas","NV",36.172744,-115.05795
+"368",89449,1208490,2013-01-01,"Female","White",19,"Lakeridge","NV","","","Stateline","NV",38.968383,-119.91364
+"369",90008,1237365,NA,"Male","Black",20,"Los Angeles","CA","","","Los Angeles","CA",34.009754,-118.33705
+"370",90012,1234535,NA,"Male","Hispanic",18,"Los Angeles","CA","","","Los Angeles","CA",34.061611,-118.23944
+"371",90032,1189748,NA,"Male","Black",11,"Los Angeles","CA","","","Los Angeles","CA",34.08166,-118.17568
+"372",90032,1269482,NA,"Female","Hispanic",1,"Los Angeles","CA","","","Los Angeles","CA",34.08166,-118.17568
+"373",90037,1234645,2014-04-03,"Male","Hispanic",19,"Los Angeles","CA","","","Los Angeles","CA",34.002063,-118.28737
+"374",90047,1222308,2013-04-09,"Male","Black",12,"Los Angeles","CA","","","Los Angeles","CA",33.958464,-118.30998
+"375",90059,1234643,NA,"Male","Black",18,"Los Angeles","CA","","","Los Angeles","CA",33.927471,-118.24778
+"376",90061,1246885,NA,"Male","Hispanic",18,"Los Angeles","CA","","","Los Angeles","CA",33.923365,-118.27591
+"377",90066,1245963,NA,"Female","Biracial",15,"Los Angeles","CA","","","Los Angeles","CA",34.002011,-118.43083
+"378",90242,1201527,NA,"Female","White",2,"Downey","CA","Sedan, 2 door","Blue","Downey","CA",33.92018,-118.14291
+"379",90255,1189606,2012-03-01,"Male","Hispanic",20,"Huntington Park","CA","Sedan, 4 door","Brown","Huntington Park","CA",33.978404,-118.21773
+"380",90305,1218531,NA,"Female","Black",17,"Inglewood","CA","","White","Inglewood","CA",33.960263,-118.3252
+"381",90640,1260666,2016-07-01,"Male","Hispanic",1,"Montebello","CA","Van","Red","Montebello","CA",34.014212,-118.11358
+"382",90805,1242299,2015-03-01,"Female","Hispanic",0,"Long Beach","CA","","","Long Beach","CA",33.865916,-118.18362
+"383",90806,1195358,NA,"Female","Black",13,"Long Beach","CA","","Black","Long Beach","CA",33.801767,-118.1858
+"384",90806,1195358,NA,"Female","Black",9,"Long Beach","CA","","Black","Long Beach","CA",33.801767,-118.1858
+"385",90810,1196384,2012-09-06,"Male","Black",6,"Cabrillo","CA","","","Long Beach","CA",33.816217,-118.21495
+"386",90810,1196385,2012-09-06,"Female","Black",8,"Cabrillo","CA","","","Long Beach","CA",33.816217,-118.21495
+"387",90813,1204075,2012-10-10,"Female","Hispanic",15,"Long Beach","CA","","","Long Beach","CA",33.781011,-118.19197
+"388",91101,1253279,2015-05-08,"Female","Biracial",18,"Pasadena","CA","","","Pasadena","CA",34.146607,-118.1391
+"389",91306,1198963,NA,"Female","Black",13,"Winnetka","CA","","","Winnetka","CA",34.209407,-118.57735
+"390",91324,1213042,NA,"Female","White",10,"Northridge","CA","","","Northridge","CA",34.240353,-118.55038
+"391",91343,1252944,2015-11-08,"Female","Biracial",12,"North Hills","CA","","","North Hills","CA",34.239503,-118.48224
+"392",91343,1248194,2015-12-05,"Female","Black",18,"North Hills","CA","","","North Hills","CA",34.239503,-118.48224
+"393",91384,1222511,NA,"Male","White",19,"Castaic","CA","","","Castaic","CA",34.478797,-118.65255
+"394",91405,1197557,NA,"Male","Hispanic",10,"Van Nuys","CA","","","Van Nuys","CA",34.199704,-118.44724
+"395",91732,1199528,2012-11-06,"Female","Hispanic",18,"El Monte","CA","","","El Monte","CA",34.070659,-118.01383
+"396",91732,1196339,2012-07-06,"Male","Black",16,"El Monte","CA","","","El Monte","CA",34.070659,-118.01383
+"397",91762,1206029,NA,"Female","Hispanic",14,"Ontario","CA","","","Ontario","CA",34.057561,-117.66563
+"398",91766,1224490,NA,"Male","Black",9,"Pomona","CA","","","Pomona","CA",34.045584,-117.75305
+"399",91935,1263274,NA,"Male","White",16,"Jamul","CA","","","Jamul","CA",32.718186,-116.82606
+"400",92020,1256535,NA,"Male","Am. Ind.",20,"El Cajon","CA","","","El Cajon","CA",32.7991,-116.97334
+"401",92040,1220640,2013-03-08,"Female","White",16,"Lakeside","CA","Convertible","Silver","Lakeside","CA",32.873849,-116.90477
+"402",92112,1254435,2015-12-09,"Male","Black",4,"San Diego","CA","","","San Diego","CA",33.016928,-116.846046
+"403",92223,1228552,NA,"Male","White",10,"Beaumont","CA","","","Beaumont","CA",33.945265,-116.9759
+"404",92223,1267179,NA,"Female","Hispanic",14,"Beaumont","CA","","","Beaumont","CA",33.945265,-116.9759
+"405",92251,1221762,NA,"Male","Biracial",14,"Imperial","CA","","","Imperial","CA",32.853471,-115.58942
+"406",92504,1200808,2012-01-08,"Female","Hispanic",14,"Riverside","CA","","","Riverside","CA",33.926315,-117.40937
+"407",92584,1218978,2013-06-07,"Male","White",11,"Menifee","CA","","","Menifee","CA",33.66035,-117.18987
+"408",92595,1204098,2012-10-10,"Male","Hispanic",17,"Wildomar","CA","","","Wildomar","CA",33.614385,-117.2608
+"409",92595,1225003,2013-05-11,"Male","Hispanic",18,"Wildomar","CA","","","Wildomar","CA",33.614385,-117.2608
+"410",92630,1208058,NA,"Female","Hispanic",3,"Lake Forrest","CA","","","Lake Forest","CA",33.640223,-117.69108
+"411",93230,1205249,NA,"Female","Hispanic",16,"Hanford","CA","","","Hanford","CA",36.327063,-119.6451
+"412",93234,1231451,NA,"Female","White",3,"Huron","CA","","","Huron","CA",36.209815,-120.0847
+"413",93257,1262851,NA,"Male","Hispanic",10,"Porterville","CA","","","Porterville","CA",36.055121,-119.01595
+"414",93257,1249958,NA,"Male","Hispanic",10,"Porterville","CA","","","Porterville","CA",36.055121,-119.01595
+"415",93420,1210856,NA,"Female","White",12,"Arroyo Grande","CA","","","Arroyo Grande","CA",35.119678,-120.55116
+"416",93620,1240551,NA,"Male","Hispanic",14,"Dos Palos","CA","","","Dos Palos","CA",37.029613,-120.64014
+"417",93727,1198730,NA,"Female","Black",6,"Fresno","CA","","","Fresno","CA",36.753177,-119.69703
+"418",94043,1200103,2012-02-08,"Female","White",11,"Mountain View","CA","Sport Utility","Red","Mountain View","CA",37.40679,-122.07461
+"419",94102,1218566,NA,"Male","Biracial",19,"San Francisco","CA","","","San Francisco","CA",37.779329,-122.41915
+"420",94521,1197838,NA,"Female","Asian",15,"Concord","CA","","","Concord","CA",37.957772,-121.97709
+"421",94578,1265642,NA,"Female","Black",12,"San Leandro","CA","","","San Leandro","CA",37.703427,-122.128
+"422",94605,1232154,2014-12-05,"Female","Black",7,"Oakland","CA","","","Oakland","CA",37.763028,-122.16305
+"423",94612,1269821,2016-01-02,"Female","Black",2,"Oakland","CA","Sedan, 4 door","Gray","Oakland","CA",37.809427,-122.27172
+"424",95023,1222017,NA,"Female","Hispanic",14,"Hollister","CA","Truck","Silver","Hollister","CA",36.862243,-121.38006
+"425",95060,1252041,NA,"Female","White",8,"Santa Cruz","CA","","","Santa Cruz","CA",36.980556,-122.04603
+"426",95111,1237481,2014-06-09,"Male","Hispanic",6,"San Jose","CA","","","San Jose","CA",37.284042,-121.82664
+"427",95112,1227268,2014-10-01,"Male","Black",17,"San Jose","CA","","","San Jose","CA",37.348541,-121.88627
+"428",95122,1212908,NA,"Female","Hispanic",0,"San Jose","CA","","White","San Jose","CA",37.329641,-121.83359
+"429",95207,1207194,2012-03-11,"Male","Hispanic",11,"Stockton","CA","","Blue","Stockton","CA",38.004172,-121.3237
+"430",95422,1232944,NA,"Male","White",9,"Clearlake","CA","","","Clearlake","CA",38.956206,-122.63523
+"431",95422,1215793,2013-12-05,"Female","White",9,"Clearlake","CA","","","Clearlake","CA",38.956206,-122.63523
+"432",95453,1243457,NA,"Female","White",15,"Lakeport","CA","","","Lakeport","CA",39.051698,-122.92071
+"433",95482,1200727,NA,"Female","Am. Ind.",10,"Ukiah","CA","","","Ukiah","CA",39.154946,-123.20088
+"434",95501,1245708,NA,"Male","Biracial",13,"Eureka","CA","","","Eureka","CA",40.793739,-124.16102
+"435",95501,1245708,NA,"Female","Biracial",11,"Eureka","CA","","","Eureka","CA",40.793739,-124.16102
+"436",95621,1209946,NA,"Male","White",7,"Citrus Heights","CA","Sport Utility","Silver","Citrus Heights","CA",38.695252,-121.3081
+"437",95757,1191846,NA,"Female","White",15,"Elk Grove","CA","","","Elk Grove","CA",38.35,-121.42
+"438",95825,1198036,NA,"Female","White",19,"Sacramento","CA","","","Sacramento","CA",38.594205,-121.40726
+"439",95828,1212953,NA,"Female","Black",5,"Sacramento","CA","","","Sacramento","CA",38.484747,-121.4024
+"440",95959,1251723,NA,"Female","White",10,"Nevada City","CA","","","Nevada City","CA",39.299405,-120.95144
+"441",95959,1243192,NA,"Female","White",11,"Nevada City","CA","","","Nevada City","CA",39.299405,-120.95144
+"442",95965,1225117,2013-08-11,"Male","White",10,"Oroville","CA","","","Oroville","CA",39.558586,-121.58923
+"443",95969,1263356,NA,"Female","White",10,"Paradise","CA","","","Paradise","CA",39.750422,-121.61026
+"444",97045,1225984,2013-03-12,"Female","White",13,"Oregon City","OR","","","Oregon City","OR",45.344246,-122.58464
+"445",97355,1222529,2013-03-09,"Female","White",15,"Lebanon","OR","Sport Utility","Gray","Lebanon","OR",44.527304,-122.85512
+"446",97404,1217270,2013-05-06,"Male","White",13,"Eugene","OR","","","Eugene","OR",44.101227,-123.13604
+"447",98003,1193263,NA,"Male","White",16,"Federal Way","WA","","","Federal Way","WA",47.311072,-122.31188
+"448",98019,1209780,NA,"Female","Am. Ind.",16,"Duvall","WA","","","Duvall","WA",47.7353,-121.96222
+"449",98146,1221515,NA,"Female","White",15,"Seattle","WA","","","Seattle","WA",47.501753,-122.35688
+"450",98258,1283255,NA,"Male","Black",18,"Lake Stevens","WA","","","Lake Stevens","WA",48.028355,-122.06327
+"451",98337,1220752,NA,"Male","White",20,"Bremerton","WA","","","Bremerton","WA",47.569167,-122.63479
+"452",98387,1195170,2012-09-02,"Male","White",18,"Spanaway","WA","","","Spanaway","WA",47.077796,-122.40517
+"453",98406,1206028,NA,"Female","White",16,"Tacoma","WA","","","Tacoma","WA",47.26302,-122.49518
+"454",98444,1204255,NA,"Male","White",19,"Tacoma","WA","","","Tacoma","WA",47.153571,-122.4485
+"455",99004,1241171,NA,"Female","White",15,"Cheney","WA","","","Cheney","WA",47.466974,-117.60575
+"456",99205,1192768,NA,"Female","White",14,"Spokane","WA","","","Spokane","WA",47.69399,-117.43979
+"457",99336,1226031,2013-04-12,"Female","Hispanic",14,"Kennewick","WA","Sport Utility","Green, Dark","Kennewick","WA",46.210957,-119.16369
+"458",99362,1241964,NA,"Male","White",20,"Walla Walla","WA","Pickup Truck","Burgundy","Walla Walla","OR",45.986775,-118.07919
+"459",99611,1233276,NA,"Female","White",3,"Kenai","AK","","","Kenai","AK",60.587598,-151.23355
+"460",99645,1281900,NA,"Male","White",16,"Palmer","AK","Sport Utility","Blue, Dark","Palmer","AK",61.598203,-149.04109
+"461",99701,1201206,NA,"Male","Am. Ind.",10,"Fairbanks","AK","","","Fairbanks","AK",64.83507,-147.72045
