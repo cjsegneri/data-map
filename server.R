@@ -142,12 +142,12 @@ function(input, output, session) {
     if (sets == 1) {
       leaflet() %>% addProviderTiles(providers$CartoDB.Positron) %>%
         addCircleMarkers(
-          data = missing.filtered, lng = ~longitude, lat = ~latitude, color = "#DC7633",
+          data = missing.filtered, lng = ~longitude, lat = ~latitude, color = "#C39BD3",
           clusterOptions = markerClusterOptions(iconCreateFunction =
                                                   JS("
                                                      function(cluster) {
                                                      return new L.DivIcon({
-                                                     html: '<div style=\"background-color:rgba(220,118,51,0.8)\"><span>' + cluster.getChildCount() + '</div><span>',
+                                                     html: '<div style=\"background-color:rgba(195,155,211,0.8)\"><span>' + cluster.getChildCount() + '</div><span>',
                                                      className: 'marker-cluster'
                                                      });
                                                      }")
@@ -155,12 +155,12 @@ function(input, output, session) {
           popup = missing.popup
                                                   ) %>%
         addCircleMarkers(
-          data = kidnapping.filtered, lng = ~longitude, lat = ~latitude, color = "#CD6155",
+          data = kidnapping.filtered, lng = ~longitude, lat = ~latitude, color = "#82E0AA",
           clusterOptions = markerClusterOptions(iconCreateFunction =
                                                   JS("
                                                      function(cluster) {
                                                      return new L.DivIcon({
-                                                     html: '<div style=\"background-color:rgba(205,97,85,0.8)\"><span>' + cluster.getChildCount() + '</div><span>',
+                                                     html: '<div style=\"background-color:rgba(130,224,170,0.8)\"><span>' + cluster.getChildCount() + '</div><span>',
                                                      className: 'marker-cluster'
                                                      });
                                                      }")
@@ -169,17 +169,17 @@ function(input, output, session) {
                                                   ) %>%
         addLegend(
           "bottomleft", title = "Datasets", labels = c("Missing Persons", "Attempted Kidnapping"),
-          colors = c("#DC7633","#CD6155"), opacity = 0.5
+          colors = c("#C39BD3","#82E0AA"), opacity = 0.5
         )
     } else if (sets == 2) {
       leaflet() %>% addProviderTiles(providers$CartoDB.Positron) %>%
         addCircleMarkers(
-          data = missing.filtered, lng = ~longitude, lat = ~latitude, color = "#DC7633",
+          data = missing.filtered, lng = ~longitude, lat = ~latitude, color = "#C39BD3",
           clusterOptions = markerClusterOptions(iconCreateFunction =
                                                   JS("
                                                      function(cluster) {
                                                      return new L.DivIcon({
-                                                     html: '<div style=\"background-color:rgba(220,118,51,0.8)\"><span>' + cluster.getChildCount() + '</div><span>',
+                                                     html: '<div style=\"background-color:rgba(195,155,211,0.8)\"><span>' + cluster.getChildCount() + '</div><span>',
                                                      className: 'marker-cluster'
                                                      });
                                                      }")
@@ -188,17 +188,17 @@ function(input, output, session) {
                                                   ) %>%
         addLegend(
           "bottomleft", title = "Datasets", labels = c("Missing Persons", "Attempted Kidnapping"),
-          colors = c("#DC7633","#CD6155"), opacity = 0.5
+          colors = c("#C39BD3","#82E0AA"), opacity = 0.5
         )
     } else if (sets == 3) {
       leaflet() %>% addProviderTiles(providers$CartoDB.Positron) %>%
         addCircleMarkers(
-          data = kidnapping.filtered, lng = ~longitude, lat = ~latitude, color = "#CD6155",
+          data = kidnapping.filtered, lng = ~longitude, lat = ~latitude, color = "#82E0AA",
           clusterOptions = markerClusterOptions(iconCreateFunction =
                                                   JS("
                                                      function(cluster) {
                                                      return new L.DivIcon({
-                                                     html: '<div style=\"background-color:rgba(205,97,85,0.8)\"><span>' + cluster.getChildCount() + '</div><span>',
+                                                     html: '<div style=\"background-color:rgba(130,224,170,0.8)\"><span>' + cluster.getChildCount() + '</div><span>',
                                                      className: 'marker-cluster'
                                                      });
                                                      }")
@@ -207,7 +207,7 @@ function(input, output, session) {
                                                   ) %>%
         addLegend(
           "bottomleft", title = "Datasets", labels = c("Missing Persons", "Attempted Kidnapping"),
-          colors = c("#DC7633","#CD6155"), opacity = 0.5
+          colors = c("#C39BD3","#82E0AA"), opacity = 0.5
         )
     } else {
       leaflet() %>% addProviderTiles(providers$CartoDB.Positron)
