@@ -213,36 +213,4 @@ function(input, output, session) {
       leaflet() %>% addProviderTiles(providers$CartoDB.Positron)
     }
   })
-
-  output$timeline1 = renderTimevis({
-
-    # read in the missing and kidnapping data
-    missing.filtered = getMissing()
-
-    # rename data columns for timevis
-    missing.filtered$start = as.Date(missing.filtered$Missing.Date)
-    missing.filtered$content = paste("Case ID:",missing.filtered$Case.Number)
-
-    # remove NA values
-    missing.filtered = missing.filtered[!is.na(missing.filtered$start),]
-    missing.filtered = missing.filtered[!is.na(missing.filtered$content),]
-
-    timevis(missing.filtered, height = 600)
-  })
-
-  output$timeline2 = renderTimevis({
-
-    # read in the missing and kidnapping data
-    kidnapping.filtered = getKidnapping()
-
-    # rename data columns for timevis
-    kidnapping.filtered$start = as.Date(kidnapping.filtered$Incident.Date)
-    kidnapping.filtered$content = paste("Case ID:",kidnapping.filtered$Case.Number)
-    # remove NA values
-    kidnapping.filtered = kidnapping.filtered[!is.na(kidnapping.filtered$start),]
-    kidnapping.filtered = kidnapping.filtered[!is.na(kidnapping.filtered$content),]
-
-    timevis(kidnapping.filtered, height = 600)
-  })
-
 }

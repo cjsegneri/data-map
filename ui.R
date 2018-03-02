@@ -6,17 +6,9 @@ header <- dashboardHeader(
 body <- dashboardBody(
   fluidRow(tags$head(tags$style(".rightAlign{float:right;}")),
     column(width = 8,
-           tabBox(width = NULL, title = "Data View",
-                  tabPanel(title = "Map",
-                           leafletOutput("map", height = 600),
-                           downloadLink("download_link", label = "Download Filtered Data")
-                           ),
-                  tabPanel(title = "Missing Persons Timeline",
-                           timevisOutput("timeline1")
-                           ),
-                  tabPanel(title = "Attempted Kidnapping Timeline",
-                           timevisOutput("timeline2")
-                  )
+           box(width = NULL, title = "Data Map", status = "warning", solidHeader = TRUE,
+                  leafletOutput("map", height = 600),
+                  downloadLink("download_link", label = "Download Filtered Data")
            )
     ),
     column(4,
