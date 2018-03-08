@@ -5,6 +5,7 @@ library(shinythemes)
 library(leaflet)
 library(timevis)
 library(zipcode)
+library(plotly)
 
 # get dataset that contains zipcodes tied to lat/long values
 data(zipcode)

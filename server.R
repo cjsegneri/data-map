@@ -231,4 +231,38 @@ function(input, output, session) {
       leaflet() %>% addProviderTiles(providers$CartoDB.Positron)
     }
   })
+
+  output$pie_chart <- renderPlotly({
+
+    colors = c(
+      "#EC7063",
+      "#5499C7",
+      "#58D68D",
+      "#F5B041"
+    )
+    labels = c(
+      "Used an Animal",
+      "Offered Candy",
+      "Offered Money",
+      "Offered a Car Ride"
+    )
+    values = c(
+      table(kidnapping.download$Offender.Method.Animal)[[2]],
+      table(kidnapping.download$Offender.Method.Candy)[[2]],
+      table(kidnapping.download$Offender.Method.Money)[[2]],
+      table(kidnapping.download$Offender.Method.Ride)[[2]]
+    )
+
+    plot_ly(labels = labels, values = values, type = 'pie',
+                 textposition = 'inside',
+                 textinfo = 'label+percent',
+                 hoverinfo = 'text',
+                 text = ~paste(values, ' occurences'),
+                 marker = list(colors = colors,
+                               line = list(color = '#FFFFFF', width = 1)),
+                 #The 'pull' attribute can also be used to create space between the sectors
+                 showlegend = FALSE) %>%
+      layout(title = "Kidnapping Methodologies")
+  })
+
 }

@@ -6,13 +6,24 @@ header <- dashboardHeader(
 body <- dashboardBody(
   fluidRow(tags$head(tags$style(".rightAlign{float:right;}")),
     column(width = 8,
-           box(width = NULL, title = "Data Map", status = "warning", solidHeader = TRUE,
-                  leafletOutput("map", height = 600),
-                  downloadLink("download_link", label = "Download Filtered Data")
+           tabBox(width = NULL, title = "Data Visualization",
+                  tabPanel(title = "Data Map",
+                    leafletOutput("map", height = 600),
+                    downloadLink("download_link", label = "Download Filtered Data")
+                  ),
+                  tabPanel(title = "Plots/Charts",
+                           tabBox(width = NULL,
+                             tabPanel(title = "Kidnapping Methodologies",
+                                      h5("This pie chart shows the percentages of methods used by offenders in kidnapping attempts in the attempted kidnapping data set."),
+                                      HTML("</br>"),
+                                      plotlyOutput("pie_chart")
+                             )
+                           )
+                  )
            )
     ),
     column(4,
-      tabBox(width = NULL, title = "Filters",
+      tabBox(width = NULL, title = "Map Filters",
              tabPanel("Missing Persons",
                       tabBox(width = NULL,
                              tabPanel("Location",
