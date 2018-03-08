@@ -17,7 +17,20 @@ body <- dashboardBody(
                                       h5("This pie chart shows the percentages of methods used by offenders in kidnapping attempts in the attempted kidnapping data set."),
                                       HTML("</br>"),
                                       plotlyOutput("pie_chart")
-                             )
+                             ),
+                             tabPanel("Gender Variation",
+                                      h5("This bar chart show the total amount of males and females that appear in the attempted kidnapping data set."),
+                                      HTML("</br>"),
+                                      plotlyOutput("gender_plot")
+                                      ),
+                             tabPanel("Race Variation",
+                                      h5("This bar chart show the races that appear in the attempted kidnapping data set."),
+                                      HTML("</br>"),
+                                      plotlyOutput("race_plot")
+                                      ),
+                             tabPanel("Frequency Heatmap",
+                                      leafletOutput("heatmap", height = 600)
+                                      )
                            )
                   )
            )

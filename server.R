@@ -232,8 +232,7 @@ function(input, output, session) {
     }
   })
 
-  output$pie_chart <- renderPlotly({
-
+  output$pie_chart = renderPlotly({
     colors = c(
       "#EC7063",
       "#5499C7",
@@ -252,7 +251,6 @@ function(input, output, session) {
       table(kidnapping.download$Offender.Method.Money)[[2]],
       table(kidnapping.download$Offender.Method.Ride)[[2]]
     )
-
     plot_ly(labels = labels, values = values, type = 'pie',
                  textposition = 'inside',
                  textinfo = 'label+percent',
@@ -263,6 +261,94 @@ function(input, output, session) {
                  #The 'pull' attribute can also be used to create space between the sectors
                  showlegend = FALSE) %>%
       layout(title = "Kidnapping Methodologies")
+  })
+
+  output$gender_plot = renderPlotly({
+    x = c(
+      "Male",
+      "Female",
+      "Unknown"
+    )
+    child = c(
+      table(kidnapping.download$Child.Gender.1)[[2]],
+      table(kidnapping.download$Child.Gender.1)[[1]],
+      table(kidnapping.download$Child.Gender.1)[[3]]
+    )
+    offender = c(
+      table(kidnapping.download$Offender.Gender.1)[[3]],
+      table(kidnapping.download$Offender.Gender.1)[[2]],
+      table(kidnapping.download$Offender.Gender.1)[[4]]
+    )
+    plot_ly(x = x, y = child, type = 'bar', name = "Child") %>%
+      add_trace(y = offender, name = "Offender")
+  })
+
+  output$race_plot = renderPlotly({
+    x = unique(kidnapping.download$Child.Race.1)
+    child = c(
+      table(kidnapping.download$Child.Race.1)[[1]],
+      table(kidnapping.download$Child.Race.1)[[2]],
+      table(kidnapping.download$Child.Race.1)[[3]],
+      table(kidnapping.download$Child.Race.1)[[4]],
+      table(kidnapping.download$Child.Race.1)[[5]],
+      table(kidnapping.download$Child.Race.1)[[6]],
+      table(kidnapping.download$Child.Race.1)[[7]]
+    )
+    offender = c(
+      table(kidnapping.download$Offender.Race.1)[[2]],
+      table(kidnapping.download$Offender.Race.1)[[3]],
+      table(kidnapping.download$Offender.Race.1)[[4]],
+      table(kidnapping.download$Offender.Race.1)[[5]],
+      table(kidnapping.download$Offender.Race.1)[[6]],
+      table(kidnapping.download$Offender.Race.1)[[8]],
+      table(kidnapping.download$Offender.Race.1)[[10]]
+    )
+    plot_ly(x = x, y = child, type = 'bar', name = "Child") %>%
+      add_trace(y = offender, name = "Offender")
+  })
+
+  output$heatmap = renderLeaflet({
+    # read in the shape file
+    usgeo = read_shape(file = "cb_2016_us_state_5m/cb_2016_us_state_5m.shp", as.sf = TRUE)
+
+    # get a table of the frequencies of incidents in each state
+    kidnapping_table_by_state = as.data.frame(table(kidnapping.download$Incident.State))
+
+    # convert factors into characters
+    usgeo$STUSPS = as.character(usgeo$STUSPS)
+    kidnapping_table_by_state$Var1 = as.character(kidnapping_table_by_state$Var1)
+
+    # order the columns by state
+    usgeo = usgeo[order(usgeo$STUSPS),]
+    kidnapping_table_by_state = kidnapping_table_by_state[order(kidnapping_table_by_state$Var1),]
+
+    # get the states that are not in both columns
+    removed_states = usgeo$STUSPS[!usgeo$STUSPS %in% kidnapping_table_by_state$Var1]
+    # remove these states
+    usgeo = usgeo[!usgeo$STUSPS %in% removed_states,]
+
+    # make sure the column names are the same
+    colnames(kidnapping_table_by_state)[1] = "STUSPS"
+
+    # merge the data
+    usmap = append_data(usgeo, kidnapping_table_by_state, key.shp = "STUSPS", key.data = "STUSPS")
+
+    # create the leaflet palette
+    mypalette = colorNumeric(palette = "Reds", domain = usmap$Freq)
+
+    # create the popup window
+    us_popup = paste0("<b>State: ", usmap$NAME, "</b></br>", "Incidents: ", usmap$Freq)
+
+    # display the map
+    leaflet(usmap, width = "100%") %>%
+      setView(lng = -97, lat = 42, zoom = 3) %>%
+      addProviderTiles("CartoDB.Positron") %>%
+      addPolygons(stroke = FALSE,
+                  smoothFactor = 0.2,
+                  fillOpacity = 0.8,
+                  popup = us_popup,
+                  color = ~mypalette(usmap$Freq)
+      )
   })
 
 }

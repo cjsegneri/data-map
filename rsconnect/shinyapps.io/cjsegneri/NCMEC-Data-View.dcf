@@ -5,8 +5,8 @@ account: cjsegneri
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 281047
-bundleId: 1258132
+bundleId: 1259474
 url: https://cjsegneri.shinyapps.io/NCMEC-Data-View/
-when: 1520472528.01026
+when: 1520526038.24308
 asMultiple: FALSE
 asStatic: FALSE
