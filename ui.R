@@ -38,7 +38,12 @@ body <- dashboardBody(
                                                   choices = sort(unique(missing$Vehicle.Style))),
                                       selectInput("m_veh_color_inp", "Vehicle Color", multiple = TRUE,
                                                   choices = sort(unique(missing$Vehicle.Color)))
-                                      )
+                                      ),
+                             tabPanel("Date",
+                                      dateRangeInput("m_date_range", "Show Incidents Between",
+                                                     start = NULL, end = NULL),
+                                      h5("(the dates are automatically set to the earliest and latest dates found in the data set)")
+                             )
                              ),
                       materialSwitch("missing_switch", status = "primary", right = TRUE,
                                      value = TRUE, label = "Include Missing Persons Data Set")
@@ -88,6 +93,11 @@ body <- dashboardBody(
                                                   choices = sort(unique(kidnapping$Vehicle.Style.1))),
                                       selectInput("k_vehicle_color", "Vehicle Color", multiple = TRUE,
                                                   choices = sort(unique(kidnapping$Vehicle.Color.1)))
+                                      ),
+                             tabPanel("Date",
+                                      dateRangeInput("k_date_range", "Show Incidents Between",
+                                                     start = NULL, end = NULL),
+                                      h5("(the dates are automatically set to the earliest and latest dates found in the data set)")
                                       )
                       ),
                       materialSwitch("kidnapping_switch", status = "primary", right = TRUE,

@@ -1,6 +1,12 @@
 
 function(input, output, session) {
 
+  # set the initial dates
+  updateDateRangeInput(session, "k_date_range", label = "Show Incidents Between",
+                       start = kidnapping.date.first, end = kidnapping.date.last)
+  updateDateRangeInput(session, "m_date_range", label = "Show Incidents Between",
+                       start = missing.date.first, end = missing.date.last)
+
   output$download_link <- downloadHandler(
     filename = function(){
       paste0("NCMEC-data",".zip")
@@ -46,6 +52,12 @@ function(input, output, session) {
     if (!is.null(input$m_veh_style_inp)) { filtered = filtered[filtered$Vehicle.Style %in% input$m_veh_style_inp,] }
     # check for vehicle color
     if (!is.null(input$m_veh_color_inp)) { filtered = filtered[filtered$Vehicle.Color %in% input$m_veh_color_inp,] }
+    # check the date
+    if (!identical(input$m_date_range, c(missing.date.first, missing.date.last))) {
+      filtered = filtered[!is.na(filtered$Missing.Date),]
+      filtered = filtered[input$m_date_range[1] < filtered$Missing.Date,]
+      filtered = filtered[input$m_date_range[2] > filtered$Missing.Date,]
+    }
 
     missing.download <<- filtered
     return (filtered)
@@ -84,6 +96,12 @@ function(input, output, session) {
     if (!is.null(input$k_off_age_inp)) { filtered = filtered[filtered$Offender.Age.1 %in% input$k_off_age_inp,] }
     # check offender perceived age
     if (!is.null(input$k_off_perc_age_inp)) { filtered = filtered[filtered$Offender.Perceived.Age.1 %in% input$k_off_perc_age_inp,] }
+    # check the date
+    if (!identical(input$k_date_range, c(kidnapping.date.first, kidnapping.date.last))) {
+      filtered = filtered[!is.na(filtered$Incident.Date),]
+      filtered = filtered[input$k_date_range[1] < filtered$Incident.Date,]
+      filtered = filtered[input$k_date_range[2] > filtered$Incident.Date,]
+    }
 
     kidnapping.download <<- filtered
     return (filtered)

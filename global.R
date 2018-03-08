@@ -32,5 +32,12 @@ kidnapping$Offender.Method.Money[kidnapping$Offender.Method.Money==-1] = 1
 kidnapping$Offender.Method.Other[kidnapping$Offender.Method.Other==-1] = 1
 kidnapping$Offender.Method.Ride[kidnapping$Offender.Method.Ride==-1] = 1
 
+# set the data sets to be downloaded as global variables
 missing.download <<- missing
 kidnapping.download <<- kidnapping
+
+# get the start and end dates from the data sets
+missing.date.first <<- min(missing$Missing.Date[!is.na(missing$Missing.Date)])
+missing.date.last <<- max(missing$Missing.Date[!is.na(missing$Missing.Date)])
+kidnapping.date.first <<- min(kidnapping$Incident.Date[!is.na(kidnapping$Incident.Date)])
+kidnapping.date.last <<- max(kidnapping$Incident.Date[!is.na(kidnapping$Incident.Date)])
