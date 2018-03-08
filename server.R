@@ -284,7 +284,15 @@ function(input, output, session) {
   })
 
   output$race_plot = renderPlotly({
-    x = unique(kidnapping.download$Child.Race.1)
+    x = c(
+      "Am. Ind.",
+      "Asian",
+      "Biracial",
+      "Black",
+      "Hispanic",
+      "Unknown",
+      "White"
+    )
     child = c(
       table(kidnapping.download$Child.Race.1)[[1]],
       table(kidnapping.download$Child.Race.1)[[2]],
