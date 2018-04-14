@@ -1,0 +1,2007 @@
+"case_number","case_type","missing_date","age_missing","gender","race","missing_city","missing_state","missing_zip","vehicle_style","vehicle_color"
+1061666,"Lost Injured Missing","01/14/2007",0,"Male","White","San Antonio","TX","78210",NA,NA
+1065769,"Lost Injured Missing","02/24/2007",0,"Female","Hispanic","Dallas","TX","75220",NA,NA
+1068366,"Lost Injured Missing","01/07/2007",0,"Female","White","Pleasant Dale","NE","68423",NA,NA
+1068366,"Lost Injured Missing","01/07/2007",0,"Female","White","Pleasant Dale","NE","68423",NA,NA
+1068515,"Lost Injured Missing","04/13/2007",0,"Female","White","Perry","UT","84302",NA,NA
+1073836,"Lost Injured Missing","06/23/2007",0,"Male","Hispanic","Colorado Springs","CO","80911","Sedan, 2 door","Gold"
+1074189,"Lost Injured Missing","04/24/2007",0,"Male","Black","Milwaukee","WI","53212",NA,NA
+1074340,"Lost Injured Missing","06/26/2007",0,"Male","Black","Peoria","IL","61603",NA,NA
+1081955,"Lost Injured Missing","10/18/2007",0,"Female","White","Spring Lake","NC","28390",NA,NA
+1083005,"Lost Injured Missing","10/27/2007",0,"Female","Hispanic","Coolidge","AZ","85228",NA,NA
+1088154,"Lost Injured Missing","01/23/2008",0,"Male","Hispanic","Chicago","IL","60618",NA,NA
+1090841,"Lost Injured Missing","03/10/2008",0,"Female","White","Jefferson","WV","25177",NA,"Blue, Dark"
+1090841,"Lost Injured Missing","03/10/2008",0,"Female","White","Jefferson","WV","25177",NA,"Blue, Dark"
+1090841,"Lost Injured Missing","03/10/2008",0,"Female","White","Jefferson","WV","25177",NA,"Blue, Dark"
+1091315,"Lost Injured Missing","02/15/2008",0,"Female","Black","Bronx","NY","10466-2328",NA,NA
+1091315,"Lost Injured Missing","02/15/2008",0,"Female","Black","Bronx","NY","10466-2328",NA,NA
+1113537,"Lost Injured Missing","12/23/2008",0,"Male","Am. Ind.","Billings","MT","59101",NA,NA
+1130064,"Lost Injured Missing","08/28/2009",0,"Male","White","Ferndale","WA","98248",NA,NA
+1134556,"Lost Injured Missing","10/31/2009",0,"Female","White","Chipley","FL",NA,NA,NA
+1137894,"Lost Injured Missing","12/27/2009",0,"Male","White","Tempe","AZ","85282","Sedan, 4 door","White"
+1137894,"Lost Injured Missing","12/27/2009",0,"Male","White","Tempe","AZ","85282","Sedan, 4 door","White"
+1141523,"Lost Injured Missing","02/16/2010",0,"Female","Black","East Orange","NJ","07018",NA,"Red"
+1145825,"Lost Injured Missing","04/21/2010",0,"Male","Asian","Houston","TX","77002","Sedan, 2 door","Beige"
+1154574,"Lost Injured Missing","08/20/2010",0,"Male","Unknown","San Juan","TX",NA,"Pickup Truck","Red"
+1159833,"Lost Injured Missing","10/30/2010",0,"Female","White","Billings","MO","65610",NA,NA
+1161260,"Lost Injured Missing","12/02/2010",0,"Male","White","Merced","CA",NA,NA,NA
+1161260,"Lost Injured Missing","12/02/2010",0,"Male","White","Merced","CA",NA,NA,NA
+1161260,"Lost Injured Missing","12/02/2010",0,"Male","White","Merced","CA",NA,NA,NA
+1162015,"Lost Injured Missing","12/14/2010",0,"Female","White","Port Orange","FL",NA,"Sport Utility","Black"
+1168378,"Lost Injured Missing","03/12/2011",0,"Female","Hispanic","Stafford","TX","77477","Sedan, 4 door","Blue, Dark"
+1171321,"Lost Injured Missing","05/01/2011",0,"Female","Biracial","Millersville","TN",NA,NA,NA
+1171321,"Lost Injured Missing","05/01/2011",0,"Female","Biracial","Millersville","TN",NA,NA,NA
+1174834,"Lost Injured Missing","06/29/2011",0,"Female","White","Ludington","MI","49431","Sedan, 4 door","Silver"
+1179147,"Lost Injured Missing","09/04/2011",0,"Female","Black","Los Angeles","CA","90019",NA,NA
+1180911,"Lost Injured Missing","10/03/2011",0,"Female","White","Kansas City","MO","64104",NA,NA
+1190208,"Lost Injured Missing","02/16/2012",0,"Male","White","Petoskey","MI","49770","Pickup Truck","Silver"
+1191632,"Lost Injured Missing","04/01/2011",0,"Male","Black","Elk Grove","CA",NA,NA,NA
+1191632,"Lost Injured Missing","04/01/2011",0,"Male","Black","Elk Grove","CA",NA,NA,NA
+1194141,"Lost Injured Missing","04/12/2012",0,"Male","White","Orange","CA","92867",NA,NA
+1197097,"Lost Injured Missing","06/13/2012",0,"Male","Biracial","Ripley","TN","38063",NA,"Gray"
+1204111,"Lost Injured Missing","10/06/2012",0,"Female","White","Wauconda","IL","60084",NA,"Black"
+1204804,"Lost Injured Missing","10/22/2012",0,"Female","Asian","King of Prussia","PA",NA,NA,NA
+1205249,"Lost Injured Missing","10/29/2012",0,"Female","Hispanic","Hanford","CA","93230",NA,NA
+1205377,"Lost Injured Missing","10/29/2012",0,"Male","Biracial","Staten Island","NY","10304",NA,NA
+1205377,"Lost Injured Missing","10/29/2012",0,"Male","Biracial","Staten Island","NY","10304",NA,NA
+1205377,"Lost Injured Missing","10/29/2012",0,"Male","Biracial","Staten Island","NY","10304",NA,NA
+1205377,"Lost Injured Missing","10/29/2012",0,"Male","Biracial","Staten Island","NY","10304",NA,NA
+1209309,"Lost Injured Missing","01/17/2013",0,"Male","White","San Francisco","CA",NA,NA,NA
+1215569,"Lost Injured Missing","05/09/2013",0,"Male","White","Marshall","TX",NA,"Pickup Truck","Red"
+1217591,"Lost Injured Missing","05/29/2013",0,"Male","Biracial","Utica","NY","13502",NA,NA
+1225073,"Lost Injured Missing","11/07/2013",0,"Female","Hispanic","Oakland","CA","94611",NA,NA
+1225397,"Lost Injured Missing","11/13/2013",0,"Male","White","El Paso","TX","79912","Sedan, 4 door","Blue, Dark"
+1227223,"Lost Injured Missing","01/09/2014",0,"Female","Black","Memphis","TN",NA,NA,NA
+1227950,"Lost Injured Missing","01/27/2014",0,"Male","White","Pulaski","VA","24301",NA,NA
+1228242,"Lost Injured Missing","02/06/2014",0,"Male","Black","Beloit","WI",NA,NA,NA
+1233401,"Lost Injured Missing","05/24/2014",0,"Male","Black","Detroit","MI",NA,NA,NA
+1250324,"Lost Injured Missing","05/06/2015",0,"Male","Biracial","Columbus","OH","43215","Hatchback/Fastback","White"
+1250324,"Lost Injured Missing","05/06/2015",0,"Male","Biracial","Columbus","OH","43215","Hatchback/Fastback","White"
+1250863,"Lost Injured Missing","07/02/2015",0,"Female","White","Anderson","CA",NA,NA,NA
+1250933,"Lost Injured Missing","07/05/2015",0,"Male","White","Middletown","CT",NA,NA,NA
+1251042,"Lost Injured Missing","04/08/2013",0,"Male","Black","Upper Darby","PA","19082",NA,NA
+1254967,"Lost Injured Missing","07/11/2015",0,"Male","Black","Wichita","KS","67204",NA,NA
+1255660,"Lost Injured Missing","09/09/2015",0,"Male","White","North Port","FL","34287",NA,NA
+1261646,"Lost Injured Missing","01/22/2016",0,"Female","Hispanic","Fellsmere","FL",NA,NA,NA
+1279283,"Lost Injured Missing","09/22/2016",0,"Male","Black","Greenbelt","MD","20771","Hearse","Black"
+1286183,"Lost Injured Missing","01/10/2017",0,"Male","Biracial","Jackson","MS","39212","Sedan, 4 door","Gray"
+1296732,"Lost Injured Missing","04/30/2017",0,"Female","Black","Hampton","VA","23663","Sedan, 4 door","Black"
+1298843,"Lost Injured Missing","06/02/2017",0,"Female","White","Goshen","CA","93227",NA,NA
+1298843,"Lost Injured Missing","06/02/2017",0,"Female","White","Goshen","CA","93227",NA,NA
+1065843,"Non Family Abduction","03/10/2007",0,"Female","Black","Lubbock","TX","79412","Pickup Truck","Red"
+1065843,"Non Family Abduction","03/10/2007",0,"Female","Black","Lubbock","TX","79412","Pickup Truck","Red"
+1072417,"Non Family Abduction","05/31/2007",0,"Female","Hispanic","Chino Valley","AZ","86323","Truck","White"
+1077987,"Non Family Abduction","08/23/2007",0,"Female","White","Alhambra","CA","91803",NA,NA
+1079371,"Non Family Abduction","09/13/2007",0,"Female","Black","Detroit","MI",NA,NA,NA
+1090757,"Non Family Abduction","03/07/2008",0,"Male","White","Lewisburg","TN","37091",NA,"Red"
+1096679,"Non Family Abduction","05/24/2008",0,"Female","Black","Decatur","GA",NA,"Sedan, 4 door","Silver"
+1110946,"Non Family Abduction","11/28/2008",0,"Male","White","Chicago","IL",NA,"Van","Green, Light"
+1118824,"Non Family Abduction","03/23/2009",0,"Female","Hispanic","Plant City","FL","33566","Sedan, 4 door","Blue"
+1118824,"Non Family Abduction","03/23/2009",0,"Female","Hispanic","Plant City","FL","33566","Sedan, 4 door","Blue"
+1123517,"Non Family Abduction","05/24/2009",0,"Female","Black","Raeford","NC","28376",NA,NA
+1124500,"Non Family Abduction","06/06/2009",0,"Male","Black","Madison","IL","62060",NA,NA
+1124733,"Non Family Abduction","06/10/2009",0,"Female","Black","Dallas","TX",NA,NA,NA
+1132114,"Non Family Abduction","09/29/2009",0,"Male","Hispanic","Nashville","TN","37213","Sedan, 4 door","Green, Dark"
+1136029,"Non Family Abduction","11/23/2009",0,"Male","Hispanic","Charleston","SC","29406","Sedan, 4 door","Gray"
+1136029,"Non Family Abduction","11/23/2009",0,"Male","Hispanic","Charleston","SC","29406","Sedan, 4 door","Gray"
+1139707,"Non Family Abduction","01/21/2010",0,"Female","Black","Sherwood","AR",NA,NA,NA
+1140640,"Non Family Abduction","02/04/2010",0,"Male","Hispanic","Carthage","MO","64836",NA,NA
+1142225,"Non Family Abduction","03/02/2010",0,"Male","Black","Jacksonville","FL","32244","Sedan, 4 door","Brown"
+1146839,"Non Family Abduction","05/05/2010",0,"Female","White","Chicago","IL","60660","Truck","Blue"
+1152856,"Non Family Abduction","07/27/2010",0,"Male","Black","Monroe","NC",NA,"Sedan, 4 door","Silver"
+1152999,"Non Family Abduction","06/28/2010",0,"Male","Biracial","Anaheim","CA",NA,NA,NA
+1156424,"Non Family Abduction","09/07/2010",0,"Female","Black","Memphis","TN","38128",NA,NA
+1159986,"Non Family Abduction","11/10/2010",0,"Male","Black","Bandera","TX",NA,"Sedan, 4 door","Black"
+1162219,"Non Family Abduction","12/10/2010",0,"Female","Black","Phoenix","AZ","93534",NA,NA
+1173029,"Non Family Abduction","05/31/2011",0,"Female","Hispanic","Morgan Hill","CA","95037",NA,"White"
+1173029,"Non Family Abduction","05/31/2011",0,"Female","Hispanic","Morgan Hill","CA","95037",NA,"White"
+1173335,"Non Family Abduction","06/05/2011",0,"Male","White","Ariton","AL","36311","Sport Utility","Gray"
+1173335,"Non Family Abduction","06/05/2011",0,"Male","White","Ariton","AL","36311",NA,"Maroon"
+1176361,"Non Family Abduction","07/22/2011",0,"Male","Black","Baltimore","MD","21229",NA,NA
+1177322,"Non Family Abduction","08/05/2011",0,"Male","White","Deridder","LA",NA,"Sedan, 4 door","White"
+1179476,"Non Family Abduction","09/09/2011",0,"Female","Hispanic","Champaign","IL","61820",NA,"Blue"
+1180259,"Non Family Abduction","09/22/2011",0,"Female","Black","Forest Hill","TX",NA,NA,NA
+1183730,"Non Family Abduction","11/16/2011",0,"Female","Hispanic","Dallas","TX",NA,NA,NA
+1187944,"Non Family Abduction","01/20/2012",0,"Male","Hispanic","Alpaugh","CA","93201","Sedan, 4 door","Tan"
+1187944,"Non Family Abduction","01/20/2012",0,"Male","Hispanic","Alpaugh","CA","93201","Sedan, 4 door","Tan"
+1188923,"Non Family Abduction","02/10/2012",0,"Male","Black","Berkeley","MO","63134","Sport Utility","Silver"
+1192820,"Non Family Abduction","04/17/2012",0,"Male","White","Spring","TX","77380","Sedan, 4 door","Blue"
+1210980,"Non Family Abduction","02/10/2013",0,"Female","Hispanic","Castroville","CA","95012","Van","Red"
+1212908,"Non Family Abduction","03/25/2013",0,"Female","Hispanic","San Jose","CA","95122",NA,"White"
+1217921,"Non Family Abduction","06/17/2013",0,"Male","Black","Birmingham","AL","35211",NA,"Silver"
+1221151,"Non Family Abduction","08/13/2013",0,"Male","White","Cartersville","GA",NA,"Sedan, 4 door","Gray"
+1230726,"Non Family Abduction","04/09/2014",0,"Female","Hispanic","Sarasota","FL",NA,"Pickup Truck","Silver"
+1232043,"Non Family Abduction","05/09/2014",0,"Female","White","Stephenville","TX","76401",NA,NA
+1237049,"Non Family Abduction","08/27/2014",0,"Male","Black","Indianapolis","IN",NA,"Sedan, 4 door","Blue"
+1237049,"Non Family Abduction","08/27/2014",0,"Male","Black","Indianapolis","IN",NA,"Sedan, 4 door","Blue"
+1238449,"Non Family Abduction","09/29/2014",0,"Male","White","Duncan","OK","73533",NA,NA
+1241624,"Non Family Abduction","12/15/2014",0,"Male","Black","Palatka","FL","32177",NA,NA
+1241624,"Non Family Abduction","12/15/2014",0,"Male","Black","Palatka","FL","32177",NA,NA
+1241748,"Non Family Abduction","12/18/2014",0,"Male","White","Florence","KY","41042","Sedan, 4 door","Blue"
+1242299,"Non Family Abduction","01/03/2015",0,"Female","Hispanic","Long Beach","CA","90805",NA,NA
+1242299,"Non Family Abduction","01/03/2015",0,"Female","Hispanic","Long Beach","CA","90805",NA,NA
+1262987,"Non Family Abduction","02/20/2016",0,"Male","White","Fairbury","NE","68352","Station Wagon","Brown"
+1263419,"Non Family Abduction","02/26/2016",0,"Female","Black","Fort Lauderdale","FL","33312",NA,"Dark"
+1266081,"Non Family Abduction","04/11/2016",0,"Female","Am. Ind.","Albuquerque","NM","87121","Sport Utility","Maroon"
+1270365,"Non Family Abduction","06/14/2016",0,"Female","Black","Detroit","MI","48205",NA,NA
+1273611,"Non Family Abduction","07/31/2016",0,"Female","Black","Loveland","OH","45140",NA,NA
+1281896,"Non Family Abduction","11/17/2016",0,"Female","Hispanic","Wichita","KS","67212",NA,NA
+1284626,"Non Family Abduction","12/19/2016",0,"Female","White","Normandy","MO","63121","Van","Gray"
+1063373,"Lost Injured Missing","02/03/2007",1,"Female","Black","Braddock","PA",NA,NA,NA
+1071160,"Lost Injured Missing","05/14/2007",1,"Male","White","Amherst","VA",NA,NA,NA
+1072212,"Lost Injured Missing","05/30/2007",1,"Female","Black","Baltimore","MD","21225",NA,NA
+1075524,"Lost Injured Missing","07/18/2007",1,"Female","White","Denver","CO","80211","Van","Gray"
+1080104,"Lost Injured Missing","09/25/2007",1,"Male","White","Encino","NM","88321",NA,NA
+1080104,"Lost Injured Missing","09/25/2007",1,"Male","White","Encino","NM","88321",NA,NA
+1082819,"Lost Injured Missing","09/27/2007",1,"Male","Black","Lauderhill","FL","33313",NA,NA
+1090549,"Lost Injured Missing","03/03/2008",1,"Female","White","Arlington","TX","76011","Sport Utility","Blue, Dark"
+1096029,"Lost Injured Missing","05/15/2008",1,"Female","Hispanic","Richmond","CA",NA,"Van","White"
+1104424,"Lost Injured Missing","08/31/2008",1,"Male","Biracial","Fort Smith","AR","72901",NA,NA
+1123431,"Lost Injured Missing","05/22/2009",1,"Male","Hispanic","Colorado Springs","CO",NA,NA,NA
+1123431,"Lost Injured Missing","05/22/2009",1,"Male","Hispanic","Colorado Springs","CO",NA,"Sport Utility","Brown"
+1128171,"Lost Injured Missing","07/27/2009",1,"Male","Hispanic","Concord","NC","28025","Sedan, 4 door","Blue, Dark"
+1134292,"Lost Injured Missing","10/20/2009",1,"Female","White","Georgetown","CA","95634",NA,"Silver"
+1134464,"Lost Injured Missing","10/30/2009",1,"Male","Black","Detroit","MI",NA,"Sedan, 4 door","Blue"
+1135447,"Lost Injured Missing","11/13/2009",1,"Male","Black","Oakland","CA","94607",NA,NA
+1143869,"Lost Injured Missing","03/21/2010",1,"Male","Black","Norfolk","VA","23510",NA,NA
+1143869,"Lost Injured Missing","03/21/2010",1,"Male","Black","Norfolk","VA","23510",NA,NA
+1144382,"Lost Injured Missing","03/22/2010",1,"Male","Biracial","University City","MO","63130","Sedan, 4 door","Purple"
+1148155,"Lost Injured Missing","05/21/2010",1,"Male","Asian","Palm Bay","FL","32907","Sedan, 4 door","Green"
+1158148,"Lost Injured Missing","10/11/2010",1,"Male","Biracial","Union","SC",NA,NA,NA
+1165276,"Lost Injured Missing","02/04/2011",1,"Male","Black","New Braunfels","TX","78130",NA,NA
+1169137,"Lost Injured Missing","04/01/2011",1,"Male","White","Elgin","SC","29045",NA,NA
+1172627,"Lost Injured Missing","05/21/2011",1,"Female","Hispanic","Buda","TX","78610","Truck","White"
+1185956,"Lost Injured Missing","12/16/2011",1,"Female","White","Waterville","ME","04901",NA,NA
+1186645,"Lost Injured Missing","12/05/2011",1,"Male","Black","Columbia","SC",NA,NA,NA
+1192176,"Lost Injured Missing","04/04/2012",1,"Female","Biracial","Fairfield","CA","94533",NA,NA
+1194141,"Lost Injured Missing","04/12/2012",1,"Male","White","Orange","CA","92867",NA,NA
+1197097,"Lost Injured Missing","06/13/2012",1,"Female","Biracial","Ripley","TN","38063",NA,"Gray"
+1214170,"Lost Injured Missing","04/16/2013",1,"Male","Black","Maywood","IL","60153","Sedan, 2 door","Black"
+1215503,"Lost Injured Missing","04/28/2013",1,"Female","White","Ottawa","KS","66067","Sedan, 4 door","Black"
+1216618,"Lost Injured Missing","05/24/2013",1,"Female","White","Elk River","MN","55330",NA,NA
+1217120,"Lost Injured Missing","06/02/2013",1,"Female","White","Toledo","OH",NA,NA,NA
+1217120,"Lost Injured Missing","06/02/2013",1,"Female","White","Toledo","OH",NA,NA,NA
+1218855,"Lost Injured Missing","07/04/2013",1,"Female","White","Missoula","MT",NA,NA,NA
+1218962,"Lost Injured Missing","07/06/2013",1,"Female","Black","Texas City","TX","77591",NA,NA
+1219197,"Lost Injured Missing","07/10/2013",1,"Female","Black","Oakland","CA","94605",NA,NA
+1219197,"Lost Injured Missing","07/10/2013",1,"Female","Black","Oakland","CA","94605",NA,NA
+1219582,"Lost Injured Missing","07/17/2013",1,"Male","Black","Houston","TX","77088",NA,NA
+1224222,"Lost Injured Missing","08/17/2013",1,"Male","Biracial","Boston","MA",NA,NA,NA
+1225397,"Lost Injured Missing","11/13/2013",1,"Male","White","El Paso","TX","79912","Sedan, 4 door","Blue, Dark"
+1240895,"Lost Injured Missing","01/09/2009",1,"Male","White","Palmdale","CA",NA,NA,NA
+1249456,"Lost Injured Missing","06/06/2015",1,"Female","Black","Pendleton","SC","29670",NA,NA
+1251946,"Lost Injured Missing","07/24/2015",1,"Male","White","Jacksonville","FL","32217","Sedan, 2 door","Orange"
+1257200,"Lost Injured Missing","11/01/2015",1,"Male","Asian","Weston","FL",NA,NA,NA
+1260372,"Lost Injured Missing","12/30/2015",1,"Male","Hispanic","Glendale","AZ",NA,NA,NA
+1264951,"Lost Injured Missing","03/22/2016",1,"Female","White","Spencer","IN","47460",NA,NA
+1268834,"Lost Injured Missing","05/22/2016",1,"Female","Black","Antioch","CA","94531","Sedan, 4 door","Silver"
+1269745,"Lost Injured Missing","06/05/2016",1,"Male","White","Caseyville","IL","62232",NA,NA
+1269745,"Lost Injured Missing","06/05/2016",1,"Male","White","Caseyville","IL","62232",NA,NA
+1270141,"Lost Injured Missing","06/10/2016",1,"Male","Black","Pico Rivera","CA","90660",NA,NA
+1281757,"Lost Injured Missing","11/12/2016",1,"Female","White","Siloam Springs","AR","72761","Van","White"
+1295165,"Lost Injured Missing","04/25/2017",1,"Female","Black","Joliet","IL","60433",NA,NA
+1062987,"Non Family Abduction","01/29/2007",1,"Male","Hispanic","Mesa","AZ",NA,"Truck","Blue"
+1064768,"Non Family Abduction","02/23/2007",1,"Male","White","Winchester","MA","01890","Sedan, 4 door","Blue, Light"
+1072141,"Non Family Abduction","05/30/2007",1,"Male","White","Lexington","TN",NA,"Sedan, 4 door","White"
+1080187,"Non Family Abduction","09/24/2007",1,"Male","Black","Newark","NJ",NA,NA,NA
+1090075,"Non Family Abduction","02/27/2008",1,"Male","Biracial","Surprise","AZ",NA,"Truck","Tan"
+1094321,"Non Family Abduction","03/27/2008",1,"Female","Black","Oakland","CA",NA,NA,NA
+1097287,"Non Family Abduction","06/04/2008",1,"Female","Hispanic","Taft","TX","78390",NA,NA
+1099303,"Non Family Abduction","06/26/2008",1,"Male","Black","Birmingham","AL",NA,"Sedan, 4 door","Maroon"
+1099408,"Non Family Abduction","06/28/2008",1,"Male","Biracial","Humble","TX","77338","Van","Maroon"
+1105391,"Non Family Abduction","09/11/2008",1,"Male","Hispanic","Biloxi","MS","39530","Truck","Blue"
+1116207,"Non Family Abduction","02/15/2009",1,"Male","Black","Manhattan","NY","10035",NA,NA
+1119451,"Non Family Abduction","03/30/2009",1,"Female","Hispanic","Barry","TX","75102","Sport Utility","Red"
+1124604,"Non Family Abduction","06/08/2009",1,"Male","Black","Philadelphia","PA","19104",NA,NA
+1146839,"Non Family Abduction","05/05/2010",1,"Female","White","Chicago","IL","60660","Truck","Blue"
+1154368,"Non Family Abduction","08/18/2010",1,"Female","Black","Tallahassee","FL","32303","Sedan, 2 door","Silver"
+1172720,"Non Family Abduction","05/25/2011",1,"Male","Black","Culver City","CA","90232",NA,NA
+1181040,"Non Family Abduction","10/05/2011",1,"Female","Black","Columbia","MD","21045",NA,NA
+1187295,"Non Family Abduction","01/12/2012",1,"Male","Black","Houston","TX","77063","Sedan, 4 door","Green"
+1189352,"Non Family Abduction","02/18/2012",1,"Female","Black","Cleveland","OH","44127","Van","Green"
+1207257,"Non Family Abduction","11/26/2012",1,"Male","Black","Atlanta","GA","30307",NA,NA
+1208747,"Non Family Abduction","01/03/2013",1,"Female","Hispanic","Crosbyton","TX","79322",NA,"Red"
+1208859,"Non Family Abduction","01/10/2013",1,"Female","White","Bensenville","IL","60106",NA,"Black"
+1211666,"Non Family Abduction","03/02/2013",1,"Female","Biracial","Springfield","MO","65803","Sedan, 4 door","Gray"
+1216380,"Non Family Abduction","05/22/2013",1,"Female","Black","Forest Park","GA","30297","Sedan, 4 door","Green"
+1222021,"Non Family Abduction","08/29/2013",1,"Female","Black","High Point","NC",NA,"Sport Utility","White"
+1226747,"Non Family Abduction","12/27/2013",1,"Male","Am. Ind.","Red Springs","NC","28377","Sedan, 4 door","Green"
+1232087,"Non Family Abduction","05/10/2014",1,"Female","White","Crossville","TN","38555","Sedan, 4 door","White"
+1248370,"Non Family Abduction","05/16/2015",1,"Male","White","Romulus","MI","48174","Sedan, 2 door","Red"
+1254509,"Non Family Abduction","09/14/2015",1,"Female","White","Blairmore",NA,NA,"Van","White"
+1260666,"Non Family Abduction","01/07/2016",1,"Male","Hispanic","Montebello","CA","90640","Van","Red"
+1266643,"Non Family Abduction","04/19/2016",1,"Female","Am. Ind.","Poplar","MT","59255",NA,"Silver"
+1269482,"Non Family Abduction","05/23/2016",1,"Female","Hispanic","Los Angeles","CA","90032",NA,NA
+1274537,"Non Family Abduction","08/12/2016",1,"Female","White","Great Falls","MT","59405",NA,NA
+1288617,"Non Family Abduction","02/03/2017",1,"Female","White","Las Vegas","NV","89122",NA,NA
+1292142,"Non Family Abduction","03/23/2017",1,"Male","Hispanic","Cathedral City","CA",NA,"Sedan, 4 door","White"
+1314308,"Non Family Abduction","11/22/2017",1,"Male","White","Gastonia","NC","28052",NA,"Brown"
+1070983,"Lost Injured Missing","05/14/2007",2,"Male","Hispanic","Denver","CO","80204",NA,NA
+1082635,"Lost Injured Missing","10/28/2007",2,"Male","White","Marissa","IL","62257",NA,NA
+1082635,"Lost Injured Missing","10/28/2007",2,"Male","White","Marissa","IL","62257",NA,NA
+1087099,"Lost Injured Missing","11/13/2007",2,"Female","White","Fenton","MI","48430",NA,NA
+1099410,"Lost Injured Missing","06/15/2008",2,"Male","White","Copperas Cove","TX","76522","Sedan, 2 door","Maroon"
+1100742,"Lost Injured Missing","06/09/2008",2,"Female","White","Orlando","FL","32812",NA,NA
+1107030,"Lost Injured Missing","10/02/2008",2,"Female","White","Detroit","MI",NA,NA,NA
+1124870,"Lost Injured Missing","06/12/2009",2,"Female","Hispanic","Royal Palm Beach","FL","33411","Sedan, 2 door","Dark"
+1129602,"Lost Injured Missing","07/01/2009",2,"Female","White","Elizabeth City","NC","27909","Van",NA
+1133050,"Lost Injured Missing","03/26/2009",2,"Male","Biracial","Malden","WA","99170",NA,NA
+1133050,"Lost Injured Missing","03/26/2009",2,"Male","Biracial","Malden","WA","99170",NA,NA
+1134329,"Lost Injured Missing","10/18/2009",2,"Female","Black","Haines City","FL",NA,NA,NA
+1136265,"Lost Injured Missing","11/27/2009",2,"Male","Hispanic","Valrico","FL",NA,NA,NA
+1139243,"Lost Injured Missing","01/14/2010",2,"Male","Black","Roanoke","VA",NA,"Sport Utility","White"
+1152722,"Lost Injured Missing","07/25/2010",2,"Male","White","Rimrock","AZ","86335",NA,NA
+1153395,"Lost Injured Missing","08/02/2010",2,"Male","White","Humboldt","AZ","86329",NA,NA
+1157877,"Lost Injured Missing","10/09/2010",2,"Male","White","Richmond","NH","03470",NA,NA
+1158148,"Lost Injured Missing","10/11/2010",2,"Female","Biracial","Union","SC",NA,NA,NA
+1172047,"Lost Injured Missing","05/03/2011",2,"Male","Black","Shelbyville","IN","46176","Sedan, 4 door","Black"
+1172047,"Lost Injured Missing","05/03/2011",2,"Male","Black","Shelbyville","IN","46176","Sport Utility","White"
+1172382,"Lost Injured Missing","05/20/2011",2,"Female","White","McKinleyville","CA","95519","Sedan, 4 door","Silver"
+1172627,"Lost Injured Missing","05/21/2011",2,"Female","Hispanic","Buda","TX","78610","Truck","White"
+1183128,"Lost Injured Missing","11/06/2011",2,"Male","White","Bellevue","WA",NA,NA,NA
+1190402,"Lost Injured Missing","07/01/2008",2,"Male","Hispanic","Laredo","TX","78043",NA,NA
+1191560,"Lost Injured Missing","03/27/2012",2,"Male","White","Cleveland","TX",NA,NA,NA
+1192176,"Lost Injured Missing","04/04/2012",2,"Female","Biracial","Fairfield","CA","94533",NA,NA
+1192317,"Lost Injured Missing","04/04/2012",2,"Male","Biracial","Hutchinson","MN","55350","Sedan, 2 door","Silver"
+1192317,"Lost Injured Missing","04/04/2012",2,"Male","Biracial","Hutchinson","MN","55350","Sedan, 2 door","Silver"
+1193809,"Lost Injured Missing","04/19/2012",2,"Female","White","Rockport","MA","01966",NA,NA
+1197097,"Lost Injured Missing","06/13/2012",2,"Male","Biracial","Ripley","TN","38063",NA,"Gray"
+1204111,"Lost Injured Missing","10/06/2012",2,"Female","White","Wauconda","IL","60084",NA,"Black"
+1209035,"Lost Injured Missing","01/13/2013",2,"Female","White","Immokalee","FL","34142",NA,NA
+1220578,"Lost Injured Missing","08/03/2013",2,"Male","Black","Durham","NC",NA,NA,NA
+1221144,"Lost Injured Missing","08/13/2013",2,"Male","Black","Tampa","FL","33605",NA,NA
+1223225,"Lost Injured Missing","09/24/2013",2,"Male","White","Woodstock","VA","22664",NA,NA
+1223843,"Lost Injured Missing","10/08/2013",2,"Female","White","Paris","MI","49338",NA,NA
+1225073,"Lost Injured Missing","11/07/2013",2,"Male","Hispanic","Oakland","CA","94611",NA,NA
+1227795,"Lost Injured Missing","01/23/2014",2,"Male","Hispanic","Tenaha","TX",NA,NA,"Black"
+1229163,"Lost Injured Missing","03/01/2014",2,"Female","Black","Camden","MS",NA,NA,NA
+1229163,"Lost Injured Missing","03/01/2014",2,"Female","Black","Camden","MS",NA,NA,NA
+1234229,"Lost Injured Missing","06/24/2014",2,"Male","White","Estero","FL","33928",NA,NA
+1237329,"Lost Injured Missing","09/03/2014",2,"Female","White","Mount Sherman","KY","42764",NA,NA
+1237561,"Lost Injured Missing","09/07/2014",2,"Male","Biracial","Gaithersburg","MD","20879",NA,NA
+1237561,"Lost Injured Missing","09/07/2014",2,"Male","Biracial","Gaithersburg","MD","20879",NA,NA
+1237561,"Lost Injured Missing","09/07/2014",2,"Male","Biracial","Gaithersburg","MD","20879",NA,NA
+1237676,"Lost Injured Missing","09/03/2014",2,"Male","White","Austin","TX",NA,NA,NA
+1240813,"Lost Injured Missing","11/23/2014",2,"Male","Biracial","Searcy","AR","72143",NA,NA
+1241965,"Lost Injured Missing","12/24/2014",2,"Male","Black","Raleigh","NC","27606",NA,NA
+1241965,"Lost Injured Missing","12/24/2014",2,"Male","Black","Raleigh","NC","27606",NA,NA
+1249448,"Lost Injured Missing","06/06/2015",2,"Female","White","Avon","OH","44011",NA,NA
+1251277,"Lost Injured Missing","07/10/2015",2,"Male","White","Leadore","ID",NA,NA,NA
+1255486,"Lost Injured Missing","10/02/2015",2,"Female","White","North Bloomfield","OH","44450",NA,NA
+1258714,"Lost Injured Missing","11/13/2015",2,"Male","Black","Flint","MI","48505",NA,NA
+1260997,"Lost Injured Missing","01/14/2016",2,"Male","White","Pinson","TN","38366",NA,NA
+1261145,"Lost Injured Missing","01/18/2016",2,"Female","Black","Saginaw","MI",NA,NA,NA
+1267815,"Lost Injured Missing","05/08/2016",2,"Female","Black","Wichita","KS","67202",NA,NA
+1269821,"Lost Injured Missing","02/01/2016",2,"Female","Black","Oakland","CA","94612","Sedan, 4 door","Gray"
+1295213,"Lost Injured Missing","04/20/2017",2,"Female","White","Mena","AR","71953","Sport Utility","Blue"
+1298843,"Lost Injured Missing","06/02/2017",2,"Male","White","Goshen","CA","93227",NA,NA
+1298843,"Lost Injured Missing","06/02/2017",2,"Male","White","Goshen","CA","93227",NA,NA
+1074538,"Non Family Abduction","06/22/2007",2,"Male","White","Denver","CO","80203",NA,NA
+1086442,"Non Family Abduction","12/31/2007",2,"Male","White","Durham","NC",NA,"Van","Red"
+1088652,"Non Family Abduction","02/03/2008",2,"Male","Black","Portland","OR","97211",NA,NA
+1089815,"Non Family Abduction","02/24/2008",2,"Female","Hispanic","Houston","TX",NA,"Sport Utility","Maroon"
+1105629,"Non Family Abduction","09/13/2008",2,"Male","Hispanic","Mount Vernon","WA",NA,"Van","White"
+1125154,"Non Family Abduction","06/16/2009",2,"Female","Black","Gary","IN",NA,NA,NA
+1127457,"Non Family Abduction","07/17/2009",2,"Female","Hispanic","Apache Junction","AZ","85220",NA,NA
+1127584,"Non Family Abduction","07/18/2009",2,"Female","Black","Christiansted","VI",NA,"Sport Utility","White"
+1133623,"Non Family Abduction","10/17/2009",2,"Male","Black","Nashville","TN","37218","Sedan, 4 door","White"
+1141794,"Non Family Abduction","02/22/2010",2,"Female","White","Grand Rapids","MI","49504",NA,NA
+1151177,"Non Family Abduction","07/02/2010",2,"Male","White","Hyattsville","MD","20783","Sedan, 4 door","Black"
+1151718,"Non Family Abduction","06/22/2010",2,"Female","White","Teague","TX","75860","Sedan, 4 door","Gray"
+1153227,"Non Family Abduction","08/01/2010",2,"Female","White","Erie","PA","16502",NA,NA
+1154954,"Non Family Abduction","08/24/2010",2,"Female","Black","Little Rock","AR","72204",NA,"Black"
+1155847,"Non Family Abduction","09/09/2010",2,"Male","Hispanic","Garden City","KS","67846","Sport Utility","Blue"
+1160030,"Non Family Abduction","11/11/2010",2,"Female","White","East Lynne","MO","64743","Van","White"
+1166047,"Non Family Abduction","02/15/2011",2,"Female","Black","Los Angeles","CA",NA,NA,NA
+1180539,"Non Family Abduction","09/27/2011",2,"Male","White","Anderson","SC","29621",NA,"Blue"
+1185113,"Non Family Abduction","12/02/2011",2,"Female","Black","Detroit","MI",NA,NA,"Silver"
+1185113,"Non Family Abduction","12/02/2011",2,"Female","Black","Detroit","MI",NA,NA,"Silver"
+1185113,"Non Family Abduction","12/02/2011",2,"Female","Black","Detroit","MI",NA,NA,"Red"
+1185113,"Non Family Abduction","12/02/2011",2,"Female","Black","Detroit","MI",NA,NA,"Red"
+1186270,"Non Family Abduction","12/24/2011",2,"Male","White","Richmond","VA",NA,"Sport Utility","White"
+1191802,"Non Family Abduction","03/31/2012",2,"Female","Black","Houston","TX",NA,NA,"Gold"
+1194432,"Non Family Abduction","05/06/2012",2,"Female","White","Bridgeton","MO","63044",NA,NA
+1196350,"Non Family Abduction","06/08/2012",2,"Female","Black","Spencer","OK","73084","Sport Utility","Black"
+1201527,"Non Family Abduction","08/27/2012",2,"Female","White","Downey","CA","90242","Sedan, 2 door","Blue"
+1207886,"Non Family Abduction","12/17/2012",2,"Female","White","Colorado Springs","CO",NA,NA,"Green"
+1221012,"Non Family Abduction","08/11/2013",2,"Male","Hispanic","Johnston","RI","02919",NA,"Black"
+1224580,"Non Family Abduction","10/26/2013",2,"Male","Black","Augusta Township","MI",NA,"Pickup Truck","Red"
+1226499,"Non Family Abduction","12/11/2013",2,"Male","Black","Philadelphia","PA","19133",NA,NA
+1231533,"Non Family Abduction","04/29/2014",2,"Male","Am. Ind.","Coolidge","AZ","85247","Station Wagon","Blue, Light"
+1232016,"Non Family Abduction","05/08/2014",2,"Male","Black","Riviera Beach","FL","33404","Sedan, 4 door","Blue"
+1232026,"Non Family Abduction","05/08/2014",2,"Female","Black","Philadelphia","PA","19104",NA,NA
+1238055,"Non Family Abduction","09/19/2014",2,"Male","White","Magee","MS","39111","Sedan, 4 door","Black"
+1241719,"Non Family Abduction","12/18/2014",2,"Male","White","Rogers","AR",NA,NA,"Black"
+1243543,"Non Family Abduction","02/01/2015",2,"Male","Hispanic","Houston","TX","77002","Sedan, 4 door","Black"
+1245728,"Non Family Abduction","03/20/2015",2,"Female","White","Dallastown","PA","17313","Sedan, 4 door","Gold"
+1246525,"Non Family Abduction","04/07/2015",2,"Female","Black","Lubbock","TX","79403","Sport Utility","Tan"
+1248658,"Non Family Abduction","05/17/2015",2,"Female","White","Summer Shade","KY","42166",NA,"Red"
+1254919,"Non Family Abduction","08/20/2015",2,"Male","Black","Rockford","IL","61104","Sport Utility","Maroon"
+1266279,"Non Family Abduction","04/14/2016",2,"Male","Hispanic","Soledad","CA",NA,NA,"Black"
+1271963,"Non Family Abduction","07/06/2016",2,"Female","White","Galena Park","TX",NA,NA,"Red"
+1277597,"Non Family Abduction","09/27/2016",2,"Female","Black","Rocky Mount","NC","27803","Crossover","Green"
+1283232,"Non Family Abduction","12/05/2016",2,"Male","White","Wichita","KS",NA,"Sport Utility","Black"
+1286123,"Non Family Abduction","11/22/2016",2,"Female","Black","Detroit","MI","48238",NA,NA
+1292142,"Non Family Abduction","03/23/2017",2,"Male","Hispanic","Cathedral City","CA",NA,"Sedan, 4 door","White"
+1062576,"Lost Injured Missing","01/24/2007",3,"Male","White","Kalispell","MT","59901",NA,NA
+1062576,"Lost Injured Missing","01/24/2007",3,"Male","White","Kalispell","MT","59901",NA,NA
+1065372,"Lost Injured Missing","03/01/2007",3,"Female","White","Fox River Grove","IL","60021",NA,NA
+1069485,"Lost Injured Missing","04/25/2007",3,"Female","White","Fort Fairfield","ME","04742",NA,NA
+1070957,"Lost Injured Missing","05/03/2007",3,"Female","White","Praia da Luz",NA,NA,NA,NA
+1072212,"Lost Injured Missing","05/30/2007",3,"Male","Black","Baltimore","MD","21225",NA,NA
+1081194,"Lost Injured Missing","10/08/2007",3,"Female","White","Kanab","UT","84741",NA,NA
+1096498,"Lost Injured Missing","05/24/2008",3,"Male","White","Monticello","NY","12701",NA,NA
+1098314,"Lost Injured Missing","06/15/2008",3,"Female","Black","Pasadena","TX","77504",NA,NA
+1099502,"Lost Injured Missing","06/30/2008",3,"Female","Hispanic","Chula Vista","CA","91911",NA,NA
+1105912,"Lost Injured Missing","09/18/2008",3,"Female","Hispanic","Aurora","IL","60505",NA,NA
+1109746,"Lost Injured Missing","11/10/2008",3,"Female","Asian","Chicago","IL",NA,NA,NA
+1112059,"Lost Injured Missing","12/14/2008",3,"Male","Am. Ind.","Tulsa","OK",NA,NA,NA
+1115878,"Lost Injured Missing","02/10/2009",3,"Male","White","Chidester","AR",NA,NA,NA
+1121982,"Lost Injured Missing","05/04/2009",3,"Male","White","Fredericktown","MO",NA,NA,NA
+1127132,"Lost Injured Missing","07/13/2009",3,"Female","Black","Harvey","IL","60426",NA,NA
+1133494,"Lost Injured Missing","10/16/2009",3,"Male","Hispanic","Denver City","TX","79323","Sport Utility","Maroon"
+1141362,"Lost Injured Missing","02/04/2010",3,"Male","White","Fallbrook","CA","92028",NA,"White"
+1145099,"Lost Injured Missing","12/01/2008",3,"Male","Black","Syracuse","NY","13208",NA,NA
+1158384,"Lost Injured Missing","10/16/2010",3,"Male","Hispanic","Pasadena","CA","91101","Sport Utility","Silver"
+1160990,"Lost Injured Missing","03/01/2010",3,"Male","White","Mobile","AL","36695",NA,NA
+1173594,"Lost Injured Missing","06/09/2011",3,"Male","Biracial","Chicago","IL","60630",NA,NA
+1177314,"Lost Injured Missing","08/06/2011",3,"Female","Hispanic","Senath","MO","63876",NA,NA
+1180362,"Lost Injured Missing","09/24/2011",3,"Female","White","Weston","WV","26452",NA,NA
+1189522,"Lost Injured Missing","02/21/2012",3,"Male","Black","Saint Louis","MO","63130",NA,NA
+1198498,"Lost Injured Missing","07/11/2012",3,"Male","Black","Lexington","MO",NA,NA,NA
+1200738,"Lost Injured Missing","08/14/2012",3,"Female","White","Danbury","WI","54830",NA,NA
+1202433,"Lost Injured Missing","09/11/2012",3,"Male","White","Onia","AR","72663",NA,NA
+1206548,"Lost Injured Missing","11/25/2012",3,"Male","Black","Cleveland","OH","44120",NA,"Black"
+1213510,"Lost Injured Missing","03/21/2013",3,"Male","Black","Hemet","CA","92543",NA,NA
+1228012,"Lost Injured Missing","01/30/2014",3,"Female","Black","Houston","TX","77073","Sedan, 4 door","Black"
+1233276,"Lost Injured Missing","05/26/2014",3,"Female","White","Kenai","AK","99611",NA,NA
+1235685,"Lost Injured Missing","07/26/2014",3,"Male","White","Afton","WY","83110","Van","Red"
+1237561,"Lost Injured Missing","09/08/2014",3,"Female","Biracial","Clarksburg","MD","20871",NA,NA
+1237561,"Lost Injured Missing","09/08/2014",3,"Female","Biracial","Clarksburg","MD","20871",NA,NA
+1237561,"Lost Injured Missing","09/08/2014",3,"Female","Biracial","Clarksburg","MD","20871",NA,NA
+1248260,"Lost Injured Missing","05/11/2015",3,"Female","Biracial","Victorville","CA","92392","Sedan, 4 door","Silver"
+1253129,"Lost Injured Missing","08/16/2015",3,"Male","Black","Alpena","MI","49707","Sport Utility","Tan"
+1261744,"Lost Injured Missing","01/20/2016",3,"Male","White","Palm Coast","FL","32164",NA,"White"
+1278155,"Lost Injured Missing","09/21/2016",3,"Female","Hispanic","Tulsa","OK","74128",NA,NA
+1279365,"Lost Injured Missing","07/01/2015",3,"Female","Hispanic","Oxnard","CA",NA,NA,NA
+1284309,"Lost Injured Missing","12/15/2016",3,"Male","White","Fond Du Lac","WI","54937","Sedan, 4 door","Black"
+1310106,"Lost Injured Missing","10/07/2017",3,"Female","Asian","Richardson","TX","75081",NA,NA
+1312575,"Lost Injured Missing","11/02/2017",3,"Female","White","Collinsville","AL","35961",NA,NA
+1314474,"Lost Injured Missing","11/26/2017",3,"Female","White","Jacksonville","NC",NA,NA,NA
+1067512,"Non Family Abduction","03/29/2007",3,"Male","Black","Mesa","AZ",NA,NA,"Green, Dark"
+1091906,"Non Family Abduction","03/23/2008",3,"Female","Hispanic","Homestead","FL","33030",NA,NA
+1097053,"Non Family Abduction","06/01/2008",3,"Male","Hispanic","Indianapolis","IN",NA,"Sedan, 4 door","Green"
+1099209,"Non Family Abduction","06/26/2008",3,"Female","Black","Milwaukee","WI","53206",NA,NA
+1105287,"Non Family Abduction","09/05/2008",3,"Female","Am. Ind.","Bapchule","AZ","85221",NA,NA
+1105391,"Non Family Abduction","09/11/2008",3,"Female","Hispanic","Biloxi","MS","39530","Truck","Blue"
+1108062,"Non Family Abduction","10/16/2008",3,"Female","Hispanic","Elizabeth","NJ","07201",NA,NA
+1108715,"Non Family Abduction","10/25/2008",3,"Male","Black","Riviera Beach","FL","33404",NA,NA
+1109623,"Non Family Abduction","11/06/2008",3,"Female","Hispanic","Avondale","AZ","85392",NA,NA
+1117166,"Non Family Abduction","03/02/2009",3,"Female","White","Yreka","CA",NA,NA,"Green"
+1121830,"Non Family Abduction","05/03/2009",3,"Male","Hispanic","San Bernardino","CA","92415",NA,NA
+1123476,"Non Family Abduction","05/22/2009",3,"Female","Biracial","Las Vegas","NV",NA,NA,NA
+1123476,"Non Family Abduction","05/22/2009",3,"Female","Biracial","Las Vegas","NV",NA,NA,NA
+1130260,"Non Family Abduction","09/01/2009",3,"Male","White","Sarasota","FL","34230","Sedan, 2 door","Silver"
+1132132,"Non Family Abduction","09/29/2009",3,"Female","White","Greenbrier","TN","37073","Pickup Truck","Blue, Dark"
+1136397,"Non Family Abduction","11/30/2009",3,"Male","Hispanic","Houston","TX","77089","Sport Utility","Gray"
+1142249,"Non Family Abduction","03/02/2010",3,"Female","Black","Gary","IN","46404","Sport Utility","Taupe (brown)"
+1144399,"Non Family Abduction","03/08/2010",3,"Female","Biracial","Pittsburgh","PA","15206",NA,NA
+1145130,"Non Family Abduction","04/13/2010",3,"Male","Asian","Tucker","GA",NA,"Van","Tan"
+1147093,"Non Family Abduction","05/11/2010",3,"Male","White","Marshallton","DE","19808",NA,NA
+1150928,"Non Family Abduction","06/29/2010",3,"Male","Hispanic","Olathe","KS",NA,NA,"Blue"
+1163061,"Non Family Abduction","01/04/2011",3,"Male","Black","Elmira","NY","14904","Sedan, 4 door","Red"
+1169342,"Non Family Abduction","04/05/2011",3,"Female","Hispanic","Albuquerque","NM","87109","Truck","White"
+1171508,"Non Family Abduction","05/08/2011",3,"Female","Hispanic","North Las Vegas","NV",NA,NA,NA
+1176957,"Non Family Abduction","07/27/2011",3,"Female","White","Union City","TN",NA,"Van","White"
+1176957,"Non Family Abduction","07/27/2011",3,"Male","White","Union City","TN",NA,"Van","White"
+1190506,"Non Family Abduction","03/09/2012",3,"Female","Am. Ind.","Lumberton","NC",NA,"Truck","Blue"
+1193101,"Non Family Abduction","04/21/2012",3,"Female","Black","Saint Louis","MO","63104",NA,NA
+1193101,"Non Family Abduction","04/21/2012",3,"Female","Black","Saint Louis","MO","63104",NA,NA
+1204151,"Non Family Abduction","10/11/2012",3,"Male","White","Niles","OH","44446","Sedan, 4 door","Silver"
+1208058,"Non Family Abduction","12/23/2012",3,"Female","Hispanic","Lake Forrest","CA","92630",NA,NA
+1210258,"Non Family Abduction","02/04/2013",3,"Male","Hispanic","North Miami","FL","33161","Sport Utility","Silver"
+1227501,"Non Family Abduction","12/15/2013",3,"Female","Black","Johnstown","PA","15902",NA,NA
+1231451,"Non Family Abduction","04/27/2014",3,"Female","White","Huron","CA","93234",NA,NA
+1232087,"Non Family Abduction","05/10/2014",3,"Female","White","Crossville","TN","38555","Sedan, 4 door","White"
+1237045,"Non Family Abduction","08/27/2014",3,"Female","White","Excelsior Springs","MO","64024","Unknown","Blue"
+1278220,"Non Family Abduction","10/04/2016",3,"Female","White","Augusta","ME",NA,NA,NA
+1280962,"Non Family Abduction","11/05/2016",3,"Male","Black","Fort Lauderdale","FL","33311","Sedan, 4 door","Maroon"
+1312289,"Non Family Abduction","10/31/2017",3,"Female","Black","Spring Lake","NC","28390",NA,NA
+1313494,"Non Family Abduction","11/13/2017",3,"Male","Hispanic","San Antonio","TX",NA,"Convertible","Green"
+1064323,"Lost Injured Missing","02/17/2007",4,"Female","Black","Galveston","TX","77550",NA,NA
+1065656,"Lost Injured Missing","02/20/2007",4,"Male","White","Bullhead City","AZ","86442",NA,NA
+1074284,"Lost Injured Missing","06/29/2007",4,"Male","Hispanic","Louisville","KY","40214",NA,NA
+1076841,"Lost Injured Missing","08/07/2007",4,"Male","Black","Greenville","SC","29607",NA,NA
+1080702,"Lost Injured Missing","10/03/2007",4,"Male","Black","Washington","DC","20019",NA,NA
+1093695,"Lost Injured Missing","04/03/2008",4,"Male","Black","Urbana","IL","61801",NA,NA
+1117576,"Lost Injured Missing","03/06/2009",4,"Female","White","Kansas City","MO","64133","Sport Utility","Red"
+1125778,"Lost Injured Missing","06/24/2009",4,"Female","White","Bakersville","NC","28705",NA,NA
+1129602,"Lost Injured Missing","07/01/2009",4,"Male","White","Elizabeth City","NC","27909","Van",NA
+1130550,"Lost Injured Missing","09/04/2009",4,"Male","White","Georgetown","PA","15043",NA,NA
+1134503,"Lost Injured Missing","10/30/2009",4,"Male","Hispanic","Mendota","CA",NA,NA,NA
+1137211,"Lost Injured Missing","12/14/2009",4,"Male","Black","Newburgh","NY",NA,NA,NA
+1141362,"Lost Injured Missing","02/04/2010",4,"Male","White","Fallbrook","CA","92028",NA,"White"
+1143306,"Lost Injured Missing","03/17/2010",4,"Female","White","Brookings","OR","97415",NA,NA
+1147095,"Lost Injured Missing","05/10/2010",4,"Male","White","Layton","UT","84041",NA,NA
+1147095,"Lost Injured Missing","05/10/2010",4,"Male","White","Layton","UT","84041",NA,NA
+1151352,"Lost Injured Missing","07/05/2010",4,"Female","White","Regina",NA,NA,"Sedan, 4 door","Brown"
+1160990,"Lost Injured Missing","03/01/2010",4,"Female","White","Mobile","AL","36695",NA,NA
+1167186,"Lost Injured Missing","10/01/2010",4,"Male","Black","Durham","NC",NA,NA,NA
+1171496,"Lost Injured Missing","05/08/2011",4,"Female","Black","Chattanooga","TN","37411",NA,NA
+1173685,"Lost Injured Missing","06/09/2011",4,"Male","White","Newark","OH","43055","Sedan, 4 door","White"
+1175898,"Lost Injured Missing","07/16/2011",4,"Male","Black","Detroit","MI","48202","Sedan, 4 door","Gold"
+1179878,"Lost Injured Missing","09/16/2011",4,"Male","Hispanic","Milford","DE",NA,"Sport Utility","White"
+1182478,"Lost Injured Missing","09/19/2011",4,"Female","Biracial","Arlington","VA",NA,NA,NA
+1190117,"Lost Injured Missing","03/03/2012",4,"Male","Biracial","Carlsbad","NM","88220",NA,NA
+1191437,"Lost Injured Missing","03/24/2012",4,"Male","White","Hardy","AR",NA,NA,NA
+1197271,"Lost Injured Missing","06/21/2012",4,"Male","Am. Ind.","Mount Pleasant","MI","48858","Van","Green"
+1212238,"Lost Injured Missing","03/13/2013",4,"Female","Hispanic","Frederiksted","VI","00840",NA,NA
+1212238,"Lost Injured Missing","03/13/2013",4,"Female","Hispanic","Frederiksted","VI","00840",NA,NA
+1212871,"Lost Injured Missing","03/23/2013",4,"Female","Black","Milwaukee","WI","53208",NA,NA
+1212871,"Lost Injured Missing","03/23/2013",4,"Female","Black","Milwaukee","WI","53208",NA,NA
+1219582,"Lost Injured Missing","07/17/2013",4,"Male","Black","Houston","TX","77088",NA,NA
+1219967,"Lost Injured Missing","07/24/2013",4,"Male","Hispanic","Durham","NC","27703",NA,NA
+1226334,"Lost Injured Missing","12/13/2013",4,"Female","Black","Miami","FL","33138",NA,NA
+1226540,"Lost Injured Missing","09/14/2013",4,"Male","Hispanic","Fitchburg","MA","01420",NA,NA
+1230901,"Lost Injured Missing","03/25/2014",4,"Male","Black","Dayton","OH","45405",NA,NA
+1233867,"Lost Injured Missing","01/20/2014",4,"Female","White","Duncan","OK","73533",NA,NA
+1234835,"Lost Injured Missing","07/08/2014",4,"Male","White","Harrisonville","MO",NA,NA,NA
+1241571,"Lost Injured Missing","12/12/2014",4,"Male","White","Denton","TX","76209",NA,NA
+1241869,"Lost Injured Missing","12/20/2014",4,"Male","Black","Baton Rouge","LA",NA,NA,NA
+1241991,"Lost Injured Missing","12/24/2014",4,"Male","Black","Little River","SC","29566",NA,NA
+1251989,"Lost Injured Missing","07/24/2015",4,"Male","White","Sheffield Lake","OH","44054",NA,NA
+1254435,"Lost Injured Missing","09/12/2015",4,"Male","Black","San Diego","CA","92112",NA,NA
+1261646,"Lost Injured Missing","01/22/2016",4,"Male","Hispanic","Fellsmere","FL",NA,NA,NA
+1267258,"Lost Injured Missing","04/29/2016",4,"Female","Hispanic","Brandon","FL","33511",NA,NA
+1275405,"Lost Injured Missing","08/21/2016",4,"Female","White","Dos Palos","CA",NA,NA,NA
+1288294,"Lost Injured Missing","02/06/2017",4,"Male","Black","Shreveport","LA","71108",NA,NA
+1297214,"Lost Injured Missing","05/13/2017",4,"Male","White","Fairbanks","AK","99712",NA,NA
+1297214,"Lost Injured Missing","05/13/2017",4,"Male","White","Fairbanks","AK","99712",NA,NA
+1315081,"Lost Injured Missing","12/02/2017",4,"Female","Black","Port Saint Lucie","FL","34953",NA,NA
+1061597,"Non Family Abduction","01/12/2007",4,"Male","Biracial","Anchorage","AK","99508",NA,NA
+1067696,"Non Family Abduction","04/02/2007",4,"Female","White","North Tonawanda","NY","14120","Sedan, 4 door","Gray"
+1085781,"Non Family Abduction","12/15/2007",4,"Male","White","Alamogordo","NM",NA,"Sedan, 4 door","Black"
+1088726,"Non Family Abduction","02/06/2008",4,"Male","Black","Minneapolis","MN",NA,NA,NA
+1096845,"Non Family Abduction","05/29/2008",4,"Female","Hispanic","San Antonio","TX","78207","Van","White"
+1116711,"Non Family Abduction","02/23/2009",4,"Female","Hispanic","Thousand Palms","CA",NA,"Van","Green"
+1122615,"Non Family Abduction","05/12/2009",4,"Female","Hispanic","Hidalgo","TX","78557","Truck","White"
+1125306,"Non Family Abduction","06/05/2009",4,"Female","White","Dunbar","WV","25064",NA,NA
+1126387,"Non Family Abduction","05/30/2009",4,"Female","Hispanic","Los Angeles","CA",NA,NA,NA
+1140596,"Non Family Abduction","02/04/2010",4,"Male","Hispanic","Mableton","GA","30126","Sport Utility","White"
+1151284,"Non Family Abduction","07/05/2010",4,"Female","White","Louisiana","MO","63353","Sedan, 4 door","Black"
+1163907,"Non Family Abduction","01/18/2011",4,"Male","Hispanic","Patterson","CA","95363","Sedan, 2 door","Silver"
+1176244,"Non Family Abduction","07/14/2011",4,"Male","White","Kissimmee","FL","34744",NA,NA
+1176621,"Non Family Abduction","07/26/2011",4,"Male","White","Terre Haute","IN",NA,NA,"White"
+1177229,"Non Family Abduction","08/05/2011",4,"Male","White","Atascadero","CA",NA,NA,NA
+1183730,"Non Family Abduction","11/16/2011",4,"Male","Hispanic","Dallas","TX",NA,NA,NA
+1191802,"Non Family Abduction","03/31/2012",4,"Female","Black","Houston","TX",NA,NA,"Gold"
+1243543,"Non Family Abduction","02/01/2015",4,"Female","Hispanic","Houston","TX","77089","Sedan, 4 door","Black"
+1262966,"Non Family Abduction","02/16/2016",4,"Female","White","Detroit","MI","48214","Sport Utility","Black"
+1263413,"Non Family Abduction","02/26/2016",4,"Female","Am. Ind.","Wolf Point","MT","59201",NA,NA
+1278562,"Non Family Abduction","10/08/2016",4,"Female","White","Lakeland","FL",NA,"Sedan, 4 door","Silver"
+1300442,"Non Family Abduction","06/20/2017",4,"Female","White","Milton","FL","32570",NA,"Green"
+1090549,"Lost Injured Missing","03/03/2008",5,"Male","White","Arlington","TX","76011","Sport Utility","Blue, Dark"
+1101281,"Lost Injured Missing","07/22/2008",5,"Male","White","Reynoldsburg","OH","43068","Van","Brown"
+1103452,"Lost Injured Missing","08/15/2008",5,"Male","Hispanic","Lynn","MA",NA,NA,NA
+1115793,"Lost Injured Missing","02/10/2009",5,"Female","White","Satsuma","FL","32189",NA,NA
+1115793,"Lost Injured Missing","02/10/2009",5,"Female","White","Satsuma","FL","32189",NA,NA
+1123521,"Lost Injured Missing","05/24/2009",5,"Female","White","Monroe","MI",NA,NA,NA
+1128642,"Lost Injured Missing","08/04/2009",5,"Female","White","Trenton","TN","38382",NA,NA
+1128642,"Lost Injured Missing","08/04/2009",5,"Female","White","Trenton","TN","38382",NA,NA
+1129016,"Lost Injured Missing","08/10/2009",5,"Male","Black","Oakland","CA",NA,NA,NA
+1135194,"Lost Injured Missing","11/10/2009",5,"Female","Black","Fayetteville","NC","28311",NA,NA
+1149727,"Lost Injured Missing","12/20/2008",5,"Female","Biracial","Kingston","TN",NA,NA,"Gray"
+1153540,"Lost Injured Missing","08/04/2010",5,"Male","White","Florence","OR",NA,NA,NA
+1156446,"Lost Injured Missing","09/17/2010",5,"Male","White","Presque Isle","MI","49777",NA,NA
+1157403,"Lost Injured Missing","10/02/2010",5,"Male","White","Warrensburg","MO","64093",NA,NA
+1160897,"Lost Injured Missing","11/26/2010",5,"Male","White","Morenci","MI","49256","Van","Silver"
+1160897,"Lost Injured Missing","11/26/2010",5,"Male","White","Morenci","MI","49256","Van","Silver"
+1162015,"Lost Injured Missing","12/14/2010",5,"Male","White","Port Orange","FL",NA,"Sport Utility","Black"
+1176368,"Lost Injured Missing","07/24/2011",5,"Female","Black","Detroit","MI","48206",NA,NA
+1179330,"Lost Injured Missing","09/07/2011",5,"Female","Black","Hampton","VA","23666",NA,NA
+1181452,"Lost Injured Missing","10/11/2011",5,"Female","Black","Glendale","AZ","85301",NA,NA
+1183069,"Lost Injured Missing","11/05/2011",5,"Male","White","Carrollton","KY",NA,NA,NA
+1183069,"Lost Injured Missing","11/05/2011",5,"Male","White","Carrollton","KY",NA,NA,NA
+1193114,"Lost Injured Missing","04/21/2012",5,"Male","Black","Philadelphia","PA","19142",NA,NA
+1198002,"Lost Injured Missing","07/03/2012",5,"Male","White","Oak Grove","WI","54011",NA,NA
+1199097,"Lost Injured Missing","07/19/2012",5,"Male","Black","Chicago","IL","60619",NA,NA
+1201418,"Lost Injured Missing","08/26/2012",5,"Female","White","Niagara Falls","NY","14301",NA,NA
+1212953,"Lost Injured Missing","03/25/2013",5,"Female","Black","Sacramento","CA","95828",NA,NA
+1212953,"Lost Injured Missing","03/25/2013",5,"Female","Black","Sacramento","CA","95828",NA,NA
+1223923,"Lost Injured Missing","10/09/2013",5,"Male","White","Lavaca","AR","72941","Sedan, 4 door","White"
+1227424,"Lost Injured Missing","12/29/2012",5,"Male","Hispanic","Los Angeles","CA","90045",NA,NA
+1227424,"Lost Injured Missing","12/29/2012",5,"Male","Hispanic","Los Angeles","CA","90045",NA,NA
+1228477,"Lost Injured Missing","04/01/2013",5,"Male","Biracial","Anchorage","AK","99515",NA,NA
+1233276,"Lost Injured Missing","05/26/2014",5,"Female","White","Kenai","AK","99611",NA,NA
+1233353,"Lost Injured Missing","06/09/2014",5,"Male","White","Taylorsville","NC",NA,"Sport Utility",NA
+1235022,"Lost Injured Missing","07/11/2014",5,"Male","Black","Port Huron","MI","48060",NA,NA
+1241736,"Lost Injured Missing","12/18/2014",5,"Male","White","Berne","NY","12023","Pickup Truck","Black"
+1245763,"Lost Injured Missing","03/22/2015",5,"Male","White","Dublin","VA","24084",NA,NA
+1252669,"Lost Injured Missing","08/06/2015",5,"Male","White","Jacob Lake","AZ",NA,NA,NA
+1257369,"Lost Injured Missing","06/01/2015",5,"Female","Black","Bellflower","CA","90706",NA,NA
+1260316,"Lost Injured Missing","12/31/2015",5,"Male","Hispanic","Allentown","PA",NA,NA,NA
+1260474,"Lost Injured Missing","10/19/2015",5,"Male","White","Indianapolis","IN",NA,NA,NA
+1270879,"Lost Injured Missing","06/22/2016",5,"Female","White","Bemidji","MN","56601",NA,NA
+1284935,"Lost Injured Missing","12/24/2016",5,"Female","Black","Ruther Glen","VA","22546","Sport Utility","Silver"
+1286008,"Lost Injured Missing","01/09/2017",5,"Female","Asian","Canton","OH","44720",NA,NA
+1294886,"Lost Injured Missing","04/23/2017",5,"Female","Hispanic","Waller","TX","77484",NA,NA
+1294909,"Lost Injured Missing","04/15/2017",5,"Male","Biracial","Baldwin Park","CA","91706","Sedan, 4 door","Gray"
+1312714,"Lost Injured Missing","11/03/2017",5,"Female","Biracial","Grandview","MO","64030",NA,NA
+1079408,"Non Family Abduction","09/13/2007",5,"Female","Hispanic","Norcross","GA",NA,"Sedan, 4 door","Green"
+1091339,"Non Family Abduction","03/14/2008",5,"Male","Black","Norfolk","VA","23523",NA,NA
+1097053,"Non Family Abduction","06/01/2008",5,"Female","Hispanic","Indianapolis","IN",NA,"Sedan, 4 door","Green"
+1099166,"Non Family Abduction","06/26/2008",5,"Male","White","Dublin","CA","94568","Sedan, 4 door","Blue"
+1108248,"Non Family Abduction","10/19/2008",5,"Male","Black","Alexandria","VA","22312",NA,NA
+1119235,"Non Family Abduction","03/25/2009",5,"Male","White","Boone","CO","81025","Pickup Truck","Black"
+1137785,"Non Family Abduction","12/25/2009",5,"Female","Hispanic","Phoenix","AZ","85029","Pickup Truck","Gold"
+1173327,"Non Family Abduction","06/05/2011",5,"Male","Black","Newport News","VA","23607","Sport Utility","Gold"
+1182694,"Non Family Abduction","10/30/2011",5,"Female","White","Anderson","CA","96007","Sport Utility","White"
+1197880,"Non Family Abduction","07/01/2012",5,"Male","Black","Mount Vernon","NY","10466",NA,NA
+1203415,"Non Family Abduction","09/30/2012",5,"Female","Biracial","North Miami","FL","33181",NA,NA
+1204922,"Non Family Abduction","10/24/2012",5,"Female","Biracial","Poplar Bluff","MO","63901","Sport Utility","Silver"
+1210258,"Non Family Abduction","02/04/2013",5,"Male","Hispanic","North Miami","FL","33161","Sport Utility","Silver"
+1213619,"Non Family Abduction","04/07/2013",5,"Female","White","Gladstone","MO","64119",NA,"Green"
+1245608,"Non Family Abduction","03/19/2015",5,"Female","Black","Union Springs","AL",NA,"Van","Maroon"
+1253413,"Non Family Abduction","08/18/2015",5,"Female","White","Mocksville","NC","27028","Crossover","Silver"
+1275027,"Non Family Abduction","08/20/2016",5,"Female","White","Watkins","MN",NA,"Truck","White"
+1065754,"Lost Injured Missing","03/08/2007",6,"Male","Biracial","Brunswick","GA","31520",NA,NA
+1075178,"Lost Injured Missing","07/14/2007",6,"Male","Hispanic","Del Rio","TX","78840",NA,NA
+1093695,"Lost Injured Missing","04/03/2008",6,"Female","Black","Urbana","IL","61801",NA,NA
+1094062,"Lost Injured Missing","04/18/2008",6,"Male","Biracial","Chicago","IL",NA,NA,"Silver"
+1096792,"Lost Injured Missing","05/28/2008",6,"Male","Hispanic","Nampa","ID",NA,"Sport Utility",NA
+1103955,"Lost Injured Missing","08/20/2008",6,"Female","White","Minooka","IL","60447","Sedan, 4 door","Gold"
+1113684,"Lost Injured Missing","01/10/2009",6,"Male","Black","Immokalee","FL","34142",NA,NA
+1125778,"Lost Injured Missing","06/24/2009",6,"Male","White","Bakersville","NC","28705",NA,NA
+1134094,"Lost Injured Missing","10/08/2009",6,"Female","White","Red Oak","OK","74432","Pickup Truck","White"
+1144587,"Lost Injured Missing","04/06/2010",6,"Female","Black","Chicago","IL","60637",NA,NA
+1149626,"Lost Injured Missing","06/12/2010",6,"Male","White","Saint George","UT","84770",NA,NA
+1155356,"Lost Injured Missing","08/28/2010",6,"Male","Biracial","Bradenton","FL",NA,NA,"White"
+1155513,"Lost Injured Missing","07/14/2010",6,"Female","White","Malden","MO","63863","Sedan, 4 door","Gray"
+1156025,"Lost Injured Missing","09/11/2010",6,"Male","Hispanic","Davie","FL","33324","Sport Utility","Black"
+1171497,"Lost Injured Missing","05/08/2011",6,"Female","Black","Chattanooga","TN","37411",NA,NA
+1171960,"Lost Injured Missing","05/12/2011",6,"Male","White","Aurora","IL","60506",NA,NA
+1176318,"Lost Injured Missing","07/20/2011",6,"Male","White","Hornell","NY","14843",NA,NA
+1183069,"Lost Injured Missing","11/05/2011",6,"Male","White","Carrollton","KY",NA,NA,NA
+1183069,"Lost Injured Missing","11/05/2011",6,"Male","White","Carrollton","KY",NA,NA,NA
+1191586,"Lost Injured Missing","03/27/2012",6,"Male","White","Colony","MO",NA,NA,NA
+1205377,"Lost Injured Missing","10/29/2012",6,"Female","Biracial","Staten Island","NY","10304",NA,NA
+1205377,"Lost Injured Missing","10/29/2012",6,"Female","Biracial","Staten Island","NY","10304",NA,NA
+1219378,"Lost Injured Missing","07/13/2013",6,"Female","Black","Harvey","LA","70058",NA,NA
+1220072,"Lost Injured Missing","07/26/2013",6,"Female","White","Jackson","OH","45640",NA,NA
+1226395,"Lost Injured Missing","12/15/2013",6,"Female","Biracial","Springfield","MA",NA,NA,NA
+1233401,"Lost Injured Missing","05/24/2014",6,"Female","Black","Detroit","MI",NA,NA,NA
+1236032,"Lost Injured Missing","08/02/2014",6,"Female","Biracial","East Bremerton","WA",NA,NA,NA
+1237481,"Lost Injured Missing","09/06/2014",6,"Male","Hispanic","San Jose","CA","95111",NA,NA
+1246824,"Lost Injured Missing","04/14/2015",6,"Male","White","Punta Gorda","FL","33983",NA,NA
+1268704,"Lost Injured Missing","05/22/2016",6,"Male","Black","Junction City","KS","66441",NA,NA
+1275405,"Lost Injured Missing","08/21/2016",6,"Female","White","Dos Palos","CA",NA,NA,NA
+1276967,"Lost Injured Missing","09/18/2016",6,"Male","Black","Youngsville","LA","70592",NA,NA
+1284309,"Lost Injured Missing","12/15/2016",6,"Male","White","Fond Du Lac","WI","54937","Sedan, 4 door","Black"
+1285316,"Lost Injured Missing","12/31/2016",6,"Male","White","Aurora","CO","80013",NA,NA
+1308471,"Lost Injured Missing","09/16/2017",6,"Female","White","Rio Rancho","NM","87124",NA,"Red"
+1091906,"Non Family Abduction","03/23/2008",6,"Female","Hispanic","Homestead","FL","33030",NA,NA
+1107980,"Non Family Abduction","10/15/2008",6,"Male","White","Las Vegas","NV","89156",NA,NA
+1115570,"Non Family Abduction","02/05/2009",6,"Female","White","North Richland Hills","TX","76180","Pickup Truck","Gray"
+1124922,"Non Family Abduction","05/22/2009",6,"Male","White","Skowhegan","ME","04976",NA,NA
+1151625,"Non Family Abduction","06/25/2010",6,"Female","White","Carbon Hill","AL","35549",NA,NA
+1158351,"Non Family Abduction","10/16/2010",6,"Male","Hispanic","Victoria","TX","77901","Van",NA
+1160141,"Non Family Abduction","11/12/2010",6,"Male","Hispanic","Houston","TX","77088",NA,NA
+1173327,"Non Family Abduction","06/05/2011",6,"Male","Black","Newport News","VA","23607","Sport Utility","Gold"
+1181414,"Non Family Abduction","10/10/2011",6,"Male","Hispanic","Alvin","TX","77511",NA,"Black"
+1188523,"Non Family Abduction","02/03/2012",6,"Female","Biracial","Saginaw","MI","48602","Sedan, 4 door","Maroon"
+1190242,"Non Family Abduction","02/13/2012",6,"Female","Hispanic","Deming","NM","88030",NA,NA
+1190242,"Non Family Abduction","02/13/2012",6,"Female","Hispanic","Deming","NM","88030",NA,NA
+1193092,"Non Family Abduction","04/20/2012",6,"Female","Hispanic","Tucson","AZ","85711",NA,NA
+1196384,"Non Family Abduction","06/09/2012",6,"Male","Black","Cabrillo","CA","90810",NA,NA
+1198730,"Non Family Abduction","07/13/2012",6,"Female","Black","Fresno","CA","93727",NA,NA
+1205259,"Non Family Abduction","10/30/2012",6,"Male","Hispanic","Barrio Obrero","PR","00915",NA,"Black"
+1215022,"Non Family Abduction","04/30/2013",6,"Female","Black","Scooba","MS","39358","Sedan, 4 door","Gray"
+1215236,"Non Family Abduction","05/04/2013",6,"Male","White","Confluence","PA","15424",NA,"White"
+1215236,"Non Family Abduction","05/04/2013",6,"Male","White","Confluence","PA","15424",NA,"White"
+1226663,"Non Family Abduction","12/21/2013",6,"Male","Biracial","Jefferson City","MO","65109","Sedan, 4 door","Maroon"
+1232087,"Non Family Abduction","05/10/2014",6,"Female","White","Crossville","TN","38555","Sedan, 4 door","White"
+1238449,"Non Family Abduction","09/29/2014",6,"Female","White","Duncan","OK","73533",NA,NA
+1244490,"Non Family Abduction","02/22/2015",6,"Female","White","Corpus Christi","TX",NA,"Van","White"
+1255938,"Non Family Abduction","10/11/2015",6,"Female","White","Houston","TX",NA,"Truck","Blue"
+1270521,"Non Family Abduction","06/16/2016",6,"Female","Black","Yoakum","TX","77995","Sedan, 4 door","White"
+1276757,"Non Family Abduction","09/14/2016",6,"Female","Hispanic","Wilmington","NC",NA,NA,NA
+1297292,"Non Family Abduction","05/18/2017",6,"Male","Black","Jackson","MS","39203","Sedan, 4 door","Gray"
+1313256,"Non Family Abduction","07/27/2017",6,"Female","Black","Los Angeles","CA","90047",NA,NA
+1062318,"Lost Injured Missing","01/22/2007",7,"Male","White","Hohenwald","TN","38462",NA,NA
+1073227,"Lost Injured Missing","06/14/2007",7,"Male","White","Nekoosa","WI","54457",NA,NA
+1073227,"Lost Injured Missing","06/14/2007",7,"Male","White","Nekoosa","WI","54457",NA,NA
+1074523,"Lost Injured Missing","07/04/2007",7,"Male","White","Memphis","TN",NA,NA,NA
+1084955,"Lost Injured Missing","12/01/2007",7,"Male","Black","Destrehan","LA","70047","Sedan, 4 door","Green"
+1092535,"Lost Injured Missing","03/31/2008",7,"Female","Asian","Salt Lake City","UT","84115",NA,NA
+1092749,"Lost Injured Missing","04/02/2008",7,"Male","White","Sacramento","CA","95822","Sport Utility","Purple"
+1094062,"Lost Injured Missing","04/18/2008",7,"Female","Biracial","Chicago","IL",NA,NA,"Silver"
+1095122,"Lost Injured Missing","05/04/2008",7,"Male","Biracial","Carol City","FL","33055",NA,NA
+1098314,"Lost Injured Missing","06/15/2008",7,"Male","Black","Pasadena","TX","77504",NA,NA
+1100400,"Lost Injured Missing","07/12/2008",7,"Female","Biracial","Seattle","WA","98178",NA,NA
+1101281,"Lost Injured Missing","07/22/2008",7,"Male","White","Reynoldsburg","OH","43068","Van","Brown"
+1108668,"Lost Injured Missing","10/24/2008",7,"Male","Black","Chicago","IL",NA,NA,"White"
+1129827,"Lost Injured Missing","08/18/2009",7,"Female","White","Idaho Falls","ID","83401","Sedan, 4 door","Yellow"
+1133666,"Lost Injured Missing","10/19/2009",7,"Female","White","Orange Park","FL","32073",NA,NA
+1134292,"Lost Injured Missing","10/20/2009",7,"Male","White","Georgetown","CA","95634",NA,"Silver"
+1135584,"Lost Injured Missing","11/16/2009",7,"Male","Black","Kernersville","NC",NA,NA,NA
+1139843,"Lost Injured Missing","01/22/2010",7,"Male","Biracial","Brooklyn","NY","11236",NA,NA
+1139867,"Lost Injured Missing","01/24/2010",7,"Female","White","Geronimo","OK",NA,"Coupe","White"
+1139867,"Lost Injured Missing","01/24/2010",7,"Female","White","Geronimo","OK",NA,"Coupe","White"
+1141175,"Lost Injured Missing","12/14/2009",7,"Male","White","Omaha","NE",NA,NA,"Beige"
+1144166,"Lost Injured Missing","02/25/2010",7,"Male","White","Spokane","WA","99217",NA,NA
+1149070,"Lost Injured Missing","06/04/2010",7,"Male","White","Portland","OR","97230",NA,NA
+1149070,"Lost Injured Missing","06/04/2010",7,"Male","White","Portland","OR","97230",NA,NA
+1149727,"Lost Injured Missing","12/20/2008",7,"Male","Biracial","Kingston","TN",NA,NA,"Gray"
+1160897,"Lost Injured Missing","11/26/2010",7,"Male","White","Morenci","MI","49256","Van","Silver"
+1160897,"Lost Injured Missing","11/26/2010",7,"Male","White","Morenci","MI","49256","Van","Silver"
+1173716,"Lost Injured Missing","06/12/2011",7,"Male","White","Aurora","IN","47001",NA,NA
+1174423,"Lost Injured Missing","06/10/2011",7,"Male","Biracial","Bath","NY","14810","Sedan, 4 door","Silver"
+1175182,"Lost Injured Missing","07/05/2011",7,"Male","Hispanic","Phoenix","AZ","85051",NA,NA
+1175898,"Lost Injured Missing","07/16/2011",7,"Female","Black","Detroit","MI","48202","Sedan, 4 door","Gold"
+1178367,"Lost Injured Missing","08/22/2011",7,"Male","Asian","Madison","WI","53711",NA,NA
+1179627,"Lost Injured Missing","09/11/2011",7,"Male","Hispanic","Arvin","CA","93203",NA,NA
+1180394,"Lost Injured Missing","09/24/2011",7,"Male","White","Willisburg","KY","40078",NA,NA
+1185214,"Lost Injured Missing","12/02/2011",7,"Female","Hispanic","Canton","GA","30114",NA,NA
+1197266,"Lost Injured Missing","06/20/2012",7,"Male","White","Canon City","CO",NA,"Motorized Home","Tan"
+1197266,"Lost Injured Missing","06/20/2012",7,"Male","White","Canon City","CO",NA,"Sport Utility","Tan"
+1203253,"Lost Injured Missing","09/23/2012",7,"Male","White","Unionville","TN",NA,NA,NA
+1208583,"Lost Injured Missing","01/05/2013",7,"Male","White","Seligman","AZ","86337",NA,NA
+1209858,"Lost Injured Missing","06/03/2009",7,"Male","Hispanic","San Luis Potosi",NA,NA,NA,NA
+1209858,"Lost Injured Missing","06/03/2009",7,"Male","Hispanic","San Luis Potosi",NA,NA,NA,NA
+1218439,"Lost Injured Missing","06/26/2013",7,"Female","Hispanic","Eagle Pass","TX","78852",NA,"White"
+1218629,"Lost Injured Missing","02/01/2013",7,"Male","Hispanic","Parlier","CA","94648",NA,NA
+1218976,"Lost Injured Missing","07/07/2013",7,"Male","Black","Washington","DC","200025",NA,NA
+1220243,"Lost Injured Missing","07/29/2013",7,"Male","Black","Riverdale","IL","60827",NA,NA
+1223459,"Lost Injured Missing","09/29/2013",7,"Male","Hispanic","Carrollton","TX","75006","Sport Utility","White"
+1224855,"Lost Injured Missing","11/01/2013",7,"Male","Black","Brandon","MS","39042",NA,NA
+1224855,"Lost Injured Missing","11/01/2013",7,"Male","Black","Brandon","MS","39042",NA,NA
+1231781,"Lost Injured Missing","05/03/2014",7,"Male","Black","Philadelphia","PA","19151",NA,NA
+1232154,"Lost Injured Missing","05/12/2014",7,"Female","Black","Oakland","CA","94605",NA,NA
+1247001,"Lost Injured Missing","04/17/2015",7,"Male","Black","York","PA","17401",NA,NA
+1249551,"Lost Injured Missing","05/07/2015",7,"Female","Biracial","New Philadelphia","OH","33134",NA,"Blue"
+1258714,"Lost Injured Missing","11/13/2015",7,"Male","Black","Flint","MI","48505",NA,NA
+1262593,"Lost Injured Missing","02/05/2016",7,"Male","Black","Pittsburgh","PA","15235","Sedan, 4 door","Black"
+1270141,"Lost Injured Missing","06/10/2016",7,"Male","Black","Pico Rivera","CA","90660",NA,NA
+1272811,"Lost Injured Missing","07/19/2016",7,"Female","White","Amarillo","TX",NA,NA,NA
+1275405,"Lost Injured Missing","08/21/2016",7,"Male","White","Dos Palos","CA",NA,NA,NA
+1287045,"Lost Injured Missing","01/21/2017",7,"Male","Biracial","Virginia Beach","VA",NA,"Sport Utility","Green"
+1297214,"Lost Injured Missing","05/13/2017",7,"Male","White","Fairbanks","AK","99712",NA,NA
+1297214,"Lost Injured Missing","05/13/2017",7,"Male","White","Fairbanks","AK","99712",NA,NA
+1306206,"Lost Injured Missing","08/20/2017",7,"Female","White","South Lake Tahoe","CA","96150","Sport Utility","Black"
+1310494,"Lost Injured Missing","10/11/2017",7,"Male","White","Pedro","OH","45659",NA,NA
+1074293,"Non Family Abduction","06/29/2007",7,"Female","Hispanic","Bakersfield","CA","93307",NA,NA
+1113605,"Non Family Abduction","01/09/2009",7,"Male","Hispanic","Riverside","CA",NA,NA,NA
+1158024,"Non Family Abduction","10/11/2010",7,"Female","White","Rome","GA",NA,NA,NA
+1182694,"Non Family Abduction","10/30/2011",7,"Male","White","Anderson","CA","96007","Sport Utility","White"
+1198224,"Non Family Abduction","07/06/2012",7,"Male","Black","Houston","TX","77044","Sedan, 4 door","Black"
+1209946,"Non Family Abduction","01/27/2013",7,"Male","White","Citrus Heights","CA","95621","Sport Utility","Silver"
+1236489,"Non Family Abduction","08/13/2014",7,"Female","White","Oswegatchie","NY",NA,"Sedan, 4 door","White"
+1240220,"Non Family Abduction","11/08/2014",7,"Female","White","Ardmore","OK",NA,"Hatchback/Fastback","Silver"
+1251170,"Non Family Abduction","07/08/2015",7,"Male","Hispanic","Alice","TX","78332","Sedan, 4 door","White"
+1260302,"Non Family Abduction","12/31/2015",7,"Male","Black","Zwolle","LA","71486","Sport Utility",NA
+1283232,"Non Family Abduction","12/05/2016",7,"Female","Hispanic","Wichita","KS",NA,"Sport Utility","Black"
+1067473,"Lost Injured Missing","03/28/2007",8,"Female","White","Mesa","AZ",NA,NA,NA
+1077707,"Lost Injured Missing","08/12/2007",8,"Female","White","Shamokin","PA",NA,"Sedan, 2 door","White"
+1083730,"Lost Injured Missing","11/09/2007",8,"Female","Black","Irvington","NJ","07111",NA,NA
+1096931,"Lost Injured Missing","05/29/2008",8,"Female","White","Naples","FL","34104","Sedan, 4 door","Tan"
+1100044,"Lost Injured Missing","07/08/2008",8,"Male","Black","Chicago","IL",NA,NA,NA
+1100044,"Lost Injured Missing","07/08/2008",8,"Male","Black","Chicago","IL",NA,NA,NA
+1101281,"Lost Injured Missing","07/22/2008",8,"Female","White","Reynoldsburg","OH","43068","Van","Brown"
+1107777,"Lost Injured Missing","10/13/2008",8,"Male","Am. Ind.","Sand Springs","OK","74063",NA,NA
+1109474,"Lost Injured Missing","11/05/2008",8,"Male","White","Sheboygan","WI","53081",NA,NA
+1110175,"Lost Injured Missing","11/14/2008",8,"Male","White","Independence","OR","97351",NA,NA
+1119218,"Lost Injured Missing","03/27/2009",8,"Female","Hispanic","Tracy","CA","95376",NA,NA
+1119681,"Lost Injured Missing","03/16/2009",8,"Female","Black","East Orange","NJ","07017",NA,NA
+1125237,"Lost Injured Missing","06/13/2009",8,"Male","Black","Salt Lake City","UT","84104",NA,NA
+1128002,"Lost Injured Missing","07/24/2009",8,"Male","White","Boise","ID","83705",NA,NA
+1139960,"Lost Injured Missing","01/25/2010",8,"Male","White","Fayetteville","TN","37334","Station Wagon","Gray"
+1139960,"Lost Injured Missing","01/25/2010",8,"Male","White","Fayetteville","TN","37334",NA,"Blue"
+1144986,"Lost Injured Missing","04/12/2010",8,"Male","White","Oakland","CA","94602",NA,NA
+1145526,"Lost Injured Missing","04/16/2010",8,"Male","Black","Dallas","TX","75235",NA,NA
+1151032,"Lost Injured Missing","06/30/2010",8,"Male","White","Reedsburg","WI",NA,NA,NA
+1151453,"Lost Injured Missing","07/07/2010",8,"Male","Black","Norfolk","VA","23508",NA,NA
+1154846,"Lost Injured Missing","08/24/2010",8,"Male","White","Lumberton","NJ","08048","Sport Utility","Black"
+1161779,"Lost Injured Missing","12/12/2010",8,"Male","Hispanic","Orlando","FL",NA,NA,NA
+1172918,"Lost Injured Missing","05/28/2011",8,"Male","White","Kissimmee","FL","34741",NA,"White"
+1176318,"Lost Injured Missing","07/20/2011",8,"Female","White","Hornell","NY","14843",NA,NA
+1179630,"Lost Injured Missing","09/12/2011",8,"Male","White","Twin Peaks","CA","92391",NA,NA
+1180212,"Lost Injured Missing","09/21/2011",8,"Female","White","Mitchell","NE","69357",NA,NA
+1182284,"Lost Injured Missing","10/23/2011",8,"Male","White","Richmond","VA",NA,NA,NA
+1182284,"Lost Injured Missing","10/23/2011",8,"Male","White","Richmond","VA",NA,NA,NA
+1186243,"Lost Injured Missing","12/23/2011",8,"Female","Hispanic","Grapevine","TX","76051",NA,NA
+1193991,"Lost Injured Missing","05/02/2012",8,"Female","White","Casar","NC","28020",NA,NA
+1198465,"Lost Injured Missing","07/10/2012",8,"Male","White","Montour Falls","NY","14865","Pickup Truck","Blue"
+1198726,"Lost Injured Missing","07/13/2012",8,"Female","White","Evansdale","IA","50707",NA,NA
+1200858,"Lost Injured Missing","08/10/2012",8,"Female","Hispanic","Las Vegas","NV","89106",NA,NA
+1216159,"Lost Injured Missing","05/17/2013",8,"Male","White","Escambia","FL",NA,NA,NA
+1221229,"Lost Injured Missing","08/14/2013",8,"Male","Black","Peoria","IL",NA,NA,NA
+1221397,"Lost Injured Missing","08/18/2013",8,"Male","White","Fort Wayne","IN","46805",NA,NA
+1223001,"Lost Injured Missing","05/25/2013",8,"Female","White","Mesa","AZ","85201","Pickup Truck","Blue"
+1223459,"Lost Injured Missing","09/29/2013",8,"Female","Hispanic","Carrollton","TX","75006","Sport Utility","White"
+1225118,"Lost Injured Missing","11/08/2013",8,"Male","Black","West Palm Beach","FL","33409",NA,NA
+1226916,"Lost Injured Missing","12/28/2013",8,"Male","Hispanic","North Las Vegas","NV","89084",NA,NA
+1232076,"Lost Injured Missing","05/09/2014",8,"Male","Black","Miami","FL","33161",NA,NA
+1237246,"Lost Injured Missing","09/01/2014",8,"Female","White","Bullhead City","AZ","86442",NA,NA
+1237246,"Lost Injured Missing","09/01/2014",8,"Female","White","Bullhead City","AZ","86442",NA,NA
+1237963,"Lost Injured Missing","09/16/2014",8,"Female","Black","Prichard","AL","36612",NA,NA
+1238311,"Lost Injured Missing","09/25/2014",8,"Male","White","Skokie","IL","60077",NA,NA
+1239607,"Lost Injured Missing","10/25/2014",8,"Male","Biracial","Macclenny","FL","32063",NA,NA
+1247671,"Lost Injured Missing","04/25/2015",8,"Female","Biracial","Glasgow","KY","42141",NA,NA
+1247671,"Lost Injured Missing","04/25/2015",8,"Female","Biracial","Glasgow","KY","42141",NA,NA
+1250223,"Lost Injured Missing","06/21/2015",8,"Male","Black","Niagara Falls","NY","14305",NA,NA
+1252041,"Lost Injured Missing","07/26/2015",8,"Female","White","Santa Cruz","CA","95060",NA,NA
+1258714,"Lost Injured Missing","11/13/2015",8,"Female","Black","Flint","MI","48505",NA,NA
+1270170,"Lost Injured Missing","06/12/2016",8,"Male","White","Duncan","OK","73533",NA,NA
+1271931,"Lost Injured Missing","05/30/2016",8,"Female","Hispanic","Hialeah Gardens","FL","33018",NA,NA
+1275405,"Lost Injured Missing","08/21/2016",8,"Male","White","Dos Palos","CA",NA,NA,NA
+1301922,"Lost Injured Missing","07/07/2017",8,"Male","Black","Brownsburg","IN","46112",NA,NA
+1309709,"Lost Injured Missing","09/22/2017",8,"Male","Black","Port Saint Lucie","FL","34952","Sedan, 4 door","Gray"
+1315674,"Lost Injured Missing","12/08/2017",8,"Male","Black","Dallas","TX","75228",NA,NA
+1074293,"Non Family Abduction","06/29/2007",8,"Male","Hispanic","Bakersfield","CA","93307",NA,NA
+1091339,"Non Family Abduction","03/14/2008",8,"Male","Black","Norfolk","VA","23523",NA,NA
+1108798,"Non Family Abduction","10/24/2008",8,"Male","Hispanic","Lubbock","TX",NA,NA,"Blue"
+1108798,"Non Family Abduction","10/24/2008",8,"Male","Hispanic","Lubbock","TX",NA,"Station Wagon","Blue"
+1130138,"Non Family Abduction","08/31/2009",8,"Male","Black","Wilkinsburg","PA","15221",NA,NA
+1156448,"Non Family Abduction","09/18/2010",8,"Female","Black","San Antonio","TX","78207","Sport Utility","Blue"
+1157507,"Non Family Abduction","10/04/2010",8,"Female","Hispanic","Fresno","CA","93703","Pickup Truck",NA
+1159155,"Non Family Abduction","10/28/2010",8,"Male","Black","Houston","TX",NA,"Sedan, 4 door","Gray"
+1175525,"Non Family Abduction","07/11/2011",8,"Male","Black","Baltimore","MD",NA,NA,"Green"
+1175546,"Non Family Abduction","07/11/2011",8,"Male","White","New York","NY",NA,"Sedan, 4 door","Gold"
+1180876,"Non Family Abduction","08/20/2011",8,"Male","Black","Hesperia","CA",NA,NA,NA
+1189325,"Non Family Abduction","02/16/2012",8,"Male","Hispanic","Palatine","IL","60067","Sedan, 4 door","Silver"
+1193808,"Non Family Abduction","04/27/2012",8,"Female","White","Somerville","TN","38075","Sport Utility","Bronze"
+1196385,"Non Family Abduction","06/09/2012",8,"Female","Black","Cabrillo","CA","90810",NA,NA
+1218200,"Non Family Abduction","06/21/2013",8,"Female","White","Jacksonville","FL","32218","Van","White"
+1220640,"Non Family Abduction","08/03/2013",8,"Male","White","Lakeside","CA","92040","Convertible","Silver"
+1220640,"Non Family Abduction","08/03/2013",8,"Male","White","Lakeside","CA","92040","Sedan, 4 door","Blue"
+1229904,"Non Family Abduction","03/19/2014",8,"Female","Black","Washington","DC",NA,"Sport Utility","Red"
+1229904,"Non Family Abduction","03/19/2014",8,"Female","Black","Washington","DC",NA,"Sedan, 4 door","Black"
+1247042,"Non Family Abduction","04/20/2015",8,"Male","White","Fairfield","CA",NA,NA,"Silver"
+1256772,"Non Family Abduction","10/25/2015",8,"Male","White","Ruston","LA",NA,"Sport Utility","Dark"
+1260992,"Non Family Abduction","01/08/2016",8,"Male","Black","Beaumont","TX","77713","Sedan, 4 door","Dark"
+1283232,"Non Family Abduction","12/05/2016",8,"Male","Hispanic","Wichita","KS",NA,"Sport Utility","Black"
+1296150,"Non Family Abduction","05/05/2017",8,"Female","Black","Bennettsville","SC","29512",NA,NA
+1064665,"Lost Injured Missing","02/22/2007",9,"Male","White","Phoenix","AZ","85053",NA,NA
+1080683,"Lost Injured Missing","10/03/2007",9,"Female","Black","Washington","DC","20011",NA,NA
+1080685,"Lost Injured Missing","10/03/2007",9,"Female","Black","Washington","DC","20011",NA,NA
+1083099,"Lost Injured Missing","11/02/2007",9,"Female","White","Stella","MO","64867",NA,NA
+1084417,"Lost Injured Missing","11/22/2007",9,"Male","Black","Atlantic Beach","FL","32233",NA,NA
+1090435,"Lost Injured Missing","02/25/2008",9,"Male","White","Melrose Park","IL","60160",NA,NA
+1093695,"Lost Injured Missing","04/03/2008",9,"Male","Black","Urbana","IL","61801",NA,NA
+1097280,"Lost Injured Missing","06/03/2008",9,"Male","Black","Newport News","VA",NA,NA,NA
+1097694,"Lost Injured Missing","06/08/2008",9,"Female","White","Villa Grove","IL","61956",NA,NA
+1098971,"Lost Injured Missing","06/14/2008",9,"Female","Black","Fruitridge","CA","95820","Sedan, 4 door","Black"
+1103143,"Lost Injured Missing","08/14/2008",9,"Male","Hispanic","Salinas","CA",NA,NA,NA
+1117651,"Lost Injured Missing","03/07/2009",9,"Male","Hispanic","West Chester","PA","19380",NA,NA
+1120672,"Lost Injured Missing","04/15/2009",9,"Male","Black","Santa Maria","CA","93455",NA,NA
+1129827,"Lost Injured Missing","08/18/2009",9,"Male","White","Idaho Falls","ID","83401","Sedan, 4 door","Yellow"
+1129979,"Lost Injured Missing","08/26/2009",9,"Male","White","Sacramento","CA","95827","Pickup Truck","Blue"
+1132379,"Lost Injured Missing","10/02/2009",9,"Male","Black","Lancaster","TX","75134",NA,NA
+1133894,"Lost Injured Missing","10/21/2009",9,"Female","White","Saint Martins","MO",NA,NA,NA
+1136727,"Lost Injured Missing","12/05/2009",9,"Male","Black","Desoto","TX","75115",NA,NA
+1138407,"Lost Injured Missing","01/05/2010",9,"Male","Black","Albany","GA",NA,NA,NA
+1139359,"Lost Injured Missing","01/15/2010",9,"Female","White","Yellville","AR","72687",NA,NA
+1146980,"Lost Injured Missing","05/08/2010",9,"Male","Black","Elk Grove","CA","95758",NA,NA
+1149727,"Lost Injured Missing","12/20/2008",9,"Female","Biracial","Kingston","TN",NA,NA,"Gray"
+1153827,"Lost Injured Missing","08/10/2010",9,"Male","Black","Minneapolis","MN","55407",NA,NA
+1154661,"Lost Injured Missing","08/21/2010",9,"Male","Black","Roanoke","VA","24016",NA,NA
+1154661,"Lost Injured Missing","08/21/2010",9,"Male","Black","Roanoke","VA","24016",NA,NA
+1160897,"Lost Injured Missing","11/26/2010",9,"Male","White","Morenci","MI","49256","Van","Silver"
+1160897,"Lost Injured Missing","11/26/2010",9,"Male","White","Morenci","MI","49256","Van","Silver"
+1161368,"Lost Injured Missing","12/04/2010",9,"Male","Black","Philadelphia","PA","19131",NA,NA
+1165534,"Lost Injured Missing","02/09/2011",9,"Female","Black","Washington","DC","20020",NA,NA
+1165534,"Lost Injured Missing","02/09/2011",9,"Female","Black","Washington","DC","20020",NA,NA
+1170875,"Lost Injured Missing","04/24/2011",9,"Female","White","Crestwood","IL","60445","Sedan, 4 door","Tan"
+1170875,"Lost Injured Missing","04/24/2011",9,"Female","White","Crestwood","IL","60445","Sedan, 4 door","Tan"
+1172670,"Lost Injured Missing","05/24/2011",9,"Female","Black","Chicago","IL","60609",NA,NA
+1173558,"Lost Injured Missing","06/08/2011",9,"Male","Hispanic","Fresno","CA","93702",NA,NA
+1174570,"Lost Injured Missing","06/25/2011",9,"Male","Hispanic","Los Angeles","CA","90011",NA,NA
+1178509,"Lost Injured Missing","08/24/2011",9,"Male","White","West Valley City","UT","84119",NA,NA
+1179627,"Lost Injured Missing","09/11/2011",9,"Female","Hispanic","Arvin","CA","93203",NA,NA
+1183461,"Lost Injured Missing","11/11/2011",9,"Female","Asian","Fresno","CA","93705",NA,NA
+1185080,"Lost Injured Missing","12/01/2011",9,"Male","Hispanic","Oxnard","CA","93035",NA,NA
+1185936,"Lost Injured Missing","12/16/2011",9,"Male","Hispanic","Carbondale","CO","81623",NA,NA
+1186267,"Lost Injured Missing","12/23/2011",9,"Female","White","Fort Wayne","IN","46825",NA,NA
+1188520,"Lost Injured Missing","02/03/2012",9,"Male","Hispanic","Smyrna","GA","30080",NA,NA
+1194166,"Lost Injured Missing","05/07/2012",9,"Male","Asian","Sugar Land","TX","77498","Sedan, 4 door","Red"
+1202265,"Lost Injured Missing","09/08/2012",9,"Female","Hispanic","Brooklyn","NY","11220",NA,NA
+1203253,"Lost Injured Missing","09/23/2012",9,"Female","White","Unionville","TN",NA,NA,NA
+1206938,"Lost Injured Missing","11/25/2012",9,"Female","White","Fillmore","UT","84631",NA,NA
+1207269,"Lost Injured Missing","12/06/2012",9,"Male","Black","South Holland","IL","60473",NA,NA
+1208005,"Lost Injured Missing","12/21/2012",9,"Female","White","Griffin","GA","30223",NA,NA
+1210770,"Lost Injured Missing","02/11/2013",9,"Female","White","Broken Bow","OK","74728",NA,NA
+1212871,"Lost Injured Missing","03/23/2013",9,"Female","Black","Milwaukee","WI","53208",NA,NA
+1212871,"Lost Injured Missing","03/23/2013",9,"Female","Black","Milwaukee","WI","53208",NA,NA
+1213404,"Lost Injured Missing","01/31/2013",9,"Male","Black","Bismarck","ND","58504","Sedan, 4 door","White"
+1215793,"Lost Injured Missing","05/12/2013",9,"Female","White","Clearlake","CA","95422",NA,NA
+1215947,"Lost Injured Missing","05/14/2013",9,"Female","Black","Laurel","MD",NA,NA,NA
+1218439,"Lost Injured Missing","06/26/2013",9,"Female","Hispanic","Eagle Pass","TX","78852",NA,"White"
+1219607,"Lost Injured Missing","07/06/2013",9,"Male","Black","Harrisburg","PA","17104",NA,NA
+1219607,"Lost Injured Missing","07/06/2013",9,"Male","Black","Harrisburg","PA","17104",NA,NA
+1224490,"Lost Injured Missing","10/23/2013",9,"Male","Black","Pomona","CA","91766",NA,NA
+1224877,"Lost Injured Missing","11/01/2013",9,"Male","Biracial","Austin","TX","78724",NA,NA
+1227858,"Lost Injured Missing","01/27/2014",9,"Male","Black","Little Rock","AR",NA,NA,NA
+1228579,"Lost Injured Missing","02/14/2014",9,"Male","Black","Kansas City","MO","64132",NA,NA
+1232347,"Lost Injured Missing","05/16/2014",9,"Female","Black","Temple Terrace","FL","33617",NA,NA
+1232712,"Lost Injured Missing","05/26/2014",9,"Male","Black","Liverpool","NY","13088",NA,NA
+1232944,"Lost Injured Missing","05/30/2014",9,"Male","White","Clearlake","CA","95422",NA,NA
+1236452,"Lost Injured Missing","08/13/2014",9,"Male","White","Live Oak","FL",NA,NA,NA
+1248260,"Lost Injured Missing","05/11/2015",9,"Female","Biracial","Victorville","CA","93292","Sedan, 4 door","Silver"
+1249305,"Lost Injured Missing","06/03/2015",9,"Male","Black","Peoria","IL","61604",NA,NA
+1250913,"Lost Injured Missing","07/04/2015",9,"Male","Black","Davison","MI",NA,NA,NA
+1252028,"Lost Injured Missing","07/26/2015",9,"Male","White","Elkins","WV","26241",NA,NA
+1252694,"Lost Injured Missing","08/07/2015",9,"Male","White","Odenton","MD",NA,NA,NA
+1252694,"Lost Injured Missing","08/07/2015",9,"Male","White","Odenton","MD",NA,NA,NA
+1261830,"Lost Injured Missing","01/29/2016",9,"Female","Black","Philadelphia","PA","19139",NA,NA
+1269206,"Lost Injured Missing","05/29/2016",9,"Female","Hispanic","Fort Myers","FL","33908","Sedan, 4 door",NA
+1272741,"Lost Injured Missing","07/18/2016",9,"Male","Hispanic","National City","CA","91950",NA,NA
+1273777,"Lost Injured Missing","08/02/2016",9,"Male","Black","Dallas","TX",NA,NA,NA
+1274262,"Lost Injured Missing","08/09/2016",9,"Male","Black","Columbia","MD","21045",NA,NA
+1278620,"Lost Injured Missing","10/09/2016",9,"Female","White","Mesa","AZ","85206",NA,NA
+1280446,"Lost Injured Missing","07/31/2016",9,"Male","White","Winnetka","IL","60093","Truck","Silver"
+1286891,"Lost Injured Missing","01/18/2017",9,"Male","White","Hillsdale","MI",NA,NA,NA
+1288670,"Lost Injured Missing","02/10/2017",9,"Female","Black","Portsmouth","VA","23701",NA,NA
+1295213,"Lost Injured Missing","04/23/2017",9,"Male","White","Mena","AR","71953","Sport Utility","Blue"
+1302154,"Lost Injured Missing","07/07/2017",9,"Male","White","Sebring","FL","33870",NA,NA
+1305114,"Lost Injured Missing","08/10/2017",9,"Male","Black","Atlanta","GA","30331",NA,NA
+1309182,"Lost Injured Missing","09/19/2017",9,"Female","Hispanic","Aguadilla","PR","00603",NA,NA
+1311756,"Lost Injured Missing","10/24/2017",9,"Male","Hispanic","Cape Coral","FL",NA,NA,NA
+1311756,"Lost Injured Missing","10/24/2017",9,"Male","Hispanic","Cape Coral","FL",NA,NA,NA
+1080196,"Non Family Abduction","07/29/2007",9,"Female","Am. Ind.","Tucson","AZ",NA,"Pickup Truck","Green, Dark"
+1080196,"Non Family Abduction","07/29/2007",9,"Female","Am. Ind.","Tucson","AZ",NA,"Sport Utility","Silver"
+1091664,"Non Family Abduction","03/19/2008",9,"Male","White","Bakersfield","CA","93304","Sedan, 4 door","Black"
+1112929,"Non Family Abduction","12/30/2008",9,"Male","White","Patton","MO",NA,"Sport Utility","Gold"
+1160141,"Non Family Abduction","11/12/2010",9,"Male","Hispanic","Houston","TX",NA,NA,NA
+1172939,"Non Family Abduction","05/25/2011",9,"Female","Pacific Islander","Saipan","MP",NA,NA,NA
+1187645,"Non Family Abduction","01/19/2012",9,"Female","Hispanic","Pueblo","CO","81004",NA,NA
+1188523,"Non Family Abduction","02/03/2012",9,"Male","Biracial","Saginaw","MI","48602","Sedan, 4 door","Maroon"
+1195358,"Non Family Abduction","05/24/2012",9,"Female","Black","Long Beach","CA","90806",NA,"Black"
+1232707,"Non Family Abduction","05/26/2014",9,"Male","Hispanic","Hickory","NC","28601",NA,NA
+1239742,"Non Family Abduction","05/29/2014",9,"Female","Hispanic","Tezoyuca",NA,NA,NA,NA
+1290958,"Non Family Abduction","03/09/2017",9,"Female","Hispanic","Victoria","TX","77903",NA,"Blue"
+1290958,"Non Family Abduction","03/09/2017",9,"Male","Hispanic","Victoria","TX","77903",NA,"Blue"
+1063145,"Lost Injured Missing","01/27/2007",10,"Male","Black","New Smyrna Beach","FL","32168",NA,NA
+1063771,"Lost Injured Missing","02/06/2007",10,"Male","Black","Jamaica","NY","11434",NA,NA
+1064837,"Lost Injured Missing","02/24/2007",10,"Male","White","Livingston","MT","59047",NA,NA
+1064837,"Lost Injured Missing","02/24/2007",10,"Male","White","Livingston","MT","59047",NA,NA
+1065991,"Lost Injured Missing","03/12/2007",10,"Male","White","East Layton","UT","84040",NA,NA
+1067128,"Lost Injured Missing","03/25/2007",10,"Female","Hispanic","Bowling Green","FL","33834","Van","Red"
+1068866,"Lost Injured Missing","04/16/2007",10,"Male","Black","Brooklyn","NY","11233",NA,NA
+1069010,"Lost Injured Missing","04/21/2007",10,"Female","White","Mountain City","TN","37683","Pickup Truck","Silver"
+1069010,"Lost Injured Missing","04/21/2007",10,"Female","White","Mountain City","TN","37683","Pickup Truck","Silver"
+1074147,"Lost Injured Missing","06/27/2007",10,"Male","Black","Auburn","NY","13021",NA,NA
+1074789,"Lost Injured Missing","07/06/2007",10,"Female","White","Rockford","IL","61103",NA,NA
+1074899,"Lost Injured Missing","04/04/2007",10,"Female","Hispanic","San Salvador",NA,NA,NA,NA
+1078203,"Lost Injured Missing","08/27/2007",10,"Female","Black","Oakland","CA","94612",NA,NA
+1083764,"Lost Injured Missing","11/13/2007",10,"Female","Black","Gulf Hammock","FL","32639",NA,NA
+1089797,"Lost Injured Missing","02/23/2008",10,"Female","Hispanic","San Francisco","CA","94102",NA,NA
+1089797,"Lost Injured Missing","02/23/2008",10,"Female","Hispanic","San Francisco","CA","94102",NA,NA
+1091703,"Lost Injured Missing","03/19/2008",10,"Male","White","Campbell","CA","95008",NA,NA
+1095301,"Lost Injured Missing","05/05/2008",10,"Male","White","Richland","WA","99352",NA,NA
+1096406,"Lost Injured Missing","05/22/2008",10,"Female","Black","Roseville","MI","48066",NA,NA
+1101467,"Lost Injured Missing","07/26/2008",10,"Male","Black","Pasadena","CA","91104",NA,NA
+1102409,"Lost Injured Missing","08/05/2008",10,"Female","Black","Joliet","IL","60433",NA,NA
+1102698,"Lost Injured Missing","08/09/2008",10,"Male","Black","Chicago","IL","60615",NA,NA
+1108716,"Lost Injured Missing","10/25/2008",10,"Female","White","Live Oak","TX","78233",NA,NA
+1109995,"Lost Injured Missing","11/13/2008",10,"Female","Black","Philadelphia","PA",NA,NA,NA
+1110060,"Lost Injured Missing","11/14/2008",10,"Male","Hispanic","Seguin","TX","78155",NA,NA
+1111376,"Lost Injured Missing","12/04/2008",10,"Female","White","Philadelphia","PA","19120",NA,NA
+1114582,"Lost Injured Missing","01/23/2009",10,"Male","Black","Baltimore","MD","21236",NA,NA
+1123609,"Lost Injured Missing","05/22/2009",10,"Male","Black","Phoenix","AZ","85040",NA,NA
+1124111,"Lost Injured Missing","09/26/2008",10,"Male","Hispanic","Riverside","CA","92503",NA,NA
+1125977,"Lost Injured Missing","06/26/2009",10,"Female","White","McCleary","WA","98557",NA,NA
+1132874,"Lost Injured Missing","10/09/2009",10,"Male","White","Henrietta","TX","76365",NA,NA
+1133454,"Lost Injured Missing","10/14/2009",10,"Female","Hispanic","Lake Elsinore","CA","92530",NA,NA
+1137628,"Lost Injured Missing","12/19/2009",10,"Male","Hispanic","Salt Lake City","UT","84115",NA,NA
+1143656,"Lost Injured Missing","03/23/2010",10,"Male","Black","Los Angeles","CA","90002",NA,NA
+1144166,"Lost Injured Missing","02/25/2010",10,"Female","White","Spokane","WA","99217",NA,NA
+1148914,"Lost Injured Missing","06/02/2010",10,"Female","Black","Philadelphia","PA",NA,NA,NA
+1149215,"Lost Injured Missing","06/07/2010",10,"Male","Black","Pamplico","SC","29583",NA,NA
+1153034,"Lost Injured Missing","07/28/2010",10,"Male","Black","Morrow","GA","30260",NA,NA
+1153930,"Lost Injured Missing","08/11/2010",10,"Male","Black","Morrow","GA","30260",NA,NA
+1157878,"Lost Injured Missing","10/09/2010",10,"Female","White","Hickory","NC","28601",NA,NA
+1163917,"Lost Injured Missing","01/18/2011",10,"Male","Black","Goodyear","AZ","85338",NA,NA
+1164569,"Lost Injured Missing","01/26/2011",10,"Male","White","Holladay","UT","84117",NA,NA
+1165020,"Lost Injured Missing","02/01/2011",10,"Male","Black","Martinsburg","WV","25404",NA,NA
+1165821,"Lost Injured Missing","02/12/2011",10,"Female","White","Kingman","AZ","86409",NA,NA
+1171957,"Lost Injured Missing","05/13/2011",10,"Male","Hispanic","May","MD",NA,NA,NA
+1172978,"Lost Injured Missing","05/30/2011",10,"Female","White","Arvada","CO","80004",NA,NA
+1180802,"Lost Injured Missing","09/30/2011",10,"Male","Black","Fresno","CA","93706",NA,NA
+1180891,"Lost Injured Missing","10/03/2011",10,"Female","White","Fort McCoy","FL","32134",NA,NA
+1182636,"Lost Injured Missing","10/29/2011",10,"Female","Hispanic","Carrollton","TX","75006",NA,NA
+1185805,"Lost Injured Missing","12/14/2011",10,"Male","Black","Washington","DC","20019",NA,NA
+1193039,"Lost Injured Missing","04/19/2012",10,"Female","Black","East Orange","NJ","07081",NA,NA
+1194231,"Lost Injured Missing","05/08/2012",10,"Male","White","Warner Robins","GA","31088",NA,NA
+1194768,"Lost Injured Missing","05/10/2012",10,"Male","White","Council Bluffs","IA",NA,NA,NA
+1197557,"Lost Injured Missing","06/26/2012",10,"Male","Hispanic","Van Nuys","CA","91405",NA,NA
+1198725,"Lost Injured Missing","07/13/2012",10,"Female","White","Evansdale","IA","50707",NA,NA
+1200727,"Lost Injured Missing","08/14/2012",10,"Female","Am. Ind.","Ukiah","CA","95482",NA,NA
+1200804,"Lost Injured Missing","08/15/2012",10,"Male","Black","Philadelphia","PA","19134",NA,NA
+1201206,"Lost Injured Missing","08/22/2012",10,"Male","Am. Ind.","Fairbanks","AK","99701",NA,NA
+1202063,"Lost Injured Missing","08/28/2012",10,"Female","Black","Chicago","IL","60651",NA,NA
+1202242,"Lost Injured Missing","09/07/2012",10,"Male","Black","North Miami","FL",NA,NA,NA
+1203248,"Lost Injured Missing","09/24/2012",10,"Female","Black","Bear Lake","MI","49614",NA,NA
+1203248,"Lost Injured Missing","09/24/2012",10,"Female","Black","Bear Lake","MI","49614",NA,NA
+1203501,"Lost Injured Missing","09/30/2012",10,"Female","White","Lancaster","CA","93534",NA,NA
+1203807,"Lost Injured Missing","10/05/2012",10,"Female","White","Westminster","CO",NA,NA,NA
+1205487,"Lost Injured Missing","11/02/2012",10,"Female","Biracial","Covington","KY","41011",NA,NA
+1208078,"Lost Injured Missing","12/21/2012",10,"Female","Black","Las Vegas","NV","89106",NA,NA
+1210151,"Lost Injured Missing","02/01/2013",10,"Female","Black","Indianapolis","IN","46226",NA,NA
+1214798,"Lost Injured Missing","04/26/2013",10,"Male","Biracial","Keller","TX","76248",NA,NA
+1217443,"Lost Injured Missing","06/09/2013",10,"Female","White","Port Deposit","MD","21904",NA,NA
+1220164,"Lost Injured Missing","07/28/2013",10,"Male","White","Kiryas Joel","NY","10950",NA,NA
+1220595,"Lost Injured Missing","08/04/2013",10,"Male","Black","Rochester","NY","14613",NA,NA
+1222845,"Lost Injured Missing","09/14/2013",10,"Male","White","Belding","MI","48809",NA,NA
+1223001,"Lost Injured Missing","05/25/2013",10,"Female","White","Mesa","AZ","85201","Pickup Truck","Blue"
+1225117,"Lost Injured Missing","11/08/2013",10,"Male","White","Oroville","CA","95965",NA,NA
+1228437,"Lost Injured Missing","02/11/2014",10,"Male","White","Newville","PA","17241",NA,NA
+1228552,"Lost Injured Missing","02/14/2014",10,"Male","White","Beaumont","CA","92223",NA,NA
+1229645,"Lost Injured Missing","03/13/2014",10,"Male","Black","Lehigh Acres","FL","33971",NA,NA
+1231795,"Lost Injured Missing","05/02/2014",10,"Male","Hispanic","Corpus Christi","TX","78416",NA,NA
+1232487,"Lost Injured Missing","05/20/2014",10,"Male","Black","Philadelphia","PA","19123",NA,NA
+1235382,"Lost Injured Missing","07/18/2014",10,"Female","White","Port Charlotte","FL","33953",NA,NA
+1235668,"Lost Injured Missing","07/24/2014",10,"Female","Black","Skokie","IL","60076",NA,NA
+1236864,"Lost Injured Missing","08/19/2014",10,"Female","Black","Jersey City","NJ","07305",NA,NA
+1239837,"Lost Injured Missing","10/30/2014",10,"Female","White","Rio Rancho","NM","87124",NA,NA
+1245355,"Lost Injured Missing","03/01/2015",10,"Male","White","Wellsville","NY",NA,NA,NA
+1245852,"Lost Injured Missing","03/18/2015",10,"Male","Black","Crystal","MN","55422",NA,NA
+1248566,"Lost Injured Missing","05/19/2015",10,"Male","Black","Kankakee","IL","60901",NA,NA
+1249958,"Lost Injured Missing","06/15/2015",10,"Male","Hispanic","Porterville","CA","93257",NA,NA
+1251723,"Lost Injured Missing","07/20/2015",10,"Female","White","Nevada City","CA","95959",NA,NA
+1262851,"Lost Injured Missing","02/17/2016",10,"Male","Hispanic","Porterville","CA","93257",NA,NA
+1267258,"Lost Injured Missing","04/29/2016",10,"Female","Hispanic","Brandon","FL","33511",NA,NA
+1269641,"Lost Injured Missing","06/03/2016",10,"Male","Biracial","Chicago","IL",NA,NA,NA
+1269646,"Lost Injured Missing","06/04/2016",10,"Male","Black","Rochester","MN","55904",NA,NA
+1272890,"Lost Injured Missing","07/17/2016",10,"Male","Black","Buckeye","AZ","85326",NA,NA
+1274013,"Lost Injured Missing","07/28/2016",10,"Female","Black","San Antonio","TX","78210",NA,NA
+1277097,"Lost Injured Missing","09/01/2016",10,"Female","Black","Minneapolis","MN","55407",NA,NA
+1278084,"Lost Injured Missing","10/02/2016",10,"Male","Asian","Waukesha","WI","53189",NA,NA
+1279615,"Lost Injured Missing","10/19/2016",10,"Male","Black","Minneapolis","MN","55407",NA,NA
+1279615,"Lost Injured Missing","10/19/2016",10,"Male","Black","Minneapolis","MN","55407",NA,NA
+1280574,"Lost Injured Missing","11/01/2016",10,"Female","Hispanic","Bullard","TX","75757",NA,NA
+1299281,"Lost Injured Missing","06/07/2017",10,"Female","White","Thornton","CO","80241",NA,NA
+1302789,"Lost Injured Missing","07/17/2017",10,"Female","White","East Wenatchee","WA",NA,NA,NA
+1303824,"Lost Injured Missing","07/27/2017",10,"Female","Hispanic","Cleveland","TN",NA,NA,NA
+1303837,"Lost Injured Missing","07/27/2017",10,"Male","Hispanic","Parlier","CA","93648",NA,NA
+1308170,"Lost Injured Missing","09/15/2017",10,"Male","Black","Saint Louis","MO","63147",NA,NA
+1062037,"Non Family Abduction","01/18/2007",10,"Female","White","Texhoma","OK","73949","Sedan, 4 door","White"
+1074293,"Non Family Abduction","06/29/2007",10,"Female","Hispanic","Bakersfield","CA","93307",NA,NA
+1074720,"Non Family Abduction","07/08/2007",10,"Male","Black","Perris","CA",NA,NA,"Maroon"
+1098434,"Non Family Abduction","06/17/2008",10,"Female","Black","Lansing","MI",NA,NA,NA
+1172939,"Non Family Abduction","05/25/2011",10,"Female","Pacific Islander","Saipan","MP",NA,NA,NA
+1173885,"Non Family Abduction","06/14/2011",10,"Female","White","Tipton","IN","46072","Sedan, 4 door","Silver"
+1192068,"Non Family Abduction","03/31/2012",10,"Female","Biracial","Amberg","WI","54102","Sport Utility","Maroon"
+1213042,"Non Family Abduction","03/27/2013",10,"Female","White","Northridge","CA","91324",NA,NA
+1218465,"Non Family Abduction","06/26/2013",10,"Male","White","Fresno","CA",NA,NA,NA
+1224677,"Non Family Abduction","10/27/2013",10,"Male","White","Santa Fe","NM","87505","Sedan, 4 door","Green"
+1228708,"Non Family Abduction","02/18/2014",10,"Female","White","Springfield","MO","65802","Pickup Truck","Gold"
+1271193,"Non Family Abduction","06/27/2016",10,"Male","Hispanic","Dallas","TX","75203",NA,NA
+1063363,"Lost Injured Missing","02/02/2007",11,"Male","White","Doucette","TX","75942",NA,NA
+1068057,"Lost Injured Missing","04/06/2007",11,"Female","Hispanic","Keizer","OR","97303",NA,NA
+1074644,"Lost Injured Missing","06/21/2007",11,"Female","White","Section","AL","35771","Van","White"
+1074644,"Lost Injured Missing","06/21/2007",11,"Female","White","Section","AL","35771","Van","White"
+1085032,"Lost Injured Missing","12/03/2007",11,"Male","Asian","Houston","TX","77005",NA,NA
+1085687,"Lost Injured Missing","12/12/2007",11,"Male","Biracial","Inglewood","CA","90301",NA,NA
+1094062,"Lost Injured Missing","04/18/2008",11,"Male","Biracial","Chicago","IL",NA,NA,"Silver"
+1096536,"Lost Injured Missing","05/16/2008",11,"Male","Hispanic","Nogales","AZ","85621",NA,NA
+1101062,"Lost Injured Missing","07/21/2008",11,"Female","Black","Port Huron","MI","48060",NA,NA
+1104484,"Lost Injured Missing","09/01/2008",11,"Female","Black","Lauderhill","FL","33313",NA,NA
+1123609,"Lost Injured Missing","05/22/2009",11,"Male","Black","Phoenix","AZ","85040",NA,NA
+1126875,"Lost Injured Missing","07/08/2009",11,"Male","White","Seymour","TN","37865",NA,NA
+1129743,"Lost Injured Missing","08/24/2009",11,"Female","Hispanic","Horizon City","TX","79928",NA,NA
+1130642,"Lost Injured Missing","09/06/2009",11,"Male","White","Cleveland","OH","44109","Van","Green"
+1130966,"Lost Injured Missing","09/11/2009",11,"Male","White","Mount Pleasant","MI","48858",NA,"Blue"
+1143038,"Lost Injured Missing","03/14/2010",11,"Female","White","Poplar","MT","59255",NA,NA
+1144827,"Lost Injured Missing","04/09/2010",11,"Female","White","Winter Springs","FL","32708",NA,NA
+1148838,"Lost Injured Missing","06/02/2010",11,"Female","Hispanic","Tuckasegee","NC","28783",NA,NA
+1150698,"Lost Injured Missing","06/25/2010",11,"Female","Asian","Rockaway Beach","NY","11694",NA,NA
+1152431,"Lost Injured Missing","07/20/2010",11,"Male","Hispanic","Compton","CA","90221",NA,NA
+1153079,"Lost Injured Missing","07/29/2010",11,"Male","Hispanic","Miami","FL","33155",NA,NA
+1158914,"Lost Injured Missing","10/25/2010",11,"Male","White","Tecumseh","MI","49286",NA,NA
+1160086,"Lost Injured Missing","11/10/2010",11,"Male","White","Howard","OH",NA,NA,NA
+1164665,"Lost Injured Missing","01/27/2011",11,"Female","Black","Milwaukee","WI","53218",NA,NA
+1167603,"Lost Injured Missing","03/08/2011",11,"Female","Black","New Orleans","LA","70114",NA,NA
+1170875,"Lost Injured Missing","04/24/2011",11,"Female","White","Crestwood","IL","60445","Sedan, 4 door","Tan"
+1176359,"Lost Injured Missing","07/23/2011",11,"Male","White","Gorman","CA","93243","Van","Bronze"
+1176359,"Lost Injured Missing","07/23/2011",11,"Male","White","Gorman","CA","93243","Van","Bronze"
+1176624,"Lost Injured Missing","07/25/2011",11,"Female","White","West Stewartstown","NH","03597",NA,NA
+1181530,"Lost Injured Missing","09/30/2011",11,"Male","Black","Germantown","MD",NA,"Sport Utility","Black"
+1182863,"Lost Injured Missing","11/02/2011",11,"Female","Black","Harrisburg","PA",NA,NA,NA
+1183461,"Lost Injured Missing","11/11/2011",11,"Female","Asian","Fresno","CA","93705",NA,NA
+1184995,"Lost Injured Missing","11/30/2011",11,"Female","Asian","Lombard","IL","60148","Sport Utility",NA
+1186108,"Lost Injured Missing","12/20/2011",11,"Female","Black","Miami","FL","33168",NA,NA
+1189748,"Lost Injured Missing","02/24/2012",11,"Male","Black","Los Angeles","CA","90032",NA,NA
+1192176,"Lost Injured Missing","04/04/2012",11,"Female","White","Fairfield","CA","94533",NA,NA
+1200103,"Lost Injured Missing","08/02/2012",11,"Female","White","Mountain View","CA","94043","Sport Utility","Red"
+1202079,"Lost Injured Missing","09/04/2012",11,"Female","Hispanic","Miami Gardens","FL","33056",NA,NA
+1203501,"Lost Injured Missing","09/30/2012",11,"Female","White","Lancaster","CA","93534",NA,NA
+1204800,"Lost Injured Missing","10/22/2012",11,"Female","Hispanic","Riverview","FL","33569",NA,NA
+1206517,"Lost Injured Missing","11/24/2012",11,"Female","White","Russells Point","OH","43348",NA,NA
+1207194,"Lost Injured Missing","11/03/2012",11,"Male","Hispanic","Stockton","CA","95207",NA,"Blue"
+1207353,"Lost Injured Missing","12/08/2012",11,"Male","Hispanic","East Haven","CT","06512",NA,NA
+1218978,"Lost Injured Missing","07/06/2013",11,"Male","White","Menifee","CA","92584",NA,NA
+1220809,"Lost Injured Missing","08/07/2013",11,"Male","White","East Grand Forks","MN","56721",NA,NA
+1222947,"Lost Injured Missing","09/17/2013",11,"Male","White","Spring Hill","TN","37174",NA,NA
+1227965,"Lost Injured Missing","01/29/2014",11,"Female","Black","Bedford","TX","76021",NA,NA
+1234365,"Lost Injured Missing","06/25/2014",11,"Female","Hispanic","Beltsville","MD","20705",NA,NA
+1243192,"Lost Injured Missing","01/24/2015",11,"Female","White","Nevada City","CA","95959",NA,NA
+1245355,"Lost Injured Missing","03/01/2015",11,"Male","White","Wellsville","NY",NA,NA,NA
+1246957,"Lost Injured Missing","04/16/2015",11,"Male","Black","Hyattsville","MD","20782",NA,NA
+1252544,"Lost Injured Missing","08/03/2015",11,"Male","Black","Folcroft","PA",NA,NA,NA
+1269962,"Lost Injured Missing","06/08/2016",11,"Female","Black","Houston","TX","77014",NA,NA
+1274013,"Lost Injured Missing","07/28/2016",11,"Female","Black","San Antonio","TX","78210",NA,NA
+1277733,"Lost Injured Missing","09/27/2016",11,"Female","White","Catawba","NC",NA,NA,NA
+1080196,"Non Family Abduction","07/29/2007",11,"Male","Am. Ind.","Tucson","AZ",NA,"Pickup Truck","Green, Dark"
+1080196,"Non Family Abduction","07/29/2007",11,"Male","Am. Ind.","Tucson","AZ",NA,"Sport Utility","Silver"
+1097481,"Non Family Abduction","06/04/2008",11,"Female","Hispanic","Las Vegas","NV",NA,"Sedan, 4 door","Red"
+1108798,"Non Family Abduction","10/24/2008",11,"Female","Hispanic","Lubbock","TX",NA,NA,"Blue"
+1108798,"Non Family Abduction","10/24/2008",11,"Female","Hispanic","Lubbock","TX",NA,"Station Wagon","Blue"
+1114664,"Non Family Abduction","01/25/2009",11,"Female","Hispanic","Tyler","TX","75701",NA,"Blue"
+1125833,"Non Family Abduction","06/25/2009",11,"Female","Hispanic","Salinas","CA","93901","Sedan, 2 door","Green"
+1137689,"Non Family Abduction","12/22/2009",11,"Female","White","Salisbury","MD","21804",NA,NA
+1151152,"Non Family Abduction","07/01/2010",11,"Male","Hispanic","Salisbury","NC","28147",NA,"White"
+1187650,"Non Family Abduction","01/20/2012",11,"Female","Asian","San Jose","CA",NA,"Van","Dark"
+1245708,"Non Family Abduction","01/31/2015",11,"Female","Biracial","Eureka","CA","95501",NA,NA
+1267468,"Non Family Abduction","05/02/2016",11,"Female","Am. Ind.","Ship Rock","NM",NA,"Van","Maroon"
+1292948,"Non Family Abduction","04/02/2017",11,"Female","Black","Charlotte","NC","28227","Sedan, 4 door","White"
+1060905,"Lost Injured Missing","01/03/2007",12,"Female","Hispanic","Stockton","CA","95201",NA,NA
+1066477,"Lost Injured Missing","03/17/2007",12,"Male","White","Traphill","NC",NA,NA,NA
+1070671,"Lost Injured Missing","03/26/2007",12,"Female","White","Paris","TX","75460",NA,NA
+1074899,"Lost Injured Missing","04/04/2007",12,"Female","Hispanic","San Salvador",NA,NA,NA,NA
+1083247,"Lost Injured Missing","11/01/2007",12,"Male","Biracial","Greenwich","NY","12834",NA,NA
+1083247,"Lost Injured Missing","11/01/2007",12,"Male","Biracial","Greenwich","NY","12834",NA,NA
+1083247,"Lost Injured Missing","11/01/2007",12,"Male","Biracial","Greenwich","NY","12834",NA,NA
+1083764,"Lost Injured Missing","11/13/2007",12,"Female","Black","Gulf Hammock","FL","32639",NA,NA
+1087418,"Lost Injured Missing","01/15/2008",12,"Female","Hispanic","Lathrop","CA","95330",NA,NA
+1091658,"Lost Injured Missing","03/13/2008",12,"Female","Hispanic","Altama","GA","31520","Sedan, 4 door","Teal (green)"
+1093779,"Lost Injured Missing","04/15/2008",12,"Female","Hispanic","Charlottesville","VA","22901",NA,NA
+1093889,"Lost Injured Missing","04/18/2008",12,"Male","Black","San Bernardino","CA","92407",NA,NA
+1095122,"Lost Injured Missing","05/04/2008",12,"Female","Biracial","Carol City","FL","33055",NA,NA
+1099135,"Lost Injured Missing","06/25/2008",12,"Female","White","Randolph","VT",NA,NA,NA
+1101435,"Lost Injured Missing","07/24/2008",12,"Male","Asian","Carlsbad","CA","92018","Sport Utility","Black"
+1130559,"Lost Injured Missing","09/04/2009",12,"Male","Black","Fort Smith","AR","72903",NA,NA
+1144147,"Lost Injured Missing","03/28/2010",12,"Female","White","Greeley","CO",NA,NA,NA
+1144166,"Lost Injured Missing","02/25/2010",12,"Male","White","Spokane","WA","99217",NA,NA
+1154679,"Lost Injured Missing","08/21/2010",12,"Male","Biracial","Los Angeles","CA","90019",NA,NA
+1156334,"Lost Injured Missing","09/05/2010",12,"Female","White","Williams","AZ",NA,"Sedan, 4 door","Silver"
+1157130,"Lost Injured Missing","09/28/2010",12,"Female","Black","Palm Springs","FL","33461",NA,NA
+1158554,"Lost Injured Missing","10/19/2010",12,"Male","Black","Lake Alfred","FL","33850",NA,NA
+1158826,"Lost Injured Missing","10/23/2010",12,"Male","White","Gallatin","TN",NA,NA,NA
+1159916,"Lost Injured Missing","11/09/2010",12,"Male","Asian","Gardena","CA","90221",NA,NA
+1162566,"Lost Injured Missing","12/24/2010",12,"Male","White","Houston","TX","77018",NA,NA
+1164629,"Lost Injured Missing","01/24/2011",12,"Female","Black","Houston","TX","77091",NA,NA
+1174658,"Lost Injured Missing","06/23/2011",12,"Male","White","Petersburg","IN","47567",NA,NA
+1180891,"Lost Injured Missing","10/03/2011",12,"Male","White","Fort McCoy","FL","32134",NA,NA
+1189898,"Lost Injured Missing","02/28/2012",12,"Female","Black","Lake Worth","FL","33460",NA,NA
+1200867,"Lost Injured Missing","08/09/2012",12,"Female","Hispanic","Falfurrias","TX","78355",NA,NA
+1202242,"Lost Injured Missing","09/07/2012",12,"Female","Black","North Miami","FL",NA,NA,NA
+1203015,"Lost Injured Missing","09/21/2012",12,"Male","White","Coeur D'Alene","ID",NA,NA,NA
+1204746,"Lost Injured Missing","10/20/2012",12,"Female","White","Clayton","NJ","08312",NA,NA
+1210856,"Lost Injured Missing","02/14/2013",12,"Female","White","Arroyo Grande","CA","93420",NA,NA
+1218919,"Lost Injured Missing","07/04/2013",12,"Male","Hispanic","Brooklyn","NY","11207",NA,NA
+1220075,"Lost Injured Missing","07/26/2013",12,"Male","Black","Saint Louis","MO","63136",NA,NA
+1221488,"Lost Injured Missing","08/19/2013",12,"Female","White","Golden City","MO",NA,NA,NA
+1222308,"Lost Injured Missing","09/04/2013",12,"Male","Black","Los Angeles","CA","90047",NA,NA
+1226916,"Lost Injured Missing","12/28/2013",12,"Male","Hispanic","North Las Vegas","NV","89084",NA,NA
+1229206,"Lost Injured Missing","03/03/2014",12,"Female","Hispanic","Salt Lake City","UT","84119",NA,NA
+1229645,"Lost Injured Missing","03/13/2014",12,"Female","Black","Lehigh Acres","FL","33971",NA,NA
+1234541,"Lost Injured Missing","06/30/2014",12,"Female","Black","Saint James","LA","70086",NA,NA
+1244128,"Lost Injured Missing","02/12/2015",12,"Male","Black","Washington","DC","20019",NA,NA
+1252944,"Lost Injured Missing","08/11/2015",12,"Female","Biracial","North Hills","CA","91343",NA,NA
+1257489,"Lost Injured Missing","11/04/2015",12,"Female","Hispanic","Cicero","IL","60804",NA,NA
+1262283,"Lost Injured Missing","02/07/2016",12,"Female","White","Rockwood","TN",NA,"Truck","Brown"
+1277535,"Lost Injured Missing","09/24/2016",12,"Female","Biracial","Willowick","OH","44095",NA,NA
+1278155,"Lost Injured Missing","09/21/2016",12,"Female","Hispanic","Tulsa","OK","74128",NA,NA
+1279790,"Lost Injured Missing","10/23/2016",12,"Female","Black","Raleigh","NC","27601",NA,NA
+1281936,"Lost Injured Missing","11/18/2016",12,"Male","White","Indiana","PA","15701",NA,NA
+1298545,"Lost Injured Missing","05/31/2017",12,"Female","Black","Pensacola","FL","32514",NA,NA
+1302217,"Lost Injured Missing","07/11/2017",12,"Male","Black","Albany","GA",NA,NA,NA
+1074540,"Non Family Abduction","07/04/2007",12,"Female","White","Tacoma","WA","98405","Van",NA
+1097556,"Non Family Abduction","06/05/2008",12,"Male","Black","Miami","FL",NA,"Sport Utility","White"
+1135575,"Non Family Abduction","11/15/2009",12,"Female","Black","Chicago","IL","60621",NA,NA
+1147406,"Non Family Abduction","05/10/2010",12,"Female","Hispanic","Harlingen","TX","78550","Sport Utility","Red"
+1152833,"Non Family Abduction","07/20/2010",12,"Male","Black","Harrisburg","PA","17103",NA,NA
+1160417,"Non Family Abduction","11/15/2010",12,"Female","White","Clemson","SC",NA,"Sedan, 4 door","Tan"
+1161405,"Non Family Abduction","12/03/2010",12,"Female","White","Salem","VA",NA,NA,"Red"
+1161405,"Non Family Abduction","12/03/2010",12,"Female","White","Salem","VA",NA,"Sedan, 4 door","Silver"
+1162166,"Non Family Abduction","12/13/2010",12,"Female","Black","Hartford","CT","06120",NA,NA
+1162675,"Non Family Abduction","12/27/2010",12,"Female","Hispanic","Fayetteville","GA","30214","Convertible","Red"
+1166300,"Non Family Abduction","02/20/2011",12,"Female","White","Lilburn","GA","30047","Van","White"
+1166300,"Non Family Abduction","02/20/2011",12,"Female","White","Lilburn","GA","30047","Van","White"
+1174633,"Non Family Abduction","06/26/2011",12,"Female","White","Loris","SC","29569","Truck","Green"
+1177158,"Non Family Abduction","08/01/2011",12,"Female","Hispanic","Social Circle","GA","30025","Pickup Truck","White"
+1189111,"Non Family Abduction","02/13/2012",12,"Female","White","Kalispell","MT",NA,"Coupe","Black"
+1190506,"Non Family Abduction","03/09/2012",12,"Male","Am. Ind.","Lumberton","NC",NA,"Truck","Blue"
+1193808,"Non Family Abduction","04/27/2012",12,"Female","White","Somerville","TN","38075","Sport Utility","Bronze"
+1195744,"Non Family Abduction","05/31/2012",12,"Female","White","El Dorado","KS","67042","Sedan, 4 door","White"
+1197391,"Non Family Abduction","06/23/2012",12,"Female","White","Margate","FL","33063","Sedan, 4 door","Silver"
+1199667,"Non Family Abduction","07/28/2012",12,"Female","Black","Little Rock","AR",NA,"Sedan, 4 door","Black"
+1203072,"Non Family Abduction","09/23/2012",12,"Female","White","Newport","NC","28570","Sedan, 2 door","Red"
+1207967,"Non Family Abduction","12/18/2012",12,"Female","Hispanic","Chesapeake","VA","23324","Sedan, 2 door","Red"
+1236489,"Non Family Abduction","08/13/2014",12,"Female","White","Oswegatchie","NY",NA,"Sedan, 4 door","White"
+1239240,"Non Family Abduction","10/14/2014",12,"Male","Black","Seaford","DE","19973","Sport Utility","Black"
+1239240,"Non Family Abduction","10/14/2014",12,"Male","Black","Seaford","DE","19973",NA,"Black"
+1240318,"Non Family Abduction","11/11/2014",12,"Female","White","Nottingham","MD","21236",NA,NA
+1265642,"Non Family Abduction","03/29/2016",12,"Female","Black","San Leandro","CA","94578",NA,NA
+1268611,"Non Family Abduction","05/19/2016",12,"Female","Hispanic","Springfield","VA","22150",NA,NA
+1289142,"Non Family Abduction","02/16/2017",12,"Female","Black","Winona","MS","38967",NA,NA
+1294160,"Non Family Abduction","04/15/2017",12,"Female","Hispanic","Atlanta","GA","30354",NA,NA
+1297736,"Non Family Abduction","05/23/2017",12,"Female","White","Lyndon","NY",NA,"Pickup Truck","Red"
+1065415,"Lost Injured Missing","03/03/2007",13,"Male","Black","Florida City","FL","33034",NA,NA
+1065767,"Lost Injured Missing","03/06/2007",13,"Female","Black","Saint Louis","MO","63136",NA,NA
+1070291,"Lost Injured Missing","05/01/2007",13,"Male","White","Round O","SC","29474",NA,NA
+1071442,"Lost Injured Missing","05/19/2007",13,"Male","Hispanic","Enfield","CT","06082",NA,NA
+1073596,"Lost Injured Missing","06/16/2007",13,"Female","Hispanic","Harlingen","TX","78550",NA,NA
+1074226,"Lost Injured Missing","06/03/2007",13,"Male","Hispanic","Sells","AZ","85634",NA,NA
+1074226,"Lost Injured Missing","06/03/2007",13,"Male","Hispanic","Sells","AZ","85634",NA,NA
+1077612,"Lost Injured Missing","08/18/2007",13,"Female","Hispanic","Grand Junction","MI",NA,"Truck","Red"
+1080898,"Lost Injured Missing","10/06/2007",13,"Male","Hispanic","San Antonio","TX","78237",NA,NA
+1081702,"Lost Injured Missing","10/17/2007",13,"Male","White","Baltimore","MD","21228",NA,NA
+1083733,"Lost Injured Missing","11/09/2007",13,"Female","White","Tulsa","OK","74134",NA,NA
+1083823,"Lost Injured Missing","11/13/2007",13,"Female","White","Chandler","AZ","85248",NA,NA
+1085784,"Lost Injured Missing","12/14/2007",13,"Female","Hispanic","Tucson","AZ",NA,NA,NA
+1088157,"Lost Injured Missing","01/28/2008",13,"Male","Black","Highland Park","MI","48203",NA,NA
+1096966,"Lost Injured Missing","05/30/2008",13,"Female","White","Franklinton","NC","27525",NA,NA
+1101281,"Lost Injured Missing","07/22/2008",13,"Female","White","Reynoldsburg","OH","43068","Van","Brown"
+1101625,"Lost Injured Missing","07/26/2008",13,"Female","Asian","Fresno","CA",NA,NA,NA
+1105912,"Lost Injured Missing","09/18/2008",13,"Female","Hispanic","Aurora","IL","60505",NA,NA
+1113468,"Lost Injured Missing","01/07/2009",13,"Female","Black","Manassas","VA","20110",NA,NA
+1115405,"Lost Injured Missing","02/03/2009",13,"Female","White","Evington","VA","24550",NA,NA
+1122649,"Lost Injured Missing","05/12/2009",13,"Male","White","Norwalk","OH","44857","Pickup Truck","White"
+1132578,"Lost Injured Missing","10/04/2009",13,"Male","White","Harrells","NC","28444",NA,NA
+1132737,"Lost Injured Missing","10/08/2009",13,"Female","White","Olney","MD","20832",NA,NA
+1137075,"Lost Injured Missing","12/11/2009",13,"Male","White","Gulfport","FL",NA,NA,NA
+1144897,"Lost Injured Missing","04/09/2010",13,"Female","White","Waupun","WI","53963",NA,NA
+1145657,"Lost Injured Missing","04/19/2010",13,"Male","White","Klamath Falls","OR","97603",NA,NA
+1152704,"Lost Injured Missing","07/24/2010",13,"Female","Hispanic","Ashburn","VA","20147",NA,NA
+1154415,"Lost Injured Missing","08/14/2010",13,"Female","Hispanic","Sylmar","CA",NA,NA,NA
+1158170,"Lost Injured Missing","10/13/2010",13,"Female","White","Redford","MI","48240",NA,NA
+1160086,"Lost Injured Missing","11/10/2010",13,"Female","White","Howard","OH",NA,NA,NA
+1161858,"Lost Injured Missing","12/13/2010",13,"Female","White","Irving","TX","75060",NA,NA
+1162770,"Lost Injured Missing","12/27/2010",13,"Female","White","Colorado City","TX","79512",NA,NA
+1162770,"Lost Injured Missing","12/27/2010",13,"Female","White","Colorado City","TX","79512",NA,NA
+1167397,"Lost Injured Missing","03/08/2011",13,"Female","Black","Muskegon Heights","MI",NA,NA,NA
+1168240,"Lost Injured Missing","03/20/2011",13,"Female","White","Orange","CT","06477",NA,NA
+1170699,"Lost Injured Missing","04/24/2011",13,"Male","Black","New Orleans","LA",NA,NA,NA
+1170699,"Lost Injured Missing","04/24/2011",13,"Male","Black","New Orleans","LA",NA,NA,NA
+1175486,"Lost Injured Missing","07/11/2011",13,"Male","Hispanic","San Jose","CA","95112",NA,NA
+1185992,"Lost Injured Missing","12/18/2011",13,"Female","White","Lake Geneva","WI","53147","Coupe","White"
+1198963,"Lost Injured Missing","07/17/2012",13,"Female","Black","Winnetka","CA","91306",NA,NA
+1206449,"Lost Injured Missing","11/19/2012",13,"Male","White","Bayfield","CO","35927",NA,NA
+1206449,"Lost Injured Missing","11/19/2012",13,"Male","White","Bayfield","CO","35927",NA,NA
+1208907,"Lost Injured Missing","01/08/2013",13,"Female","White","Herriman","UT","84096",NA,NA
+1211651,"Lost Injured Missing","03/01/2013",13,"Male","White","Metamora","MI","48455",NA,NA
+1217270,"Lost Injured Missing","06/05/2013",13,"Male","White","Eugene","OR","97404",NA,NA
+1220601,"Lost Injured Missing","11/01/2011",13,"Female","White","Salisbury","NC","28147",NA,NA
+1221004,"Lost Injured Missing","08/10/2013",13,"Female","Black","Farmington Hills","MI","48336",NA,NA
+1229060,"Lost Injured Missing","02/26/2014",13,"Female","Hispanic","Roswell","GA","30076","Sedan, 4 door","Gold"
+1231473,"Lost Injured Missing","04/28/2014",13,"Female","White","Rawlins","WY","82301",NA,NA
+1235857,"Lost Injured Missing","07/27/2014",13,"Female","White","Tuscaloosa","AL","35401",NA,NA
+1249769,"Lost Injured Missing","05/19/2015",13,"Female","Black","Capitol Heights","MD","20743",NA,NA
+1249836,"Lost Injured Missing","06/13/2015",13,"Female","Black","Myrtle Beach","SC","29577",NA,NA
+1250908,"Lost Injured Missing","07/04/2015",13,"Male","Black","Marshall","NC",NA,NA,NA
+1251306,"Lost Injured Missing","07/09/2015",13,"Male","White","Saint James","MO",NA,NA,NA
+1252643,"Lost Injured Missing","08/07/2015",13,"Female","White","Franklin","KY","42134",NA,NA
+1262810,"Lost Injured Missing","02/16/2016",13,"Male","White","Quincy","FL","32352",NA,NA
+1264746,"Lost Injured Missing","03/20/2016",13,"Female","Black","Miami","FL",NA,NA,NA
+1274275,"Lost Injured Missing","11/20/2015",13,"Female","White","Lancaster","OH","43130",NA,NA
+1287010,"Lost Injured Missing","01/22/2017",13,"Male","Biracial","San Leandro","CA","94578",NA,NA
+1294107,"Lost Injured Missing","12/31/2016",13,"Male","Black","Las Vegas","NV","89156",NA,NA
+1295038,"Lost Injured Missing","04/23/2017",13,"Male","Hispanic","Aurora","CO","80010",NA,NA
+1297210,"Lost Injured Missing","05/16/2017",13,"Female","Biracial","Douglasville","GA","30135",NA,NA
+1298843,"Lost Injured Missing","06/02/2017",13,"Male","White","Goshen","CA","93227",NA,NA
+1298843,"Lost Injured Missing","06/02/2017",13,"Male","White","Goshen","CA","93227",NA,NA
+1061222,"Non Family Abduction","01/08/2007",13,"Male","White","Beaufort","MO","63013","Pickup Truck","White"
+1064708,"Non Family Abduction","02/23/2007",13,"Male","White","Bradenton","FL",NA,"Pickup Truck","Red"
+1082898,"Non Family Abduction","10/26/2007",13,"Male","Hispanic","Lexington","NE","68850",NA,"White"
+1106744,"Non Family Abduction","09/29/2008",13,"Female","Hispanic","Martinsburg","WV","25405","Sedan, 2 door","Green, Dark"
+1121981,"Non Family Abduction","05/04/2009",13,"Female","White","Homestead","FL",NA,"Sedan, 2 door","Red"
+1128970,"Non Family Abduction","08/02/2009",13,"Female","Hispanic","Juarez",NA,"79927",NA,NA
+1131492,"Non Family Abduction","09/20/2009",13,"Female","Hispanic","Lafayette","TN","37150","Sedan, 4 door","Purple"
+1131931,"Non Family Abduction","09/26/2009",13,"Female","White","Owensboro","KY","42301","Pickup Truck","Red"
+1135950,"Non Family Abduction","11/20/2009",13,"Female","White","Shepherdstown","WV","25443",NA,NA
+1146803,"Non Family Abduction","05/06/2010",13,"Female","White","Austin","TX",NA,"Sport Utility","Brown"
+1151813,"Non Family Abduction","07/07/2010",13,"Female","Black","Santa Ana","CA",NA,"Pickup Truck","Blue, Light"
+1156650,"Non Family Abduction","09/20/2010",13,"Female","White","Knoxville","TN","37924","Sedan, 2 door","Black"
+1163785,"Non Family Abduction","01/12/2011",13,"Female","Hispanic","Columbus","GA","31904","Sedan, 2 door","Gold"
+1167878,"Non Family Abduction","03/14/2011",13,"Female","White","Tucson","AZ","85747","Sedan, 4 door","Silver"
+1173406,"Non Family Abduction","06/02/2011",13,"Female","Hispanic","Tarboro","NC","27886","Sedan, 4 door","Gold"
+1187944,"Non Family Abduction","01/20/2012",13,"Female","Hispanic","Alpaugh","CA","93201","Sedan, 4 door","Tan"
+1187944,"Non Family Abduction","01/20/2012",13,"Female","Hispanic","Alpaugh","CA","93201","Sedan, 4 door","Tan"
+1195358,"Non Family Abduction","05/24/2012",13,"Female","Black","Long Beach","CA","90806",NA,"Black"
+1202144,"Non Family Abduction","06/09/2012",13,"Female","Hispanic","Wathena","KS",NA,NA,NA
+1219925,"Non Family Abduction","07/24/2013",13,"Female","White","Portsmouth","RI","02871","Sedan, 4 door","White"
+1221772,"Non Family Abduction","08/11/2013",13,"Female","Hispanic","Oaxaca City",NA,NA,NA,NA
+1224372,"Non Family Abduction","10/22/2013",13,"Female","Am. Ind.","Hamilton","MI","49419","Coupe","Orange"
+1225984,"Non Family Abduction","12/03/2013",13,"Female","White","Oregon City","OR","97045",NA,NA
+1227115,"Non Family Abduction","01/06/2014",13,"Female","White","Alvin","TX",NA,"Pickup Truck","Black"
+1237499,"Non Family Abduction","09/06/2014",13,"Female","White","Asheville","NC","28801","Sedan, 2 door","White"
+1237499,"Non Family Abduction","09/06/2014",13,"Female","White","Asheville","NC","28801","Sport Utility","Blue, Dark"
+1245708,"Non Family Abduction","01/31/2015",13,"Male","Biracial","Eureka","CA","95501",NA,NA
+1246118,"Non Family Abduction","03/29/2015",13,"Female","White","Montrose","MO","64770","Pickup Truck","Black"
+1246118,"Non Family Abduction","03/29/2015",13,"Female","White","Montrose","MO","64770","Sedan, 2 door","White"
+1246412,"Non Family Abduction","04/04/2015",13,"Female","Biracial","Chicago","IL","60630",NA,NA
+1256751,"Non Family Abduction","10/23/2015",13,"Female","White","Ottumwa","IA","52501",NA,"Yellow"
+1261720,"Non Family Abduction","01/27/2016",13,"Female","White","Blacksburg","VA",NA,NA,NA
+1264296,"Non Family Abduction","03/12/2016",13,"Female","White","Houston","TX",NA,NA,NA
+1269358,"Non Family Abduction","05/31/2016",13,"Male","Black","Detroit","MI",NA,NA,"Black"
+1277400,"Non Family Abduction","09/22/2016",13,"Female","White","Salem","MO","65560","Pickup Truck","White"
+1282057,"Non Family Abduction","11/19/2016",13,"Female","Asian","Fort Wayne","IN","46816","Sedan, 2 door","Black"
+1298384,"Non Family Abduction","05/31/2017",13,"Female","White","Salem","MO","65560","Pickup Truck","Maroon"
+1301106,"Non Family Abduction","06/28/2017",13,"Female","Black","Lancaster","TX","75146","Sedan, 4 door","White"
+1072212,"Lost Injured Missing","05/30/2007",14,"Female","Black","Baltimore","MD","21225",NA,NA
+1075468,"Lost Injured Missing","07/09/2007",14,"Female","White","Cleveland","OH","44109",NA,NA
+1075468,"Lost Injured Missing","07/09/2007",14,"Female","White","Cleveland","OH","44109",NA,NA
+1083067,"Lost Injured Missing","11/02/2007",14,"Female","Black","Dallas","TX","75233",NA,NA
+1097581,"Lost Injured Missing","06/05/2008",14,"Female","Hispanic","Fairfax","VA",NA,NA,NA
+1101281,"Lost Injured Missing","07/22/2008",14,"Male","White","Reynoldsburg","OH","43068","Van","Brown"
+1101979,"Lost Injured Missing","07/29/2008",14,"Male","White","Elgin","OK","73538","Pickup Truck","Gray"
+1108298,"Lost Injured Missing","10/17/2008",14,"Female","White","Lathrop","MO","64465","Sedan, 4 door","Maroon"
+1110299,"Lost Injured Missing","10/20/2008",14,"Female","Hispanic","Sunnyside","WA","98944",NA,NA
+1127147,"Lost Injured Missing","07/13/2009",14,"Female","Black","Miami","FL","33179",NA,NA
+1130676,"Lost Injured Missing","05/05/2009",14,"Male","Hispanic","El Ciruelo",NA,NA,NA,NA
+1137783,"Lost Injured Missing","12/24/2009",14,"Male","Asian","Philadelphia","PA","19145",NA,NA
+1139194,"Lost Injured Missing","01/13/2010",14,"Male","White","Tempe","AZ","85282",NA,NA
+1141987,"Lost Injured Missing","02/24/2010",14,"Female","Black","Washington","DC",NA,NA,NA
+1144929,"Lost Injured Missing","04/11/2010",14,"Female","Black","Riviera Beach","FL","33404",NA,NA
+1144929,"Lost Injured Missing","04/11/2010",14,"Female","Black","Riviera Beach","FL","33404",NA,NA
+1146147,"Lost Injured Missing","04/23/2010",14,"Female","Hispanic","Alamosa","CO","81101",NA,NA
+1147289,"Lost Injured Missing","05/12/2010",14,"Female","White","Canton","OH",NA,NA,NA
+1152770,"Lost Injured Missing","10/10/2009",14,"Female","White","Darlington","SC","29532",NA,NA
+1154882,"Lost Injured Missing","08/24/2010",14,"Female","White","Wonder Lake","IL","60097",NA,NA
+1157009,"Lost Injured Missing","09/26/2010",14,"Female","Am. Ind.","Trailer Village","AZ",NA,NA,NA
+1158321,"Lost Injured Missing","10/15/2010",14,"Female","Hispanic","Dodge City","KS","67801",NA,NA
+1158518,"Lost Injured Missing","10/18/2010",14,"Female","Black","Chandler","AZ","85226",NA,NA
+1158518,"Lost Injured Missing","10/18/2010",14,"Female","Black","Chandler","AZ","85226",NA,NA
+1158878,"Lost Injured Missing","10/24/2010",14,"Male","Hispanic","Dale","TX","78616",NA,NA
+1163380,"Lost Injured Missing","01/08/2011",14,"Male","White","Bandon","OR","97411",NA,NA
+1166739,"Lost Injured Missing","02/25/2011",14,"Male","White","Los Angeles","CA",NA,NA,NA
+1172627,"Lost Injured Missing","05/21/2011",14,"Female","Black","Buda","TX","78610","Truck","White"
+1177059,"Lost Injured Missing","07/30/2011",14,"Female","White","Fannett","TX","77705",NA,NA
+1177059,"Lost Injured Missing","07/30/2011",14,"Female","White","Fannett","TX","77705",NA,NA
+1178163,"Lost Injured Missing","08/16/2011",14,"Female","White","Salem","OR","97301",NA,NA
+1182346,"Lost Injured Missing","10/13/2011",14,"Female","White","East Dubuque","IL","61025",NA,NA
+1182527,"Lost Injured Missing","10/23/2011",14,"Female","White","Albion","MI",NA,"Sedan, 4 door","Silver"
+1185625,"Lost Injured Missing","12/12/2011",14,"Female","White","Greece","NY","14616",NA,NA
+1192768,"Lost Injured Missing","04/13/2012",14,"Female","White","Spokane","WA","99205",NA,NA
+1197561,"Lost Injured Missing","06/14/2012",14,"Female","Black","Mobile","AL","36607",NA,NA
+1203509,"Lost Injured Missing","10/01/2012",14,"Female","Hispanic","Boca Raton","FL","33496",NA,NA
+1212127,"Lost Injured Missing","03/09/2013",14,"Female","White","Walnut Ridge","AR","72476",NA,NA
+1220961,"Lost Injured Missing","08/09/2013",14,"Male","Biracial","Fort Lauderdale","FL","33309",NA,NA
+1221762,"Lost Injured Missing","08/23/2013",14,"Male","Biracial","Imperial","CA","92251",NA,NA
+1222017,"Lost Injured Missing","08/29/2013",14,"Female","Hispanic","Hollister","CA","95023","Truck","Silver"
+1223775,"Lost Injured Missing","10/04/2013",14,"Male","Black","Astoria","NY","11101",NA,NA
+1226395,"Lost Injured Missing","12/15/2013",14,"Female","Biracial","Springfield","MA","01104",NA,NA
+1232363,"Lost Injured Missing","05/16/2014",14,"Male","Hispanic","Brooklyn","NY","11235",NA,NA
+1240551,"Lost Injured Missing","11/13/2014",14,"Male","Hispanic","Dos Palos","CA","93620",NA,NA
+1242306,"Lost Injured Missing","01/04/2015",14,"Male","Black","Bossier City","LA","71111",NA,NA
+1249353,"Lost Injured Missing","06/04/2015",14,"Female","Black","Prescott","AZ","86303",NA,NA
+1252070,"Lost Injured Missing","07/24/2015",14,"Male","White","Tequesta","FL",NA,NA,NA
+1252076,"Lost Injured Missing","07/24/2015",14,"Male","White","Jupiter Inlet","FL",NA,NA,NA
+1255392,"Lost Injured Missing","10/01/2015",14,"Male","White","Stockbridge","GA","30281",NA,NA
+1255570,"Lost Injured Missing","10/05/2015",14,"Male","Black","Pineville","LA","71360",NA,NA
+1264765,"Lost Injured Missing","03/09/2016",14,"Female","Black","Tallassee","AL","36078",NA,NA
+1267179,"Lost Injured Missing","04/27/2016",14,"Female","Hispanic","Beaumont","CA","92223",NA,NA
+1269656,"Lost Injured Missing","06/05/2016",14,"Male","Hispanic","Myerstown","PA","17067",NA,NA
+1273146,"Lost Injured Missing","07/23/2016",14,"Female","Hispanic","Wichita","KS","67214",NA,NA
+1280579,"Lost Injured Missing","11/01/2016",14,"Male","White","Ingleside","IL","60041",NA,NA
+1282798,"Lost Injured Missing","11/27/2016",14,"Female","White","Williamston","NC",NA,NA,NA
+1285440,"Lost Injured Missing","01/03/2017",14,"Female","White","Southport","NC","28461","Sedan, 4 door","Silver"
+1300931,"Lost Injured Missing","06/25/2017",14,"Female","White","Bluefield","VA","24605",NA,NA
+1301696,"Lost Injured Missing","07/01/2017",14,"Female","Black","Atlanta","GA","30317",NA,NA
+1302033,"Lost Injured Missing","07/08/2017",14,"Female","White","Hardinsburg","KY","40143",NA,NA
+1309182,"Lost Injured Missing","09/19/2017",14,"Female","Hispanic","Aguadilla","PR","00603",NA,NA
+1316598,"Lost Injured Missing","12/20/2017",14,"Female","White","Lewisburg","WV","24901",NA,NA
+1071061,"Non Family Abduction","04/01/2007",14,"Female","Hispanic","Usulután",NA,NA,NA,NA
+1071061,"Non Family Abduction","04/01/2007",14,"Female","Hispanic","Usulután",NA,NA,NA,NA
+1078016,"Non Family Abduction","08/17/2007",14,"Female","Hispanic","Watsonville","CA","95077",NA,NA
+1078016,"Non Family Abduction","08/17/2007",14,"Female","Hispanic","Watsonville","CA","95077",NA,NA
+1086718,"Non Family Abduction","01/06/2008",14,"Female","White","Batesville","AR","72501","Sport Utility","Maroon"
+1095532,"Non Family Abduction","04/26/2008",14,"Female","Black","Southaven","MS","38671",NA,NA
+1108800,"Non Family Abduction","10/24/2008",14,"Female","Black","Lubbock","TX",NA,NA,"Blue"
+1108800,"Non Family Abduction","10/24/2008",14,"Female","Black","Lubbock","TX",NA,"Station Wagon","Blue"
+1115255,"Non Family Abduction","02/02/2009",14,"Female","White","Tecumseh","OK","74873",NA,"White"
+1116113,"Non Family Abduction","02/13/2009",14,"Female","White","Escondido","CA","92026",NA,NA
+1116113,"Non Family Abduction","02/13/2009",14,"Female","White","Escondido","CA","92026",NA,NA
+1125462,"Non Family Abduction","06/20/2009",14,"Female","Hispanic","Southern Pines","NC","28387",NA,NA
+1127607,"Non Family Abduction","07/20/2009",14,"Female","White","Primera","TX",NA,NA,"Black"
+1130315,"Non Family Abduction","01/08/2009",14,"Male","Hispanic","Green Brook","NJ",NA,NA,NA
+1130535,"Non Family Abduction","09/04/2009",14,"Female","White","Albany","KY","42602",NA,NA
+1134189,"Non Family Abduction","10/25/2009",14,"Female","Hispanic","West Covina","CA",NA,"Van","Red"
+1136030,"Non Family Abduction","11/23/2009",14,"Female","Hispanic","Shepherd","TX","77371","Sedan, 4 door","Blue"
+1138133,"Non Family Abduction","01/02/2010",14,"Female","White","Lexington","SC","29072","Sedan, 4 door","Green"
+1140580,"Non Family Abduction","02/02/2010",14,"Female","White","Cranford","NJ","07016",NA,NA
+1141625,"Non Family Abduction","02/22/2010",14,"Female","White","Council Bluffs","IA",NA,"Sedan, 2 door","Black"
+1141835,"Non Family Abduction","02/24/2010",14,"Female","White","Battle Creek","MI","49037","Sedan, 4 door","White"
+1144164,"Non Family Abduction","03/31/2010",14,"Female","White","Erwin","TN",NA,NA,"Blue"
+1144817,"Non Family Abduction","04/08/2010",14,"Female","White","Gillette","WY",NA,"Sedan, 4 door","White"
+1144999,"Non Family Abduction","04/12/2010",14,"Female","Hispanic","Live Oak","CA","95953","Sedan, 4 door","Brown"
+1161478,"Non Family Abduction","12/06/2010",14,"Female","White","Marianna","FL",NA,"Sedan, 4 door","Black"
+1163478,"Non Family Abduction","01/10/2011",14,"Female","White","Hersey","MI","49639","Sedan, 4 door","White"
+1188294,"Non Family Abduction","01/31/2012",14,"Female","White","Barnesville","GA","30204","Sedan, 4 door","White"
+1193808,"Non Family Abduction","04/27/2012",14,"Female","White","Somerville","TN","38075","Sport Utility","Bronze"
+1197559,"Non Family Abduction","06/25/2012",14,"Female","White","Hazlehurst","GA","31539","Motorcycle","Blue"
+1198265,"Non Family Abduction","07/04/2012",14,"Male","Hispanic","Corpus Christi","TX",NA,NA,NA
+1198609,"Non Family Abduction","07/12/2012",14,"Female","Hispanic","Wilkesboro","NC","28697","Sedan, 4 door","Silver"
+1200808,"Non Family Abduction","08/01/2012",14,"Female","Hispanic","Riverside","CA","92504",NA,NA
+1202512,"Non Family Abduction","09/12/2012",14,"Female","Hispanic","Wildwood","FL",NA,"Truck","Black"
+1206029,"Non Family Abduction","11/13/2012",14,"Female","Hispanic","Ontario","CA","91762",NA,NA
+1207337,"Non Family Abduction","12/07/2012",14,"Female","White","Paragould","AR","72450","Sport Utility","Bronze"
+1209500,"Non Family Abduction","01/22/2013",14,"Female","White","Houston","TX",NA,"Sport Utility","Silver"
+1215276,"Non Family Abduction","05/05/2013",14,"Female","Hispanic","Mount Pleasant","TX","75455","Pickup Truck","Brown"
+1222041,"Non Family Abduction","08/30/2013",14,"Female","Hispanic","Glendale Heights","IL",NA,"Sedan, 4 door",NA
+1222912,"Non Family Abduction","09/17/2013",14,"Female","Hispanic","Ellenwood","GA","30294",NA,NA
+1223932,"Non Family Abduction","10/09/2013",14,"Female","Hispanic","North Conway","NH","03860",NA,NA
+1226031,"Non Family Abduction","12/04/2013",14,"Female","Hispanic","Kennewick","WA","99336","Sport Utility","Green, Dark"
+1229006,"Non Family Abduction","02/25/2014",14,"Female","White","Springfield","OH","45504",NA,NA
+1230313,"Non Family Abduction","03/31/2014",14,"Female","White","Albuquerque","NM","87112","Hatchback/Fastback",NA
+1230966,"Non Family Abduction","04/14/2014",14,"Female","White","Magnolia","TX","77355",NA,NA
+1237047,"Non Family Abduction","08/27/2014",14,"Female","Am. Ind.","Lame Deer","MT",NA,"Pickup Truck","Tan"
+1247463,"Non Family Abduction","02/08/2015",14,"Female","Hispanic","Jasper","AL","35501","Sedan, 4 door","Green"
+1257453,"Non Family Abduction","11/02/2015",14,"Male","White","Evans Mills","NY","13637",NA,NA
+1257453,"Non Family Abduction","11/02/2015",14,"Male","White","Evans Mills","NY","13637",NA,NA
+1264226,"Non Family Abduction","03/11/2016",14,"Female","White","West Plains","MO","65775",NA,NA
+1266918,"Non Family Abduction","04/18/2016",14,"Male","White","Orlando","FL","32811",NA,NA
+1277682,"Non Family Abduction","09/27/2016",14,"Female","Hispanic","Brownsville","TX","78521","Sedan, 4 door","Black"
+1299056,"Non Family Abduction","06/05/2017",14,"Female","White","Calhoun","GA","30701","Sedan, 4 door","Blue"
+1068876,"Lost Injured Missing","04/18/2007",15,"Male","White","Clearfield","UT","84015",NA,NA
+1071959,"Lost Injured Missing","05/21/2007",15,"Female","White","Tahoe City","CA","96145",NA,NA
+1074238,"Lost Injured Missing","06/26/2007",15,"Female","White","New Boston","TX","75570","Pickup Truck","White"
+1074789,"Lost Injured Missing","07/06/2007",15,"Female","White","Rockford","IL","61103",NA,NA
+1075017,"Lost Injured Missing","07/11/2007",15,"Female","Black","Charlotte","NC","28205",NA,NA
+1075334,"Lost Injured Missing","07/12/2007",15,"Female","White","Maud","OK","74854",NA,NA
+1079708,"Lost Injured Missing","07/07/2007",15,"Male","White","Mount Vernon","WA",NA,NA,NA
+1079708,"Lost Injured Missing","07/07/2007",15,"Male","White","Mount Vernon","WA",NA,NA,NA
+1080612,"Lost Injured Missing","10/02/2007",15,"Male","White","Golden Valley","MN","55426",NA,NA
+1080702,"Lost Injured Missing","09/22/2007",15,"Female","Black","Washington","DC","20020",NA,NA
+1083005,"Lost Injured Missing","10/27/2007",15,"Female","Hispanic","Coolidge","AZ","85228",NA,NA
+1084351,"Lost Injured Missing","11/21/2007",15,"Male","Hispanic","Jamaica","NY","11416",NA,NA
+1086413,"Lost Injured Missing","12/29/2007",15,"Female","Black","Mount Vernon","NY","10550",NA,NA
+1088268,"Lost Injured Missing","01/15/2008",15,"Female","Black","Chicago","IL","60644",NA,NA
+1088268,"Lost Injured Missing","01/15/2008",15,"Female","Black","Chicago","IL","60644",NA,NA
+1089414,"Lost Injured Missing","02/17/2008",15,"Female","Hispanic","Rio Rancho","NM","87124",NA,NA
+1092354,"Lost Injured Missing","03/24/2008",15,"Male","White","Attalla","AL","35954",NA,NA
+1097133,"Lost Injured Missing","02/17/2008",15,"Female","White","De Pere","WI","54115",NA,NA
+1113413,"Lost Injured Missing","01/05/2009",15,"Female","Hispanic","Hartford","CT","06120",NA,NA
+1127132,"Lost Injured Missing","07/13/2009",15,"Female","Black","Harvey","IL","60426",NA,NA
+1129610,"Lost Injured Missing","08/11/2009",15,"Female","White","Antigo","WI","54409",NA,NA
+1133966,"Lost Injured Missing","10/20/2009",15,"Male","White","Olathe","KS","66061",NA,NA
+1139953,"Lost Injured Missing","01/25/2010",15,"Female","White","Siloam Springs","AR","72761",NA,NA
+1144203,"Lost Injured Missing","03/31/2010",15,"Female","White","Valley","AL","36854",NA,NA
+1149731,"Lost Injured Missing","06/12/2010",15,"Male","White","Middletown","CT","06457",NA,NA
+1156487,"Lost Injured Missing","09/18/2010",15,"Male","White","Marissa","IL","62257",NA,NA
+1156498,"Lost Injured Missing","09/18/2010",15,"Female","Hispanic","Burlington","NC",NA,NA,NA
+1164975,"Lost Injured Missing","08/27/2009",15,"Female","White","Athens","TX","75752",NA,NA
+1167579,"Lost Injured Missing","03/02/2011",15,"Female","White","Cleveland","OH","44109","Sedan, 2 door","Black"
+1172622,"Lost Injured Missing","05/23/2011",15,"Female","White","Danville","CA","94526",NA,NA
+1174821,"Lost Injured Missing","06/23/2011",15,"Male","Asian","Los Angeles","CA","90007",NA,NA
+1190455,"Lost Injured Missing","03/07/2012",15,"Female","White","Independence","MO","64052",NA,NA
+1190960,"Lost Injured Missing","03/16/2012",15,"Female","White","Morgan Hill","CA",NA,NA,NA
+1191846,"Lost Injured Missing","03/30/2012",15,"Female","White","Elk Grove","CA","95757",NA,NA
+1193866,"Lost Injured Missing","05/02/2012",15,"Female","White","Cookeville","TN","38501",NA,NA
+1195635,"Lost Injured Missing","05/28/2012",15,"Male","White","Deerfield","SD",NA,NA,NA
+1197137,"Lost Injured Missing","06/19/2012",15,"Male","Black","Chicago","IL","60637",NA,NA
+1197838,"Lost Injured Missing","06/29/2012",15,"Female","Asian","Concord","CA","94521",NA,NA
+1201209,"Lost Injured Missing","08/18/2012",15,"Female","Black","Richland","SC",NA,NA,NA
+1201338,"Lost Injured Missing","08/24/2012",15,"Male","White","Wyoming","MI","49548",NA,NA
+1204075,"Lost Injured Missing","10/10/2012",15,"Female","Hispanic","Long Beach","CA","90813",NA,NA
+1214949,"Lost Injured Missing","04/29/2013",15,"Male","White","Huntington","AR",NA,"Pickup Truck","White"
+1215898,"Lost Injured Missing","05/12/2013",15,"Female","White","Glenburn","ME",NA,NA,NA
+1215898,"Lost Injured Missing","05/12/2013",15,"Female","White","Glenburn","ME",NA,NA,NA
+1217076,"Lost Injured Missing","05/30/2013",15,"Male","Hispanic","Richmond Hill","NY","11418",NA,NA
+1221612,"Lost Injured Missing","08/21/2013",15,"Male","White","Rochester","NY","14616",NA,NA
+1223181,"Lost Injured Missing","09/23/2013",15,"Female","White","Gladstone","MI",NA,NA,NA
+1226916,"Lost Injured Missing","12/28/2013",15,"Male","Hispanic","North Las Vegas","NV","89084",NA,NA
+1232020,"Lost Injured Missing","05/08/2014",15,"Male","White","Waterboro","ME",NA,NA,NA
+1232020,"Lost Injured Missing","05/08/2014",15,"Male","White","Waterboro","ME",NA,NA,NA
+1241171,"Lost Injured Missing","11/27/2014",15,"Female","White","Cheney","WA","99004",NA,NA
+1243457,"Lost Injured Missing","01/29/2015",15,"Female","White","Lakeport","CA","95453",NA,NA
+1244365,"Lost Injured Missing","01/01/2015",15,"Male","Black","Fairfield","AL",NA,NA,NA
+1249602,"Lost Injured Missing","06/08/2015",15,"Male","White","Magna","UT","84044",NA,NA
+1250630,"Lost Injured Missing","06/28/2015",15,"Female","Black","Bladenboro","NC",NA,NA,NA
+1252643,"Lost Injured Missing","08/07/2015",15,"Female","White","Franklin","KY","42134",NA,NA
+1257450,"Lost Injured Missing","11/05/2015",15,"Male","Black","Philadelphia","PA","19153",NA,NA
+1257750,"Lost Injured Missing","11/08/2015",15,"Female","White","Brooklyn","OH","44144",NA,NA
+1258819,"Lost Injured Missing","12/02/2015",15,"Male","White","Palatine","IL",NA,NA,NA
+1261145,"Lost Injured Missing","01/18/2016",15,"Female","Biracial","Saginaw","MI",NA,NA,NA
+1261586,"Lost Injured Missing","01/25/2016",15,"Female","White","Bartonville","IL",NA,NA,NA
+1263987,"Lost Injured Missing","03/07/2016",15,"Female","White","Brevard","NC","28712",NA,NA
+1264849,"Lost Injured Missing","03/20/2016",15,"Female","Biracial","Aurora","IL","60505",NA,NA
+1265460,"Lost Injured Missing","03/31/2016",15,"Female","White","Watervliet","MI","49098",NA,NA
+1271640,"Lost Injured Missing","07/03/2016",15,"Male","White","Palm Beach","FL","33480",NA,NA
+1272741,"Lost Injured Missing","07/18/2016",15,"Male","Hispanic","National City","CA","91950",NA,NA
+1274013,"Lost Injured Missing","07/28/2016",15,"Female","Black","San Antonio","TX","78210",NA,NA
+1281936,"Lost Injured Missing","11/18/2016",15,"Female","White","Indiana","PA","15701",NA,NA
+1282884,"Lost Injured Missing","11/22/2016",15,"Female","White","Collingswood","NJ","08108",NA,NA
+1283601,"Lost Injured Missing","12/07/2016",15,"Female","Hispanic","Miami","FL","33125",NA,NA
+1297854,"Lost Injured Missing","05/22/2017",15,"Male","Hispanic","Bloomfield","NJ",NA,NA,NA
+1304588,"Lost Injured Missing","08/05/2017",15,"Male","Black","Yonkers","NY","10710",NA,NA
+1313355,"Lost Injured Missing","11/10/2017",15,"Male","White","Sandy","UT","84092",NA,NA
+1314730,"Lost Injured Missing","11/26/2017",15,"Female","White","Orange","TX","77632",NA,NA
+1067827,"Non Family Abduction","03/31/2007",15,"Female","Hispanic","Buffalo","TX","75831","Pickup Truck","White"
+1073713,"Non Family Abduction","06/15/2007",15,"Female","Black","Washington","DC","20016",NA,NA
+1079559,"Non Family Abduction","09/03/2007",15,"Female","White","Plano","TX","75074","Sport Utility","White"
+1080518,"Non Family Abduction","09/30/2007",15,"Female","White","Bartow","FL","33830",NA,"Black"
+1086049,"Non Family Abduction","12/13/2007",15,"Female","Black","Ventura","CA",NA,"Sedan, 2 door","White"
+1086164,"Non Family Abduction","12/24/2007",15,"Male","Hispanic","Houston","TX",NA,"Truck","White"
+1092612,"Non Family Abduction","04/01/2008",15,"Male","Black","Catonsville","MD","21228",NA,"Black"
+1094647,"Non Family Abduction","04/25/2008",15,"Male","White","Wayland","MI","49348","Sport Utility","Black"
+1094969,"Non Family Abduction","04/22/2008",15,"Female","White","San Mateo","FL","32187","Pickup Truck","Silver"
+1106274,"Non Family Abduction","09/23/2008",15,"Female","White","El Paso","TX",NA,"Sedan, 4 door","Brown"
+1107830,"Non Family Abduction","10/12/2008",15,"Female","White","Seaside","CA",NA,"Truck","Red"
+1110317,"Non Family Abduction","11/17/2008",15,"Female","White","Pagosa Springs","CO",NA,"Pickup Truck","White"
+1111375,"Non Family Abduction","12/04/2008",15,"Female","White","Kalamazoo","MI","49048",NA,NA
+1112643,"Non Family Abduction","12/24/2008",15,"Female","Hispanic","Selma","TX",NA,NA,NA
+1115397,"Non Family Abduction","02/01/2009",15,"Female","White","Independence","LA","70446","Pickup Truck","Red"
+1115625,"Non Family Abduction","02/07/2009",15,"Female","Hispanic","Sanger","TX","76266","Pickup Truck","Gray"
+1125003,"Non Family Abduction","06/13/2009",15,"Female","White","Marion","NC","28752","Truck","White"
+1125817,"Non Family Abduction","06/18/2009",15,"Female","Hispanic","Amelia","LA","70380","Pickup Truck","Black"
+1131060,"Non Family Abduction","09/13/2009",15,"Female","White","Fort Worth","TX",NA,"Pickup Truck","Green"
+1132208,"Non Family Abduction","09/29/2009",15,"Female","Hispanic","Reading","PA","19601","Sport Utility","Black"
+1132318,"Non Family Abduction","09/17/2009",15,"Female","Hispanic","Chambersburg","PA","17201",NA,NA
+1144170,"Non Family Abduction","03/31/2010",15,"Male","White","Erwin","TN",NA,NA,"Blue"
+1151937,"Non Family Abduction","07/14/2010",15,"Female","White","Ainsworth","NE","69210","Sedan, 4 door","Red"
+1154628,"Non Family Abduction","08/20/2010",15,"Female","Hispanic","Sanger","CA","93657",NA,NA
+1156444,"Non Family Abduction","09/17/2010",15,"Male","Hispanic","Smyrna","GA","30080","Sedan, 4 door","Gray"
+1159007,"Non Family Abduction","10/27/2010",15,"Female","White","Reed City","MI",NA,"Van","Blue, Dark"
+1161212,"Non Family Abduction","12/01/2010",15,"Female","White","Clarksville","TN","37042","Pickup Truck","Red"
+1163199,"Non Family Abduction","01/05/2011",15,"Female","White","Lubbock","TX","79412",NA,NA
+1193817,"Non Family Abduction","04/30/2012",15,"Female","Black","Duson","LA","70529","Sedan, 4 door","Silver"
+1193817,"Non Family Abduction","04/30/2012",15,"Female","Black","Duson","LA","70529","Sedan, 4 door","Silver"
+1193817,"Non Family Abduction","04/30/2012",15,"Female","Black","Duson","LA","70529","Sedan, 4 door","Silver"
+1216295,"Non Family Abduction","05/20/2013",15,"Female","White","Dayton","IA",NA,NA,NA
+1220938,"Non Family Abduction","08/08/2013",15,"Female","White","Gilman City","MO","64642","Pickup Truck","Silver"
+1221515,"Non Family Abduction","04/25/2013",15,"Female","White","Seattle","WA","98146",NA,NA
+1222529,"Non Family Abduction","09/03/2013",15,"Female","White","Lebanon","OR","97355","Sport Utility","Gray"
+1228981,"Non Family Abduction","02/24/2014",15,"Female","Hispanic","Nacogdoches","TX","75961","Sedan, 4 door","Silver"
+1245963,"Non Family Abduction","03/24/2015",15,"Female","Biracial","Los Angeles","CA","90066",NA,NA
+1255407,"Non Family Abduction","09/29/2015",15,"Female","White","Miami","OK","74354",NA,NA
+1256398,"Non Family Abduction","10/17/2015",15,"Female","White","Gaylord","MI","49735",NA,NA
+1261511,"Non Family Abduction","01/24/2016",15,"Female","Biracial","Forest Park","GA","30297",NA,"Red"
+1261511,"Non Family Abduction","01/24/2016",15,"Female","Biracial","Forest Park","GA","30297",NA,"Silver"
+1267323,"Non Family Abduction","04/29/2016",15,"Female","Black","Waterloo","IA","50703","Sedan, 4 door","Silver"
+1267323,"Non Family Abduction","04/29/2016",15,"Female","Black","Waterloo","IA","50703","Van","White"
+1269030,"Non Family Abduction","05/25/2016",15,"Female","White","Vallejo","CA",NA,"Sedan, 4 door","Gold"
+1283644,"Non Family Abduction","12/04/2016",15,"Female","White","Evans","GA","30809","Sedan, 4 door","Tan"
+1289805,"Non Family Abduction","02/25/2017",15,"Female","Hispanic","Penasco","NM","87561",NA,NA
+1291372,"Non Family Abduction","03/13/2017",15,"Female","White","Columbia","TN",NA,"Unknown","Silver"
+1295724,"Non Family Abduction","05/01/2017",15,"Female","White","Dayton","TN","37321","Van","Brown"
+1300656,"Non Family Abduction","06/22/2017",15,"Female","White","Alpine","TX","79830","Pickup Truck","Black"
+1305172,"Non Family Abduction","08/09/2017",15,"Female","White","Alexandria","MN","56308",NA,NA
+1313607,"Non Family Abduction","11/10/2017",15,"Female","Biracial","Lawrenceville","GA","30040",NA,NA
+1061772,"Lost Injured Missing","01/12/2007",16,"Female","White","Madison","AL","35758",NA,NA
+1062213,"Lost Injured Missing","01/19/2007",16,"Female","White","North Potomac","MD","20878","Station Wagon","Blue, Dark"
+1062899,"Lost Injured Missing","01/23/2007",16,"Female","White","Prairie du Sac","WI","53578",NA,NA
+1063907,"Lost Injured Missing","02/02/2007",16,"Male","Black","Texarkana","TX",NA,NA,NA
+1068515,"Lost Injured Missing","04/13/2007",16,"Female","White","Perry","UT","84302",NA,NA
+1069943,"Lost Injured Missing","05/01/2007",16,"Female","Hispanic","De Pue","IL","61322","Sport Utility","Blue, Dark"
+1073768,"Lost Injured Missing","06/17/2007",16,"Male","Hispanic","Primera","TX","78552","Sedan, 4 door","Brown"
+1073836,"Lost Injured Missing","06/23/2007",16,"Female","Hispanic","Colorado Springs","CO","80911","Sedan, 2 door","Gold"
+1077585,"Lost Injured Missing","08/17/2007",16,"Male","White","Fairfield","VA","24435",NA,NA
+1081943,"Lost Injured Missing","09/23/2007",16,"Female","Black","West Carrollton","OH","45449","Sedan, 4 door","Beige"
+1082007,"Lost Injured Missing","10/19/2007",16,"Female","White","Hicksville","NY","11801",NA,NA
+1084771,"Lost Injured Missing","11/25/2007",16,"Female","White","Antonio","KS","67601","Coupe","Silver"
+1086105,"Lost Injured Missing","12/22/2007",16,"Male","White","Palm Beach Gardens","FL","33418",NA,NA
+1087230,"Lost Injured Missing","01/13/2008",16,"Female","Biracial","Redmond","WA","98052",NA,NA
+1087371,"Lost Injured Missing","01/17/2008",16,"Male","White","Grand Blanc","MI","48439",NA,NA
+1088275,"Lost Injured Missing","01/23/2008",16,"Female","White","Shiloh","IL","62221",NA,NA
+1095947,"Lost Injured Missing","05/13/2008",16,"Female","Hispanic","Ellicott","MD","21042",NA,NA
+1099444,"Lost Injured Missing","06/29/2008",16,"Female","White","Brighton Township","MI",NA,NA,NA
+1099922,"Lost Injured Missing","07/06/2008",16,"Female","White","Winnie","TX","77665","Pickup Truck","Gray"
+1101435,"Lost Injured Missing","07/24/2008",16,"Male","Asian","Carlsbad","CA","92018","Sport Utility","Black"
+1103143,"Lost Injured Missing","08/14/2008",16,"Female","Hispanic","Salinas","CA",NA,NA,NA
+1107231,"Lost Injured Missing","10/03/2008",16,"Male","White","Altamonte Springs","FL","32714",NA,NA
+1108251,"Lost Injured Missing","10/17/2008",16,"Male","White","Holt","MO","64048","Sedan, 4 door","Maroon"
+1110622,"Lost Injured Missing","11/22/2008",16,"Female","Pacific Islander","Tigard","OR","97224",NA,NA
+1112354,"Lost Injured Missing","06/30/2008",16,"Female","Hispanic","Pikesville","MD",NA,NA,NA
+1113804,"Lost Injured Missing","12/23/2008",16,"Female","White","Graham","TX","76450",NA,NA
+1118514,"Lost Injured Missing","03/06/2009",16,"Female","Black","Baltimore","MD","21215",NA,NA
+1120266,"Lost Injured Missing","04/04/2009",16,"Male","Hispanic","Corpus Christi","TX","78404",NA,NA
+1121226,"Lost Injured Missing","04/22/2009",16,"Female","White","Fort Washington","MD",NA,NA,NA
+1123172,"Lost Injured Missing","05/17/2009",16,"Female","White","Allentown","PA","18102",NA,NA
+1126519,"Lost Injured Missing","07/06/2009",16,"Female","White","New Orleans","LA","70126",NA,NA
+1129662,"Lost Injured Missing","06/02/2009",16,"Female","White","Alliance","OH","44601",NA,NA
+1132319,"Lost Injured Missing","09/30/2009",16,"Female","White","Reno","NV","89506",NA,NA
+1132902,"Lost Injured Missing","10/07/2009",16,"Male","Black","Philadelphia","PA","19139",NA,NA
+1140148,"Lost Injured Missing","01/23/2010",16,"Female","Hispanic","Dallas","TX","75211",NA,NA
+1142124,"Lost Injured Missing","02/28/2010",16,"Female","White","Pryor","OK","74361",NA,NA
+1142124,"Lost Injured Missing","02/28/2010",16,"Female","White","Pryor","OK","74361",NA,NA
+1146172,"Lost Injured Missing","04/26/2010",16,"Male","White","Eugene","OR","97402",NA,NA
+1146491,"Lost Injured Missing","04/26/2010",16,"Female","White","Spring","TX","77373",NA,NA
+1147229,"Lost Injured Missing","05/12/2010",16,"Female","Black","Grand Rapids","MI",NA,NA,NA
+1151859,"Lost Injured Missing","07/12/2010",16,"Female","Hispanic","Marshall","IL","62441","Truck","Silver"
+1154717,"Lost Injured Missing","08/22/2010",16,"Female","Black","Springfield","MO","65810",NA,NA
+1157064,"Lost Injured Missing","09/25/2010",16,"Male","White","Henderson","NV",NA,NA,NA
+1158516,"Lost Injured Missing","09/28/2010",16,"Female","Black","Fredericksburg","VA","22407",NA,NA
+1160900,"Lost Injured Missing","11/26/2010",16,"Male","White","Overland Park","KS","66211",NA,NA
+1162004,"Lost Injured Missing","12/11/2010",16,"Male","White","Maysville","KY",NA,NA,NA
+1162921,"Lost Injured Missing","12/28/2010",16,"Female","Black","Baltimore City","MD","21215",NA,NA
+1162932,"Lost Injured Missing","06/05/2008",16,"Male","Black","Metairie","LA",NA,NA,NA
+1162932,"Lost Injured Missing","06/05/2008",16,"Male","Black","Metairie","LA",NA,NA,NA
+1163004,"Lost Injured Missing","01/02/2011",16,"Female","White","Wartburg","TN","37887","Sport Utility","Blue, Light"
+1163004,"Lost Injured Missing","01/02/2011",16,"Female","White","Wartburg","TN","37887","Van","Silver"
+1166355,"Lost Injured Missing","02/21/2011",16,"Female","Hispanic","Tequesta","FL","33469",NA,NA
+1166918,"Lost Injured Missing","01/07/2011",16,"Male","Hispanic","Huitlalpa Santa Ana",NA,NA,NA,NA
+1167042,"Lost Injured Missing","02/21/2011",16,"Male","Hispanic","Alexandria","VA","22312",NA,NA
+1173619,"Lost Injured Missing","06/02/2011",16,"Female","White","Traverse City","MI","49686",NA,NA
+1173619,"Lost Injured Missing","06/02/2011",16,"Female","White","Traverse City","MI","49686",NA,NA
+1176043,"Lost Injured Missing","07/14/2011",16,"Male","White","Panama City","FL",NA,NA,NA
+1176457,"Lost Injured Missing","07/25/2011",16,"Female","White","Hustler","WI",NA,NA,NA
+1180292,"Lost Injured Missing","09/22/2011",16,"Male","White","Fort Worth","TX","76108",NA,NA
+1191008,"Lost Injured Missing","03/18/2012",16,"Male","White","Columbia Township","OH","45174",NA,NA
+1193263,"Lost Injured Missing","04/23/2012",16,"Male","White","Federal Way","WA","98003",NA,NA
+1196339,"Lost Injured Missing","06/07/2012",16,"Male","Black","El Monte","CA","91732",NA,NA
+1198050,"Lost Injured Missing","07/03/2012",16,"Male","White","Federal Way","WA",NA,NA,NA
+1205249,"Lost Injured Missing","10/29/2012",16,"Female","Hispanic","Hanford","CA","93230",NA,NA
+1206028,"Lost Injured Missing","11/13/2012",16,"Female","White","Tacoma","WA","98406",NA,NA
+1206028,"Lost Injured Missing","11/13/2012",16,"Female","White","Tacoma","WA","98406",NA,NA
+1206806,"Lost Injured Missing","11/27/2012",16,"Female","White","Oakland","CA",NA,NA,NA
+1207455,"Lost Injured Missing","12/09/2012",16,"Female","White","Mint Hill","NC","28227",NA,NA
+1209169,"Lost Injured Missing","01/14/2013",16,"Female","White","Cottleville","MO","63304","Truck","Gray"
+1209169,"Lost Injured Missing","01/14/2013",16,"Female","White","Cottleville","MO","63304","Truck","Gray"
+1210639,"Lost Injured Missing","02/11/2013",16,"Female","Black","Antioch","TN","37013",NA,NA
+1210890,"Lost Injured Missing","02/15/2013",16,"Female","White","Beverly Hills","MI","48025",NA,NA
+1211481,"Lost Injured Missing","02/25/2013",16,"Female","White","Peconic","NY","11958",NA,NA
+1213184,"Lost Injured Missing","03/28/2013",16,"Male","Black","Elizabeth City","NC","27909",NA,NA
+1230681,"Lost Injured Missing","04/08/2014",16,"Female","White","Cleveland","TX","77327",NA,NA
+1236673,"Lost Injured Missing","08/18/2014",16,"Female","White","Prairie Du Chien","WI","53821","Sport Utility",NA
+1236873,"Lost Injured Missing","08/18/2014",16,"Male","White","Elkton","MD",NA,"Sedan, 2 door","Blue"
+1237576,"Lost Injured Missing","09/08/2014",16,"Male","Hispanic","Woodbridge","VA","22193",NA,NA
+1238417,"Lost Injured Missing","09/28/2014",16,"Female","White","Fairfax","VA","22030",NA,NA
+1240819,"Lost Injured Missing","11/22/2014",16,"Male","Hispanic","Richmond","VA","23234",NA,NA
+1251780,"Lost Injured Missing","07/21/2015",16,"Male","Black","Phenix City","AL","36867",NA,NA
+1253371,"Lost Injured Missing","08/20/2015",16,"Female","White","Myrtle Beach","SC","29575","Sport Utility","Silver"
+1257848,"Lost Injured Missing","11/12/2015",16,"Female","White","Brandon","MS","39047",NA,NA
+1257849,"Lost Injured Missing","11/11/2015",16,"Female","White","Shady Valley","TN","37688",NA,NA
+1262242,"Lost Injured Missing","02/05/2016",16,"Male","White","Quanah","TX","79252",NA,NA
+1262427,"Lost Injured Missing","02/07/2016",16,"Female","White","Brewton","AL","36426",NA,NA
+1263274,"Lost Injured Missing","02/23/2016",16,"Male","White","Jamul","CA","91935",NA,NA
+1264834,"Lost Injured Missing","02/19/2016",16,"Female","White","Springfield","MO","65803","Pickup Truck","Red"
+1264834,"Lost Injured Missing","02/19/2016",16,"Female","White","Springfield","MO","65803","Pickup Truck","Red"
+1267469,"Lost Injured Missing","05/01/2016",16,"Female","White","Parkton","NC","28371",NA,NA
+1270814,"Lost Injured Missing","06/20/2016",16,"Male","Biracial","Saint Petersburg","FL","33712",NA,NA
+1272949,"Lost Injured Missing","07/15/2016",16,"Female","Black","Aurora","CO","80011",NA,NA
+1274071,"Lost Injured Missing","08/06/2016",16,"Female","White","Jersey Shore","PA","17740",NA,NA
+1279805,"Lost Injured Missing","10/23/2016",16,"Male","White","Greybull","WY","82426","Sport Utility","Camouflage"
+1279806,"Lost Injured Missing","10/23/2016",16,"Male","White","Greybull","WY","82426","Sport Utility","Camouflage"
+1280064,"Lost Injured Missing","10/17/2016",16,"Male","Black","Fort Worth","TX","76107",NA,NA
+1280352,"Lost Injured Missing","10/29/2016",16,"Female","White","Hudson","NY","12534",NA,NA
+1281900,"Lost Injured Missing","11/13/2016",16,"Male","White","Palmer","AK","99645","Sport Utility","Blue, Dark"
+1282896,"Lost Injured Missing","11/29/2016",16,"Male","White","Longview","TX","75604",NA,NA
+1285435,"Lost Injured Missing","01/03/2017",16,"Male","White","Southport","NC","28461","Sedan, 4 door","Silver"
+1292325,"Lost Injured Missing","03/21/2017",16,"Male","White","Phoenix","AZ","85006",NA,NA
+1295048,"Lost Injured Missing","04/24/2017",16,"Male","White","Randolph","MA","02368",NA,NA
+1295886,"Lost Injured Missing","04/17/2017",16,"Female","Black","Augusta","GA","30906",NA,NA
+1305650,"Lost Injured Missing","08/14/2017",16,"Male","Black","Springfield","VA","22150",NA,NA
+1305650,"Lost Injured Missing","08/14/2017",16,"Male","Black","Springfield","VA","22150",NA,NA
+1313133,"Lost Injured Missing","11/03/2017",16,"Male","White","Liberty Lake","WA","99019",NA,NA
+1313133,"Lost Injured Missing","11/03/2017",16,"Male","White","Liberty Lake","WA","99019",NA,NA
+1068605,"Non Family Abduction","04/15/2007",16,"Female","Hispanic","Glendale","AZ","85301",NA,NA
+1072417,"Non Family Abduction","05/31/2007",16,"Female","Hispanic","Chino Valley","AZ","86323","Truck","White"
+1076812,"Non Family Abduction","07/11/2007",16,"Female","Hispanic","Santa Rita Cimarron",NA,NA,NA,NA
+1081395,"Non Family Abduction","10/13/2007",16,"Female","White","Thibodaux","LA","70301","Sedan, 4 door","Maroon"
+1082290,"Non Family Abduction","10/23/2007",16,"Female","Hispanic","Lancaster","PA","17602",NA,NA
+1090790,"Non Family Abduction","03/08/2008",16,"Female","White","Chula Vista","CA","91913",NA,"Teal (green)"
+1092612,"Non Family Abduction","04/01/2008",16,"Male","Black","Catonsville","MD","21228",NA,"Black"
+1092841,"Non Family Abduction","04/03/2008",16,"Female","White","Everett","PA","15537",NA,"White"
+1093222,"Non Family Abduction","04/02/2008",16,"Female","Black","Watauga","TX","76148",NA,NA
+1102673,"Non Family Abduction","08/08/2008",16,"Female","Hispanic","Zamora","CA",NA,NA,NA
+1110007,"Non Family Abduction","11/10/2008",16,"Female","White","Independence","OR","97351",NA,"White"
+1110007,"Non Family Abduction","11/10/2008",16,"Female","White","Independence","OR","97351",NA,"Blue"
+1110007,"Non Family Abduction","11/10/2008",16,"Female","White","Independence","OR","97351",NA,"Green, Dark"
+1117973,"Non Family Abduction","03/11/2009",16,"Female","Black","Winter Springs","FL","32708","Sedan, 4 door","Green"
+1117973,"Non Family Abduction","03/11/2009",16,"Female","Black","Winter Springs","FL","32708","Sport Utility","Silver"
+1122747,"Non Family Abduction","05/12/2009",16,"Female","White","East Lansing","MI","48823","Pickup Truck","Turquoise"
+1123303,"Non Family Abduction","05/12/2009",16,"Female","White","Toledo","OH",NA,NA,NA
+1130315,"Non Family Abduction","01/08/2009",16,"Male","Hispanic","Green Brook","NJ",NA,NA,NA
+1150673,"Non Family Abduction","06/20/2010",16,"Female","Hispanic","Sparta","WI","54656",NA,"Red"
+1154881,"Non Family Abduction","08/24/2010",16,"Female","White","Greenville","VA","24440",NA,NA
+1178570,"Non Family Abduction","08/25/2011",16,"Female","Asian","Brooklyn Park","MN",NA,NA,"Blue"
+1179476,"Non Family Abduction","09/09/2011",16,"Female","Hispanic","Champaign","IL","61820",NA,"Blue"
+1190126,"Non Family Abduction","03/03/2012",16,"Female","White","San Bernardino","CA",NA,NA,NA
+1198086,"Non Family Abduction","07/04/2012",16,"Female","White","Leavenworth","KS","66048",NA,"White"
+1199681,"Non Family Abduction","07/28/2012",16,"Female","Hispanic","San Ardo","CA",NA,"Sport Utility","Blue"
+1202481,"Non Family Abduction","09/09/2012",16,"Male","Black","Goldsboro","NC",NA,"Sedan, 4 door","Blue"
+1209512,"Non Family Abduction","01/22/2013",16,"Female","White","Johnstown","CO","80534",NA,NA
+1209780,"Non Family Abduction","01/26/2013",16,"Female","Am. Ind.","Duvall","WA","98019",NA,NA
+1220640,"Non Family Abduction","08/03/2013",16,"Female","White","Lakeside","CA","92040","Convertible","Silver"
+1220640,"Non Family Abduction","08/03/2013",16,"Female","White","Lakeside","CA","92040","Sedan, 4 door","Blue"
+1250802,"Non Family Abduction","06/30/2015",16,"Female","Black","Cumberland","MD","21502",NA,NA
+1251084,"Non Family Abduction","07/07/2015",16,"Female","White","Virginia","IL","62691","Convertible","Blue"
+1251274,"Non Family Abduction","07/09/2015",16,"Female","Hispanic","Rio Rancho","NM","87124","Convertible","Gray"
+1251343,"Non Family Abduction","07/12/2015",16,"Male","White","Nacogdoches","TX",NA,"Pickup Truck","White"
+1252301,"Non Family Abduction","07/30/2015",16,"Female","Black","Wilkes Barre","PA","18705",NA,"Red"
+1256625,"Non Family Abduction","10/22/2015",16,"Female","White","Knoxville","TN",NA,NA,NA
+1258884,"Non Family Abduction","12/01/2015",16,"Female","Hispanic","El Paso","TX","79927",NA,NA
+1266913,"Non Family Abduction","04/24/2016",16,"Female","Hispanic","Portales","NM","88130","Sport Utility","Unknown"
+1273862,"Non Family Abduction","08/02/2016",16,"Female","White","Sheridan","MT","59749","Pickup Truck","Black"
+1281183,"Non Family Abduction","11/08/2016",16,"Female","White","Baytown","TX",NA,"Sport Utility","Cream"
+1285070,"Non Family Abduction","12/28/2016",16,"Female","Black","Beckley","WV","25801","Sedan, 2 door","Red"
+1297256,"Non Family Abduction","05/17/2017",16,"Female","Hispanic","Winder","GA","30680","Sedan, 4 door","White"
+1310784,"Non Family Abduction","10/15/2017",16,"Female","Hispanic","Woodbridge","VA","22193","Hatchback/Fastback","Dark"
+1061606,"Lost Injured Missing","01/04/2007",17,"Male","Hispanic","San Antonio","TX","78216",NA,NA
+1061606,"Lost Injured Missing","01/04/2007",17,"Male","Hispanic","San Antonio","TX","78216",NA,NA
+1061606,"Lost Injured Missing","01/04/2007",17,"Male","Hispanic","San Antonio","TX","78216",NA,NA
+1064361,"Lost Injured Missing","02/13/2007",17,"Male","White","Charlottesville","VA",NA,NA,NA
+1066816,"Lost Injured Missing","03/13/2007",17,"Male","White","Charlton","MA","01507",NA,NA
+1072327,"Lost Injured Missing","05/04/2007",17,"Female","White","Belton","MO","64012",NA,NA
+1073487,"Lost Injured Missing","06/16/2007",17,"Female","Black","Detroit","MI",NA,NA,NA
+1073716,"Lost Injured Missing","06/14/2007",17,"Male","Hispanic","Pasadena","TX","77506",NA,NA
+1073858,"Lost Injured Missing","06/21/2007",17,"Female","White","Queen Creek","AZ","85242","Sedan, 4 door","White"
+1075720,"Lost Injured Missing","07/07/2007",17,"Female","White","Tifton","GA","31794","Truck","White"
+1076276,"Lost Injured Missing","07/28/2007",17,"Male","White","Kansas City","KS",NA,"Pickup Truck",NA
+1078879,"Lost Injured Missing","09/03/2007",17,"Female","Asian","Oshkosh","WI","54904",NA,NA
+1083925,"Lost Injured Missing","11/14/2007",17,"Male","White","Phoenix","AZ","85013",NA,NA
+1084466,"Lost Injured Missing","10/20/2007",17,"Female","Hispanic",NA,NA,NA,NA,NA
+1084746,"Lost Injured Missing","11/26/2007",17,"Female","White","Pittsburgh","PA","15220","Sedan, 4 door",NA
+1085028,"Lost Injured Missing","10/24/2007",17,"Male","Black","Tukwila","WA",NA,NA,NA
+1087886,"Lost Injured Missing","08/27/2007",17,"Male","White","Hollister","MO","65672",NA,NA
+1096582,"Lost Injured Missing","05/27/2008",17,"Male","Black","Sandy Springs","GA","30328",NA,NA
+1096755,"Lost Injured Missing","05/27/2008",17,"Male","Black","Columbia","MD","21045",NA,NA
+1098097,"Lost Injured Missing","06/13/2008",17,"Male","White","Canandaigua","NY","14424","Sport Utility","Gray"
+1104505,"Lost Injured Missing","09/01/2008",17,"Female","White","Edgefield","SC",NA,"Sport Utility","Red"
+1107343,"Lost Injured Missing","10/04/2008",17,"Male","White","Pearl","MS","39208",NA,NA
+1108221,"Lost Injured Missing","10/17/2008",17,"Female","White","Plainville","MA","02762",NA,NA
+1109300,"Lost Injured Missing","11/03/2008",17,"Female","White","Tyler","TX","75702","Sport Utility","Maroon"
+1109876,"Lost Injured Missing","11/02/2008",17,"Female","White","Jennings","LA","70546",NA,NA
+1121354,"Lost Injured Missing","04/25/2009",17,"Female","White","Myrtle Beach","SC","14624",NA,NA
+1131706,"Lost Injured Missing","09/22/2009",17,"Male","Black","Jonesboro","GA","30236",NA,NA
+1140964,"Lost Injured Missing","02/09/2010",17,"Female","White","Wenatchee","WA","98801","Sedan, 4 door","Red"
+1145386,"Lost Injured Missing","04/16/2010",17,"Male","White","Lafayette","TN","37083","Sedan, 4 door","Blue"
+1151013,"Lost Injured Missing","06/26/2010",17,"Female","Black","Selma","AL","36701",NA,NA
+1152332,"Lost Injured Missing","08/06/2008",17,"Male","Hispanic","Hayward","CA","94544",NA,NA
+1152513,"Lost Injured Missing","07/21/2010",17,"Female","White","Andrews","TX","79714","Truck","White"
+1154574,"Lost Injured Missing","08/20/2010",17,"Female","White","San Juan","TX",NA,"Pickup Truck","Red"
+1157010,"Lost Injured Missing","09/23/2010",17,"Female","White","Covington","KY","41042","Truck","Blue, Dark"
+1158494,"Lost Injured Missing","10/16/2010",17,"Female","Hispanic","Jonesboro","GA","30236","Truck","Yellow"
+1159433,"Lost Injured Missing","11/02/2010",17,"Female","White","Northville","MI","48167",NA,NA
+1159519,"Lost Injured Missing","10/27/2010",17,"Male","White","Lakeside","CA","92040",NA,NA
+1161397,"Lost Injured Missing","11/27/2010",17,"Female","Black","Chicopee","MA","01020",NA,NA
+1162563,"Lost Injured Missing","12/24/2010",17,"Female","White","Goldsboro","NC","19382",NA,NA
+1162828,"Lost Injured Missing","12/30/2010",17,"Female","White","Phoenix","AZ","85051",NA,NA
+1177744,"Lost Injured Missing","08/11/2011",17,"Male","White","Middletown","CT","06457",NA,NA
+1178817,"Lost Injured Missing","08/27/2011",17,"Male","White","Brattleboro","VT","05301",NA,NA
+1180260,"Lost Injured Missing","09/20/2011",17,"Male","White","Wrentham","MA","02093","Truck","Red"
+1182230,"Lost Injured Missing","08/01/2011",17,"Male","White","Madeira Beach","FL","33708","Van","Gray"
+1187520,"Lost Injured Missing","01/01/2012",17,"Female","Asian","Vancouver","WA",NA,NA,NA
+1191397,"Lost Injured Missing","03/24/2012",17,"Female","Black","Rochester","NY","14611",NA,NA
+1191587,"Lost Injured Missing","03/27/2012",17,"Male","White","Greenfield","MA",NA,NA,NA
+1204098,"Lost Injured Missing","10/10/2012",17,"Male","Hispanic","Wildomar","CA","92595",NA,NA
+1204322,"Lost Injured Missing","10/13/2012",17,"Male","Biracial","Denver","NC","28037",NA,"Green"
+1204322,"Lost Injured Missing","10/13/2012",17,"Male","Biracial","Denver","NC","28037",NA,"Green"
+1210970,"Lost Injured Missing","01/29/2013",17,"Male","White","Erie","PA",NA,NA,NA
+1218855,"Lost Injured Missing","07/04/2013",17,"Female","White","Missoula","MT",NA,NA,NA
+1220294,"Lost Injured Missing","06/12/2013",17,"Female","White","Spring City","TN","37381",NA,NA
+1220626,"Lost Injured Missing","08/03/2013",17,"Female","Black","Shipman","VA","22971","Sedan, 4 door","White"
+1225507,"Lost Injured Missing","04/19/2007",17,"Female","Black","Detroit","MI",NA,NA,NA
+1227206,"Lost Injured Missing","12/04/2013",17,"Female","White","Wyoming","PA","18644",NA,NA
+1227229,"Lost Injured Missing","01/03/2014",17,"Male","White","Baltimore","MD","21223",NA,NA
+1227268,"Lost Injured Missing","01/10/2014",17,"Male","Black","San Jose","CA","95112",NA,NA
+1227592,"Lost Injured Missing","01/21/2014",17,"Male","Black","Matthews","NC","28105",NA,NA
+1231313,"Lost Injured Missing","04/23/2014",17,"Male","White","Winston Salem","NC","27101",NA,NA
+1239270,"Lost Injured Missing","10/15/2014",17,"Male","White","Albany","NY","12206",NA,NA
+1241096,"Lost Injured Missing","12/02/2014",17,"Male","White","Trenton","FL","32693",NA,NA
+1255618,"Lost Injured Missing","10/06/2015",17,"Male","Hispanic","Hialeah","FL","33012",NA,NA
+1261265,"Lost Injured Missing","08/20/2015",17,"Female","White","Lyons","IL","60534",NA,NA
+1261265,"Lost Injured Missing","08/20/2015",17,"Female","White","Lyons","IL","60534",NA,NA
+1267713,"Lost Injured Missing","05/05/2016",17,"Male","White","Dallas","NC","28034",NA,NA
+1268094,"Lost Injured Missing","05/12/2016",17,"Male","White","Lima","OH","45801",NA,NA
+1268959,"Lost Injured Missing","07/23/2007",17,"Female","Black","Albuquerque","NM","87105",NA,NA
+1275994,"Lost Injured Missing","08/12/2016",17,"Male","Hispanic","Tijuana",NA,NA,NA,NA
+1275994,"Lost Injured Missing","08/12/2016",17,"Male","Hispanic","Tijuana",NA,NA,NA,NA
+1281567,"Lost Injured Missing","10/31/2016",17,"Male","Am. Ind.","Bemidji","MN","56601",NA,NA
+1281567,"Lost Injured Missing","10/31/2016",17,"Male","Am. Ind.","Bemidji","MN","56601",NA,NA
+1282451,"Lost Injured Missing","11/25/2016",17,"Female","Black","Braintree","MA","02184",NA,NA
+1287408,"Lost Injured Missing","01/15/2017",17,"Female","Biracial","Las Vegas","NV","89109",NA,NA
+1288662,"Lost Injured Missing","02/10/2017",17,"Male","Biracial","Johnstown","CO","80534",NA,NA
+1289406,"Lost Injured Missing","02/20/2017",17,"Male","Biracial","Boulder","CO","80301",NA,NA
+1290775,"Lost Injured Missing","03/04/2017",17,"Female","White","Parma","OH","44314",NA,NA
+1292325,"Lost Injured Missing","03/21/2017",17,"Male","White","Phoenix","AZ","85006",NA,NA
+1305683,"Lost Injured Missing","08/06/2017",17,"Female","White","Toney","AL","35773",NA,NA
+1311904,"Lost Injured Missing","10/26/2017",17,"Male","White","Spokane","WA","99204",NA,NA
+1312468,"Lost Injured Missing","11/01/2017",17,"Male","Black","Albuquerque","NM","87110",NA,NA
+1067935,"Non Family Abduction","04/05/2007",17,"Female","White","Naples","FL","34116","Sport Utility","Orange"
+1073863,"Non Family Abduction","06/24/2007",17,"Female","Hispanic","Monett","MO",NA,"Pickup Truck","Gray"
+1076569,"Non Family Abduction","08/02/2007",17,"Female","Hispanic","Minooka","IL","60047","Sport Utility","White"
+1080908,"Non Family Abduction","10/06/2007",17,"Female","White","Worthington","MN",NA,"Truck","Gray"
+1081823,"Non Family Abduction","10/17/2007",17,"Female","White","Missoula","MT",NA,NA,NA
+1093678,"Non Family Abduction","04/08/2008",17,"Female","White","Susanville","CA","96130",NA,NA
+1098521,"Non Family Abduction","06/18/2008",17,"Male","Hispanic","Madison","NC","27025","Sedan, 4 door",NA
+1106482,"Non Family Abduction","09/24/2008",17,"Female","Black","New Orleans","LA","70117","Sport Utility","White"
+1128502,"Non Family Abduction","08/03/2009",17,"Female","Hispanic","Bayfield","CO","81122","Sport Utility","Black"
+1133823,"Non Family Abduction","10/20/2009",17,"Female","White","Topeka","KS",NA,NA,"Blue"
+1141924,"Non Family Abduction","02/25/2010",17,"Female","White","San Diego","CA",NA,NA,NA
+1142711,"Non Family Abduction","03/09/2010",17,"Female","White","Hamtramck","MI","48212","Sedan, 4 door","Brown"
+1151259,"Non Family Abduction","07/05/2010",17,"Female","White","Costa Mesa","CA",NA,NA,"Blue"
+1152127,"Non Family Abduction","07/15/2010",17,"Female","Hispanic","Moreno Valley","CA","92555","Sport Utility","Green"
+1169743,"Non Family Abduction","04/11/2011",17,"Female","Hispanic","Los Angeles","CA","90001","Sport Utility","Green"
+1200157,"Non Family Abduction","07/25/2012",17,"Female","Biracial","Saint Petersburg","FL","33712","Sedan, 4 door","White"
+1201790,"Non Family Abduction","08/31/2012",17,"Female","Hispanic","Henderson","NV","89014","Sedan, 2 door","Red"
+1216621,"Non Family Abduction","05/25/2013",17,"Female","White","Pottsville","PA",NA,NA,NA
+1218531,"Non Family Abduction","06/23/2013",17,"Female","Black","Inglewood","CA","90305",NA,"White"
+1218969,"Non Family Abduction","07/06/2013",17,"Female","Black","Daytona Beach","FL","32118",NA,NA
+1225000,"Non Family Abduction","11/05/2013",17,"Female","White","Hansen","ID","83334",NA,NA
+1225159,"Non Family Abduction","11/11/2013",17,"Female","Hispanic","Nuevo Urecho",NA,NA,NA,NA
+1233213,"Non Family Abduction","06/03/2014",17,"Female","Black","Starke","FL","32091",NA,NA
+1236903,"Non Family Abduction","08/23/2014",17,"Female","White","Lilburn","GA","30047","Sport Utility","Black"
+1237183,"Non Family Abduction","08/31/2014",17,"Female","White","Jackson","MS",NA,NA,"Green"
+1238055,"Non Family Abduction","09/19/2014",17,"Female","White","Magee","MS","39111","Sedan, 4 door","Black"
+1243537,"Non Family Abduction","01/31/2015",17,"Female","White","Pima","AZ","85543",NA,NA
+1247825,"Non Family Abduction","04/30/2015",17,"Female","Black","Oxon Hill","MD","20745",NA,NA
+1303188,"Non Family Abduction","07/21/2017",17,"Male","White","Paramount","CA","90723","Sedan, 4 door","Black"
+1306206,"Lost Injured Missing","08/20/2017",18,"Female","White","South Lake Tahoe","CA","96150","Sport Utility","Black"
+1062352,"Section 5779","01/19/2007",18,"Female","White","Gaithersburg","MD","20878","Station Wagon","Blue, Dark"
+1063825,"Section 5779","02/03/2007",18,"Female","Black","Seat Pleasant","MD","20743",NA,NA
+1065955,"Section 5779","03/04/2007",18,"Female","White","Saint  George","UT","84770","Sedan, 4 door","Red"
+1065955,"Section 5779","03/04/2007",18,"Female","White","Saint  George","UT","84770","Van","Silver"
+1072430,"Section 5779","06/02/2007",18,"Female","White","Overland Park","KS",NA,"Sedan, 2 door","Gray"
+1075554,"Section 5779","07/18/2007",18,"Female","White","Elmwood","OK","73932",NA,NA
+1077228,"Section 5779","08/13/2007",18,"Female","White","Jackson","TN","38305","Sedan, 4 door","Gold"
+1084530,"Section 5779","11/23/2007",18,"Female","White","El Dorado","KS","67042","Sedan, 4 door","Gray"
+1084559,"Section 5779","11/02/2007",18,"Male","White","Duluth","GA",NA,NA,NA
+1085996,"Section 5779","12/19/2007",18,"Female","White","Castalian Springs","TN","37031","Pickup Truck","Gold"
+1086782,"Section 5779","10/20/2007",18,"Male","White","Buffalo Grove","IL","60089",NA,NA
+1092322,"Section 5779","03/19/2008",18,"Male","White","Conewango Valley","NY","14701",NA,NA
+1095008,"Section 5779","04/17/2008",18,"Female","White","Laurel","MD","20707",NA,NA
+1095253,"Section 5779","05/06/2008",18,"Female","White","Thomasville","NC",NA,"Sedan, 4 door","Red"
+1098133,"Section 5779","09/03/2007",18,"Male","White","Cedar City","UT","84720","Truck","Multicolored"
+1098286,"Section 5779","06/02/2008",18,"Male","Asian","Liverpool","NY","13088",NA,NA
+1098922,"Section 5779","06/13/2008",18,"Male","White","Medford","OR","97504","Coupe","Red"
+1098922,"Section 5779","06/13/2008",18,"Male","White","Medford","OR","97504","Coupe","Red"
+1101376,"Section 5779","05/06/2007",18,"Male","Hispanic","Austin","TX","78723",NA,NA
+1101737,"Section 5779","03/31/2008",18,"Male","Hispanic","Porterville","CA",NA,NA,NA
+1101737,"Section 5779","03/31/2008",18,"Male","Hispanic","Porterville","CA",NA,NA,NA
+1104225,"Section 5779","08/26/2008",18,"Female","White","Columbine Valley","CO","80123",NA,NA
+1117758,"Section 5779","03/06/2009",18,"Male","Black","Columbia","MD","21045",NA,NA
+1119872,"Section 5779","04/05/2009",18,"Male","White","Saint Paul","MN","55105",NA,NA
+1119872,"Section 5779","04/05/2009",18,"Male","White","Saint Paul","MN","55105",NA,NA
+1122877,"Section 5779","04/21/2009",18,"Female","Black","Oak Park","IL","60302",NA,NA
+1127741,"Section 5779","03/16/2009",18,"Female","White","Midlothian","VA","23114",NA,NA
+1132821,"Section 5779","08/01/2009",18,"Male","White","Carolina Beach","NC","28428",NA,NA
+1132821,"Section 5779","08/01/2009",18,"Male","White","Carolina Beach","NC","28428",NA,NA
+1140487,"Section 5779","01/17/2010",18,"Male","Black","Superior","WI",NA,NA,NA
+1140487,"Section 5779","01/17/2010",18,"Male","Black","Superior","WI",NA,NA,NA
+1141337,"Section 5779","02/05/2010",18,"Female","White","Bellaire","TX","77401",NA,"Black"
+1146723,"Section 5779","04/22/2010",18,"Female","Hispanic","Covina","CA","91723","Sedan, 4 door",NA
+1146976,"Section 5779","05/08/2010",18,"Female","White","Poplar","CA","93257","Pickup Truck","Brown"
+1147118,"Section 5779","05/07/2010",18,"Female","White","Beaverton","OR",NA,NA,NA
+1153873,"Section 5779","08/02/2010",18,"Female","Black","Washington","DC","20020",NA,NA
+1154923,"Section 5779","08/04/2010",18,"Female","White","Ridgefield","WA","98642",NA,NA
+1157166,"Section 5779","09/26/2010",18,"Male","White","Bellingham","WA","98225",NA,NA
+1158525,"Section 5779","10/14/2010",18,"Female","White","DeKalb","IL","60115",NA,NA
+1159620,"Section 5779","10/28/2010",18,"Male","White","Louisville","KY","40204",NA,NA
+1159824,"Section 5779","11/08/2010",18,"Male","Asian","Longwood","FL","32750",NA,NA
+1161960,"Section 5779","04/20/2010",18,"Female","White","Chehalis","WA","98533",NA,NA
+1163233,"Section 5779","01/06/2011",18,"Female","White","Irondequoit","NY","14617",NA,NA
+1165516,"Section 5779","11/11/2007",18,"Male","White","Plainfield","NJ","07060",NA,NA
+1165516,"Section 5779","11/11/2007",18,"Male","White","Plainfield","NJ","07060",NA,NA
+1166224,"Section 5779","01/31/2011",18,"Female","White","Palmdale","CA","93551",NA,NA
+1166673,"Section 5779","02/22/2010",18,"Female","Black","Scotland Neck","NC","27874",NA,NA
+1166673,"Section 5779","02/22/2010",18,"Female","Black","Scotland Neck","NC","27874",NA,NA
+1167823,"Section 5779","03/13/2011",18,"Male","Black","Madison","WI","53716",NA,NA
+1168354,"Section 5779","10/31/2010",18,"Male","Hispanic","Silver City","NM","88061",NA,NA
+1168746,"Section 5779","03/22/2011",18,"Female","White","Angola","NY","14006",NA,NA
+1169547,"Section 5779","04/07/2011",18,"Male","White","Dallas","NC","28034","Sedan, 4 door",NA
+1170921,"Section 5779","03/10/2011",18,"Female","White","Scottsdale","AZ","85259",NA,NA
+1170921,"Section 5779","03/10/2011",18,"Female","White","Scottsdale","AZ","85259",NA,NA
+1171598,"Section 5779","05/05/2011",18,"Female","White","Huntsville","TX","77340",NA,NA
+1171744,"Section 5779","05/09/2011",18,"Female","White","Burlington","NJ","08016",NA,NA
+1173173,"Section 5779","05/27/2011",18,"Female","White","Phoenix","AZ","85023",NA,NA
+1173572,"Section 5779","05/04/2011",18,"Female","Black","Bloomington","IL","61701",NA,NA
+1181415,"Section 5779","09/09/2011",18,"Male","Black","Plymouth","MN","55441",NA,NA
+1181696,"Section 5779","10/10/2011",18,"Female","White","Cicero","NY","13039",NA,NA
+1181899,"Section 5779","01/01/2011",18,"Male","White","Griffin","GA",NA,NA,NA
+1195170,"Section 5779","02/09/2012",18,"Male","White","Spanaway","WA","98387",NA,NA
+1197145,"Section 5779","03/11/2012",18,"Male","White","Tupper Lake","NY","12986",NA,NA
+1199528,"Section 5779","06/11/2012",18,"Female","Hispanic","El Monte","CA","91732",NA,NA
+1202911,"Section 5779","09/19/2012",18,"Male","Hispanic","Las Vegas","NV","89110",NA,NA
+1203170,"Section 5779","09/23/2012",18,"Male","Asian","Evanston","IL","60201",NA,NA
+1203606,"Section 5779","09/20/2012",18,"Male","Hispanic","Gainesville","FL","32608",NA,NA
+1204607,"Section 5779","10/13/2012",18,"Male","White","Sherrills Ford","NC","28673","Sedan, 4 door","Green"
+1209498,"Section 5779","01/09/2013",18,"Male","White","Alexandria","IN","46001","Sport Utility","Black"
+1210300,"Section 5779","01/10/2013",18,"Male","Black","High Point","NC","27265",NA,NA
+1218376,"Section 5779","05/09/2009",18,"Female","Biracial","Everett","WA","98204",NA,NA
+1222275,"Section 5779","07/08/2013",18,"Male","Black","Youngstown","OH","44511",NA,NA
+1222873,"Section 5779","08/16/2012",18,"Female","White","Warsaw","IN","46582",NA,NA
+1223582,"Section 5779","09/30/2013",18,"Female","Hispanic","Grand Prairie","TX","75051",NA,NA
+1223737,"Section 5779","10/03/2013",18,"Male","White","Slinger","WI","53086","Pickup Truck","Blue"
+1223931,"Section 5779","10/01/2013",18,"Female","White","Pueblo","CO","81001",NA,NA
+1225003,"Section 5779","11/05/2013",18,"Male","Hispanic","Wildomar","CA","92595",NA,NA
+1225920,"Section 5779","11/17/2013",18,"Female","Hispanic","Lubbock","TX","79414",NA,NA
+1225920,"Section 5779","11/17/2013",18,"Female","Hispanic","Lubbock","TX","79414",NA,NA
+1230107,"Section 5779","02/22/2014",18,"Female","Biracial","Charleston","SC","29403",NA,NA
+1230950,"Section 5779","04/13/2014",18,"Male","White","Tiffin","OH","44883",NA,NA
+1234292,"Section 5779","06/02/2014",18,"Female","White","Cresskill","NJ","07626",NA,NA
+1234535,"Section 5779","06/27/2014",18,"Male","Hispanic","Los Angeles","CA","90012",NA,NA
+1234643,"Section 5779","06/22/2014",18,"Male","Black","Los Angeles","CA","90059",NA,NA
+1235260,"Section 5779","07/12/2014",18,"Male","Am. Ind.","Payson","AZ","85541",NA,NA
+1237030,"Section 5779","06/26/2014",18,"Female","White","Savannah","GA","31401",NA,NA
+1237640,"Section 5779","09/02/2014",18,"Female","White","Boone","NC","28608",NA,NA
+1237926,"Section 5779","09/13/2014",18,"Female","White","Charlottesville","VA","22903",NA,NA
+1237926,"Section 5779","09/13/2014",18,"Female","White","Charlottesville","VA","22903",NA,"Blue, Light"
+1239318,"Section 5779","09/06/2014",18,"Female","White","Omaha","NE",NA,NA,NA
+1241610,"Section 5779","11/25/2014",18,"Female","Black","Rock Hill","SC","29730",NA,NA
+1241610,"Section 5779","11/25/2014",18,"Female","Black","Rock Hill","SC","29730",NA,NA
+1243470,"Section 5779","01/25/2015",18,"Male","Black","Albemarle","NC","28001",NA,NA
+1243889,"Section 5779","02/04/2015",18,"Female","Am. Ind.","Fairmont","NC","28340",NA,NA
+1244930,"Section 5779","03/01/2015",18,"Male","Hispanic","Crystal Lake","IL","60014",NA,NA
+1246469,"Section 5779","03/02/2015",18,"Female","White","Norfolk","VA","23518",NA,NA
+1246601,"Section 5779","03/30/2015",18,"Male","White","Nocona","TX",NA,"Truck",NA
+1246885,"Section 5779","04/13/2015",18,"Male","Hispanic","Los Angeles","CA","90061",NA,NA
+1247500,"Section 5779","04/24/2015",18,"Female","Black","Miami","FL","33162",NA,NA
+1248194,"Section 5779","05/12/2015",18,"Female","Black","North Hills","CA","91343",NA,NA
+1249576,"Section 5779","05/22/2015",18,"Female","Black","Lincoln","NE",NA,NA,NA
+1253192,"Section 5779","07/23/2015",18,"Male","White","Antonito","CO","81120",NA,NA
+1253279,"Section 5779","08/05/2015",18,"Female","Biracial","Pasadena","CA","91101",NA,NA
+1262050,"Section 5779","01/17/2016",18,"Female","White","South Hadley","MA","01075",NA,NA
+1264122,"Section 5779","03/09/2016",18,"Male","Black","Fort Wayne","IN","46835",NA,NA
+1264408,"Section 5779","10/10/2015",18,"Female","Hispanic","Midland","TX","79706",NA,NA
+1264408,"Section 5779","10/10/2015",18,"Female","Hispanic","Midland","TX","79706",NA,NA
+1266064,"Section 5779","04/09/2016",18,"Female","White","West Chester","OH","45069","Sedan, 4 door","Black"
+1274015,"Section 5779","07/26/2016",18,"Female","Asian","Madison","WI","53704",NA,NA
+1276512,"Section 5779","10/24/2015",18,"Female","White","Little Rock","AR",NA,NA,NA
+1279982,"Section 5779","10/25/2016",18,"Male","Black","Baldwin","NY","11510",NA,NA
+1283027,"Section 5779","10/03/2016",18,"Male","White","Nampa","ID","83651",NA,NA
+1283255,"Section 5779","11/25/2016",18,"Male","Black","Lake Stevens","WA","98258",NA,NA
+1284205,"Section 5779","11/24/2016",18,"Male","White","Canadian","TX",NA,NA,NA
+1298804,"Section 5779","05/23/2017",18,"Female","Hispanic","Miami","FL","33196",NA,NA
+1304911,"Section 5779","08/03/2017",18,"Male","Hispanic","Alexandria","VA",NA,NA,NA
+1311110,"Section 5779","09/20/2017",18,"Male","White","West Windsor Township","NJ","08550",NA,NA
+1316463,"Section 5779","12/09/2017",18,"Male","White","Grover Beach","CA","93433",NA,NA
+1062122,"Section 5779","01/13/2007",19,"Male","White","Lafayette","IN","47907",NA,NA
+1064460,"Section 5779","02/16/2007",19,"Male","White","Adrian","MI","49221","Sedan, 4 door","Copper"
+1074636,"Section 5779","06/23/2007",19,"Female","White","Rancho St. Margarita","CA","92688","Pickup Truck","Blue"
+1074636,"Section 5779","06/23/2007",19,"Female","White","Rancho St. Margarita","CA","92688","Pickup Truck","Blue"
+1074636,"Section 5779","06/23/2007",19,"Female","White","Rancho St. Margarita","CA","92688","Motorcycle",NA
+1074636,"Section 5779","06/23/2007",19,"Female","White","Rancho St. Margarita","CA","92688","Motorcycle",NA
+1076583,"Section 5779","07/07/2007",19,"Male","White","Rochester","NY","14628","Sedan, 2 door","Red"
+1081491,"Section 5779","09/24/2007",19,"Male","Black","Duncanville","TX",NA,NA,"Cream"
+1087629,"Section 5779","01/20/2008",19,"Female","White","Reno","NV","89503","Sport Utility","Beige"
+1089425,"Section 5779","02/05/2008",19,"Male","Biracial","Middlebury","VT","05753",NA,NA
+1092332,"Section 5779","02/09/2008",19,"Male","White","Clinton","IA","52732",NA,NA
+1092332,"Section 5779","02/09/2008",19,"Male","White","Clinton","IA","52732",NA,NA
+1093189,"Section 5779","03/22/2008",19,"Female","Black","Suitland","MD","20746",NA,NA
+1097768,"Section 5779","05/14/2008",19,"Male","White","Marshall","MN","56258",NA,"Green"
+1110456,"Section 5779","11/13/2008",19,"Male","White","Grayslake","IL","60030",NA,NA
+1120150,"Section 5779","04/01/2009",19,"Female","Hispanic","Pasadena","TX","77501",NA,NA
+1120684,"Section 5779","04/07/2009",19,"Male","Black","Glen Burnie","MD","21061",NA,NA
+1125265,"Section 5779","04/20/2009",19,"Male","White","Long Beach","NY","11561",NA,NA
+1125917,"Section 5779","06/01/2009",19,"Female","Hispanic","Wagon Mound","NM","87752",NA,NA
+1126045,"Section 5779","04/26/2009",19,"Female","White","Newport","TN","37821",NA,NA
+1126883,"Section 5779","06/25/2009",19,"Female","White","Ozark","AR","72949",NA,NA
+1128650,"Section 5779","07/04/2009",19,"Female","White","San Bernardino","CA","92405",NA,NA
+1128696,"Section 5779","02/23/2009",19,"Female","Black","San Bernardino","CA","92407",NA,NA
+1136586,"Section 5779","03/25/2009",19,"Male","Hispanic","Bonita Springs","FL","34135",NA,NA
+1140816,"Section 5779","01/31/2010",19,"Male","White","Savannah","GA","31419","Truck","White"
+1143743,"Section 5779","04/07/2008",19,"Female","Hispanic","Miami","FL","33135",NA,NA
+1147635,"Section 5779","05/18/2010",19,"Female","Black","Warrensville Heights","OH","44122",NA,NA
+1147663,"Section 5779","05/12/2010",19,"Male","White","Powell","TN",NA,"Truck","White"
+1147698,"Section 5779","05/13/2010",19,"Female","White","Bremerton","WA","98310",NA,NA
+1152763,"Section 5779","07/17/2010",19,"Female","White","Brooks","KY","40109",NA,"Gold"
+1155776,"Section 5779","08/30/2010",19,"Female","White","Madisonville","KY","42431","Pickup Truck","Red"
+1157951,"Section 5779","09/13/2010",19,"Female","White","Orange","VA","22960",NA,NA
+1158052,"Section 5779","04/18/2010",19,"Female","Asian","Renton","WA","98055",NA,NA
+1161374,"Section 5779","12/03/2010",19,"Female","Black","Peru","NE","68421",NA,NA
+1161862,"Section 5779","11/11/2010",19,"Male","Biracial","Tulsa","OK","74103",NA,NA
+1162927,"Section 5779","11/27/2010",19,"Male","White","Woodson Terrace","MO",NA,NA,NA
+1166091,"Section 5779","01/08/2011",19,"Male","Black","Walterboro","SC","29488",NA,NA
+1167519,"Section 5779","02/28/2011",19,"Male","White","Olive Hill","KY","41164",NA,NA
+1169373,"Section 5779","04/01/2011",19,"Female","Hispanic","Denver","CO","80202",NA,NA
+1171356,"Section 5779","01/13/2011",19,"Female","White","Blytheville","AR","72315",NA,NA
+1177277,"Section 5779","08/05/2011",19,"Male","Hispanic","Washington","DC","20009",NA,NA
+1183360,"Section 5779","10/21/2011",19,"Male","Hispanic","Hartford","CT",NA,NA,"Red"
+1188070,"Section 5779","10/28/2011",19,"Male","Asian","Bremerton","WA","98337",NA,NA
+1188200,"Section 5779","01/26/2012",19,"Male","White","Munfordville","KY","42765",NA,NA
+1198036,"Section 5779","06/26/2012",19,"Female","White","Sacramento","CA","95825",NA,NA
+1198505,"Section 5779","09/08/2011",19,"Female","White","Eunola","AL","36340",NA,NA
+1198664,"Section 5779","05/15/2010",19,"Male","White","San Francisco","CA","94129",NA,NA
+1198664,"Section 5779","05/15/2010",19,"Male","White","San Francisco","CA","94129",NA,NA
+1199371,"Section 5779","05/31/2012",19,"Female","White","Mobile","AL","36619",NA,NA
+1202267,"Section 5779","06/01/2012",19,"Female","Biracial","Miami","FL","33144",NA,NA
+1203762,"Section 5779","04/27/2012",19,"Female","Black","Manhattan","NY",NA,NA,NA
+1204255,"Section 5779","09/30/2012",19,"Male","White","Tacoma","WA","98444",NA,NA
+1205349,"Section 5779","09/11/2012",19,"Male","White","Sellersburg","IN","47172","Sedan, 4 door","Silver"
+1207898,"Section 5779","11/20/2012",19,"Male","Black","Charlottesville","VA","22903",NA,NA
+1207898,"Section 5779","11/20/2012",19,"Male","Black","Charlottesville","VA","22903",NA,NA
+1208482,"Section 5779","03/04/2011",19,"Female","White","West Mifflin","PA","15122",NA,NA
+1208490,"Section 5779","01/01/2013",19,"Female","White","Lakeridge","NV","89449",NA,NA
+1218566,"Section 5779","05/21/2013",19,"Male","Biracial","San Francisco","CA","94102",NA,NA
+1218707,"Section 5779","03/29/2013",19,"Male","Black","Atlanta","GA","30308",NA,NA
+1219282,"Section 5779","06/30/2012",19,"Female","Hispanic","Las Vegas","NM","87701","Sedan, 4 door","Purple"
+1219282,"Section 5779","06/30/2012",19,"Female","Hispanic","Las Vegas","NM","87701","Sedan, 4 door","Purple"
+1221108,"Section 5779","06/15/2013",19,"Female","Hispanic","Tempe","AZ","85281",NA,NA
+1222511,"Section 5779","08/30/2013",19,"Male","White","Castaic","CA","91384",NA,NA
+1223037,"Section 5779","03/20/2007",19,"Female","White","Boone","NC","28608",NA,"Black"
+1223037,"Section 5779","03/20/2007",19,"Female","White","Boone","NC","28608",NA,"Black"
+1225546,"Section 5779","11/19/2013",19,"Male","White","Marlboro Township","NJ","07746",NA,NA
+1225677,"Section 5779","11/23/2013",19,"Male","White","Edenton","NC",NA,NA,"Black"
+1226247,"Section 5779","12/10/2013",19,"Female","White","Orangeburg","SC","29115","Pickup Truck","Green, Dark"
+1232409,"Section 5779","05/18/2014",19,"Female","White","Broomfield","CO","80020",NA,NA
+1234645,"Section 5779","03/04/2014",19,"Male","Hispanic","Los Angeles","CA","90037",NA,NA
+1236875,"Section 5779","08/19/2014",19,"Male","Black","Elkton","MD",NA,"Sedan, 2 door","Blue"
+1240651,"Section 5779","11/18/2014",19,"Male","Black","Saint Louis","MO","63137",NA,NA
+1242652,"Section 5779","12/28/2014",19,"Male","White","Harrisburg","IL","62946","Sport Utility","Black"
+1244697,"Section 5779","03/10/2007",19,"Female","White","Chocowinity","NC",NA,NA,NA
+1246428,"Section 5779","03/30/2015",19,"Female","Black","Cleveland","OH","44130","Sedan, 4 door","Gray"
+1246428,"Section 5779","03/30/2015",19,"Female","Black","Cleveland","OH","44130","Sedan, 4 door","Gray"
+1247113,"Section 5779","03/01/2015",19,"Female","Black","Seymour","WI","54165",NA,NA
+1256971,"Section 5779","10/26/2015",19,"Female","White","Greenville","NC","27834",NA,NA
+1259083,"Section 5779","12/05/2015",19,"Female","White","Springfield","VA","22150",NA,NA
+1263496,"Section 5779","01/07/2016",19,"Female","Black","Greensboro","NC",NA,NA,NA
+1263751,"Section 5779","03/03/2016",19,"Male","Hispanic","Boston","MA","02125",NA,NA
+1264407,"Section 5779","10/10/2015",19,"Male","Hispanic","Midland","TX","79706",NA,NA
+1264407,"Section 5779","10/10/2015",19,"Male","Hispanic","Midland","TX","79706",NA,NA
+1266722,"Section 5779","02/12/2016",19,"Female","White","Atlanta","GA",NA,NA,NA
+1266722,"Section 5779","02/12/2016",19,"Female","White","Atlanta","GA",NA,NA,NA
+1266722,"Section 5779","02/12/2016",19,"Female","White","Atlanta","GA",NA,NA,NA
+1267493,"Section 5779","04/21/2016",19,"Male","White","Boone","NC",NA,NA,NA
+1270848,"Section 5779","03/10/2016",19,"Male","White","Macomb","MI","48044",NA,NA
+1273312,"Section 5779","07/17/2016",19,"Female","Biracial","Evansville","IN","47711",NA,NA
+1273615,"Section 5779","07/31/2016",19,"Male","Black","Bedford","VA",NA,NA,NA
+1283282,"Section 5779","12/02/2016",19,"Female","White","Neptune","NJ","07753","Sedan, 4 door","Silver"
+1284316,"Section 5779","09/27/2016",19,"Male","Black","Raymore","MO","64083",NA,NA
+1289205,"Section 5779","02/17/2017",19,"Male","Black","Yonkers","NY",NA,NA,NA
+1292942,"Section 5779","03/31/2017",19,"Male","Unknown","Longmont","CO","80501",NA,NA
+1296890,"Section 5779","05/06/2017",19,"Male","Black","Fairport","NY","14450",NA,NA
+1297203,"Section 5779","10/14/2010",19,"Female","Hispanic","Hollywood","FL","33019",NA,NA
+1301179,"Section 5779","06/24/2017",19,"Male","Hispanic","Port Allen","LA","70767","Sedan, 4 door","Black"
+1303342,"Section 5779","07/22/2017",19,"Female","Am. Ind.","Phoenix","AZ",NA,NA,NA
+1309171,"Section 5779","09/18/2017",19,"Female","Black","Norfolk","VA","23518","Hatchback/Fastback","Cream"
+1315143,"Section 5779","12/02/2017",19,"Female","Hispanic","Lansing","IL","60438",NA,NA
+1110175,"Lost Injured Missing","11/14/2008",20,"Male","White","Independence","OR","97351",NA,NA
+1227795,"Lost Injured Missing","01/23/2014",20,"Female","Hispanic","Tenaha","TX",NA,NA,"Black"
+1066025,"Section 5779","03/10/2007",20,"Male","White","Scranton","PA","18505",NA,NA
+1070230,"Section 5779","01/23/2007",20,"Male","Black","Milwaukee","WI","53218",NA,NA
+1070230,"Section 5779","01/23/2007",20,"Male","Black","Milwaukee","WI","53218",NA,NA
+1079078,"Section 5779","05/06/2007",20,"Female","White","North Miami Beach","FL","33162",NA,NA
+1085927,"Section 5779","12/14/2007",20,"Male","White","Houston","TX","77030","Sedan, 4 door","Silver"
+1098108,"Section 5779","02/20/2008",20,"Female","White","Blacksburg","VA","24060","Sedan, 4 door","White"
+1098280,"Section 5779","06/15/2008",20,"Male","White","Kamas","UT","84036",NA,NA
+1101355,"Section 5779","07/24/2008",20,"Female","White","Middletown","PA","17057","Pickup Truck","Red"
+1103823,"Section 5779","07/21/2008",20,"Male","White","Chapel Hill","NC","27516",NA,NA
+1109587,"Section 5779","11/03/2008",20,"Female","Black","Greensboro","NC","27407",NA,NA
+1116943,"Section 5779","02/05/2009",20,"Male","White","Omaha","NE","68135","Sedan, 4 door","Gray"
+1117769,"Section 5779","03/13/2007",20,"Female","Black","Berkley","MO","63107",NA,NA
+1133822,"Section 5779","10/17/2009",20,"Female","White","Charlottesville","VA","22903",NA,NA
+1140601,"Section 5779","01/29/2010",20,"Male","Black","Saint Croix","VI",NA,NA,NA
+1150273,"Section 5779","05/14/2010",20,"Female","White","Grand Rapids","MI","49506",NA,NA
+1150273,"Section 5779","05/14/2010",20,"Female","White","Grand Rapids","MI","49506",NA,NA
+1154751,"Section 5779","07/14/2010",20,"Female","Black","Capitol Heights","MD","20743",NA,NA
+1154848,"Section 5779","07/15/2010",20,"Female","Black","College Park","GA","30349",NA,NA
+1158669,"Section 5779","06/05/2010",20,"Male","Hispanic","Springdale","AR","72764",NA,NA
+1170175,"Section 5779","04/13/2011",20,"Female","White","Darden","TN","38328",NA,NA
+1173375,"Section 5779","06/03/2011",20,"Female","White","Bloomington","IN","47404",NA,NA
+1189178,"Section 5779","11/22/2011",20,"Male","Black","Rochester","NY","14614",NA,NA
+1189606,"Section 5779","01/03/2012",20,"Male","Hispanic","Huntington Park","CA","90255","Sedan, 4 door","Brown"
+1189606,"Section 5779","01/03/2012",20,"Male","Hispanic","Huntington Park","CA","90255","Sedan, 4 door","Brown"
+1195510,"Section 5779","05/08/2012",20,"Female","White","Brooklyn Park","MD","21225",NA,NA
+1199396,"Section 5779","02/03/2011",20,"Female","Am. Ind.","Federal Way","WA","98444",NA,NA
+1214771,"Section 5779","04/25/2013",20,"Male","White","Middletown","NY","10940",NA,NA
+1218567,"Section 5779","02/06/2013",20,"Male","White","San Francisco","CA",NA,NA,NA
+1220752,"Section 5779","07/27/2013",20,"Male","White","Bremerton","WA","98337",NA,NA
+1223375,"Section 5779","09/20/2013",20,"Male","White","Erath","LA","70533",NA,NA
+1235951,"Section 5779","07/30/2014",20,"Male","White","Tonawanda","NY","14150","Sedan, 2 door","Gray"
+1236364,"Section 5779","08/10/2014",20,"Male","Asian","New York","NY",NA,NA,NA
+1237365,"Section 5779","07/28/2014",20,"Male","Black","Los Angeles","CA","90008",NA,NA
+1241214,"Section 5779","11/25/2014",20,"Female","Biracial","Saint Paul","MN","55130","Sedan, 4 door","Black"
+1241732,"Section 5779","11/12/2009",20,"Female","White","Morganfield","KY","42437",NA,NA
+1241964,"Section 5779","12/22/2014",20,"Male","White","Walla Walla","WA","99362","Pickup Truck","Burgundy"
+1243121,"Section 5779","12/26/2014",20,"Male","Black","Teaneck","NJ","07666",NA,NA
+1244495,"Section 5779","02/17/2015",20,"Male","White","Brooklyn","NY","11234",NA,NA
+1246641,"Section 5779","04/02/2015",20,"Female","Black","Miramar","FL","33023",NA,NA
+1247991,"Section 5779","12/01/2013",20,"Male","White","Wynne","AR","72396",NA,NA
+1251901,"Section 5779","05/17/2011",20,"Male","White","Del Valle","TX",NA,NA,NA
+1256535,"Section 5779","08/29/2015",20,"Male","Am. Ind.","El Cajon","CA","92020",NA,NA
+1263263,"Section 5779","02/02/2016",20,"Female","White","Okmulgee","OK","74447",NA,NA
+1265979,"Section 5779","04/08/2016",20,"Female","White","Los Lunas","NM","87031",NA,NA
+1287437,"Section 5779","01/15/2017",20,"Female","White","Kansas City","MO","64116",NA,"Black"
+1287437,"Section 5779","01/15/2017",20,"Female","White","Kansas City","MO","64116",NA,"Black"
+1295374,"Section 5779","03/30/2017",20,"Female","Hispanic","Yuba City","CA","95993","Truck","Green"
+1295374,"Section 5779","03/30/2017",20,"Female","Hispanic","Yuba City","CA","95993","Truck","Green"
+1295374,"Section 5779","03/30/2017",20,"Female","Hispanic","Yuba City","CA","95993","Truck","Green"
+1297999,"Section 5779","04/01/2017",20,"Female","White","Hudson","FL","34667",NA,NA
+1305897,"Section 5779","08/19/2017",20,"Male","White","Sherborn","MA","01770",NA,NA
+1305897,"Section 5779","08/19/2017",20,"Male","White","Sherborn","MA","01770",NA,NA
+1161564,"Lost Injured Missing","12/07/2010",21,"Male","White","Gardner","MA",NA,NA,NA
+1225732,"Lost Injured Missing","02/04/2013",21,"Female","White","Pueblo","CO",NA,NA,"Black"
+1225732,"Lost Injured Missing","02/04/2013",21,"Female","White","Pueblo","CO",NA,NA,"Black"

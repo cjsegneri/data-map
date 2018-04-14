@@ -1,14 +1,13 @@
-## libraries ##
-library(shiny)
-library(shinydashboard)
 
+## reading in the data ##
 
-## reading in the two datasets ##
 missing = read.csv("missing_children_clean.csv")
+
 abductions = read.csv("attempted_abductions_clean.csv")
 
 
-## split each multi-column into a list for each element ##
+## split each multi-column ##
+
 abductions$LEA = as.character(abductions$LEA)
 abductions$LEA = strsplit(abductions$LEA, "/")
 
@@ -44,11 +43,3 @@ abductions$vehicle_color = strsplit(abductions$vehicle_color, "/")
 
 abductions$offender_method = as.character(abductions$offender_method)
 abductions$offender_method = strsplit(abductions$offender_method, "/")
-
-
-## functions for the server ##
-
-# filtering the missing children data sets
-filter_missing_set = function() {
-
-}
