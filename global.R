@@ -8,6 +8,10 @@ missing = read.csv("missing_children_clean.csv")
 abductions = read.csv("attempted_abductions_clean.csv")
 
 
+## set the dates ##
+missing$missing_date = as.Date(missing$missing_date, "%m/%d/%Y")
+
+
 ## split each multi-column into a list for each element ##
 abductions$LEA = as.character(abductions$LEA)
 abductions$LEA = strsplit(abductions$LEA, "/")
@@ -49,6 +53,26 @@ abductions$offender_method = strsplit(abductions$offender_method, "/")
 ## functions for the server ##
 
 # filtering the missing children data sets
-filter_missing_set = function() {
+filter_missing_set = function(data, f) {
 
+  # handle the case tab
+  if (!is.null(f[1][[1]])) { data = data[data$case_number %in% f[1][[1]],] }
+  if (!is.null(f[2][[1]])) { data = data[data$case_type %in% f[2][[1]],] }
+
+  # handle the location tab
+  if (!is.null(f[3][[1]])) { data = data[data$missing_state %in% f[3][[1]],] }
+  if (!is.null(f[4][[1]])) { data = data[data$missing_city %in% f[4][[1]],] }
+  if (!is.null(f[5][[1]])) { data = data[data$missing_zip %in% f[5][[1]],] }
+
+  # handle the child tab
+  data = data[data$missing_date > f[6][[1]][1] & data$missing_date < f[6][[1]][2],]
+  if (!is.null(f[7][[1]])) { data = data[data$age_missing %in% f[7][[1]],] }
+  if (!is.null(f[8][[1]])) { data = data[data$gender %in% f[8][[1]],] }
+  if (!is.null(f[9][[1]])) { data = data[data$race %in% f[9][[1]],] }
+
+  # handle the vehicle tab
+  if (!is.null(f[10][[1]])) { data = data[data$vehicle_color %in% f[10][[1]],] }
+  if (!is.null(f[11][[1]])) { data = data[data$vehicle_style %in% f[11][[1]],] }
+
+  return (data)
 }

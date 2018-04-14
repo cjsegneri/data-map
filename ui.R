@@ -24,23 +24,34 @@ dashboardPage(skin = "yellow",
           column(4, align = 'center',
             tabBox(width = NULL, title = "Missing Child Filters",
               tabPanel("Case",
-                selectInput("m_case_number", "Case Number", sort(unique(missing$case_number))),
-                selectInput("m_case_type", "Case Type", sort(unique(missing$case_type)))
+                selectInput("m_case_number", "Case Number", multiple = T,
+                            sort(unique(missing$case_number))),
+                selectInput("m_case_type", "Case Type", multiple = T,
+                            sort(unique(missing$case_type)))
               ),
               tabPanel("Location",
-                selectInput("m_state", "Missing State", sort(unique(missing$missing_state))),
-                selectInput("m_city", "Missing City", sort(unique(missing$missing_city))),
-                selectInput("m_zip", "Missing Zipcode", sort(unique(missing$missing_zip)))
+                selectInput("m_state", "Missing State",multiple = T,
+                            sort(unique(missing$missing_state))),
+                selectInput("m_city", "Missing City",multiple = T,
+                            sort(unique(missing$missing_city))),
+                selectInput("m_zip", "Missing Zipcode",multiple = T,
+                            sort(unique(missing$missing_zip)))
               ),
               tabPanel("Child",
-                selectInput("m_date", "Date Missing", sort(unique(missing$missing_date))),
-                selectInput("m_age", "Age Missing", sort(unique(missing$age_missing))),
-                selectInput("m_gender", "Child Gender", sort(unique(missing$gender))),
-                selectInput("m_race", "Child Race", sort(unique(missing$race)))
+                dateRangeInput("m_date", "Date Missing",
+                               start = min(missing$missing_date), end = max(missing$missing_date)),
+                selectInput("m_age", "Age Missing",multiple = T,
+                            sort(unique(missing$age_missing))),
+                selectInput("m_gender", "Child Gender",multiple = T,
+                            sort(unique(missing$gender))),
+                selectInput("m_race", "Child Race",multiple = T,
+                            sort(unique(missing$race)))
               ),
               tabPanel("Vehicle",
-                selectInput("m_veh_color", "Vehicle Color", sort(unique(missing$vehicle_color))),
-                selectInput("m_veh_style", "Vehicle Style", sort(unique(missing$vehicle_style)))
+                selectInput("m_veh_color", "Vehicle Color",multiple = T,
+                            sort(unique(missing$vehicle_color))),
+                selectInput("m_veh_style", "Vehicle Style",multiple = T,
+                            sort(unique(missing$vehicle_style)))
               )
             )
           ),
