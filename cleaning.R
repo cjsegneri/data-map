@@ -1,10 +1,9 @@
 
 ## read in the files ##
 library(gdata)
-
 nfa = read.xls("Media_Ready_LIMs_NFAs_5779s_2007-2017.xlsx")
-
 rfi = read.xls("RFI_Attempts_3.30.18_SwungOnCaseID_FINAL.xlsx")
+postals = read.csv("us_postal_codes.csv")
 
 
 ## clean the nfa data set ##
@@ -25,6 +24,9 @@ colnames(nfa) = c(
   "vehicle_style",
   "vehicle_color"
 )
+# add lat and lon values
+colnames(postals)[1] = "missing_zip"
+nfa = merge(nfa, postals[,c(1,6,7)], by = "missing_zip")
 # write clean data to a csv file
 write.csv(nfa, file = "missing_children_clean.csv", row.names = F)
 
@@ -157,6 +159,16 @@ for (i in 1:dim(rfi_clean)[1]) {
     }
   }
 }
+
+# find the amount of children for each incident
+rfi_clean$child_amount = unlist(lapply(strsplit(as.character(rfi_clean$child_id), "/"), length))
+
+# find the amount of offenders for each incident
+rfi_clean$offender_amount = unlist(lapply(strsplit(as.character(rfi_clean$offender_gender), "/"), length))
+
+# add lat and lon values
+colnames(postals)[1] = "incident_zip"
+rfi_clean = merge(rfi_clean, postals[,c(1,6,7)], by = "incident_zip")
 
 # write to a csv file
 write.csv(rfi_clean, "attempted_abductions_clean.csv", row.names = F)
