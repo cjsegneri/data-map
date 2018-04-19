@@ -3,17 +3,19 @@
                  xmlns:gmd="http://www.isotc211.org/2005/gmd"
                  xmlns:gco="http://www.isotc211.org/2005/gco"
                  xmlns:gml="http://www.opengis.net/gml/3.2"
-                 xmlns:gmi="http://www.isotc211.org/2005/gmi">
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns:gmi="http://www.isotc211.org/2005/gmi"
+                 xsi:schemaLocation="http://www.isotc211.org/2005/gmi http://www.ngdc.noaa.gov/metadata/published/xsd/schema.xsd">
    <gmd:fileIdentifier>
-      <gco:CharacterString>cb_2016_us_state_5m.shp.iso.xml</gco:CharacterString>
+      <gco:CharacterString>cb_2017_us_state_5m.shp.iso.xml</gco:CharacterString>
    </gmd:fileIdentifier>
    <gmd:language>
       <gco:CharacterString>eng</gco:CharacterString>
    </gmd:language>
-   <gmd:characterSet>
+   <!--In the gmd_characterSet template!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!--><!-- CharSet UTF-8--><!-- In the when!!!!!!!!!!!!!!!!!--><gmd:characterSet>
       <gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode"
                                codeListValue="UTF-8"
-                               codeSpace="">UTF-8</gmd:MD_CharacterSetCode>
+                               codeSpace="In the Metadata_Character_Set_CodeSpace template!!!!!!!!!!!!!!!!!!!!!!!!!!!!! CharSet UTF-8004">UTF-8</gmd:MD_CharacterSetCode>
    </gmd:characterSet>
    <gmd:hierarchyLevel>
       <gmd:MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode"
@@ -24,7 +26,7 @@ dataset
    <gmd:contact xlink:href="https://www.ngdc.noaa.gov/docucomp/1df27e57-4768-42de-909b-52f530601fba"
                 xlink:title="U.S Department of Commerce, U.S Census Bureau, Geographic Customer Services Branch (point of Contact)"/>
    <gmd:dateStamp>
-      <gco:Date>2017-03</gco:Date>
+      <gco:Date>2018-03</gco:Date>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
       <gco:CharacterString>ISO 19115 Geographic Information - Metadata </gco:CharacterString>
@@ -33,7 +35,7 @@ dataset
       <gco:CharacterString>2009-02-15 </gco:CharacterString>
    </gmd:metadataStandardVersion>
    <gmd:dataSetURI>
-      <gco:CharacterString>https://www2.census.gov/geo/tiger/GENZ2016/shp/cb_2016_us_state_5m.zip</gco:CharacterString>
+      <gco:CharacterString>https://www2.census.gov/geo/tiger/GENZ2017/shp/cb_2017_us_state_5m.zip</gco:CharacterString>
    </gmd:dataSetURI>
    <!-- This is the ptvctinf/sdtsterm/sdtstype from section 3 of the FGDC Standard (Spatial Data Organization) -->
 <gmd:spatialRepresentationInfo>
@@ -66,19 +68,21 @@ dataset
          </gmd:referenceSystemIdentifier>
       </gmd:MD_ReferenceSystem>
    </gmd:referenceSystemInfo>
+   <gmd:referenceSystemInfo xlink:href="https://www.ngdc.noaa.gov/docucomp/65f8b220-95ed-11e0-aa80-0800200c9a66"
+                            xlink:title="North American Datum 1983"/>
    <!--This part represents Section 1 of the FGDC Metadata Standard -->
 <gmd:identificationInfo>
       <gmd:MD_DataIdentification>
          <gmd:citation>
             <gmd:CI_Citation>
                <gmd:title>
-                  <gco:CharacterString>2016 Cartographic Boundary File, Current State and Equivalent for United States, 1:5,000,000</gco:CharacterString>
+                  <gco:CharacterString>2017 Cartographic Boundary File, Current State and Equivalent for United States, 1:5,000,000</gco:CharacterString>
                </gmd:title>
                <gmd:date>
                   <gmd:CI_Date>
 <!-- This is the publication date -->
 <gmd:date>
-                        <gco:Date>2017-03</gco:Date>
+                        <gco:Date>2018-03</gco:Date>
                      </gmd:date>
                      <gmd:dateType>
                         <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
@@ -97,7 +101,7 @@ dataset
             </gmd:CI_Citation>
          </gmd:citation>
          <gmd:abstract>
-            <gco:CharacterString>The 2016 cartographic boundary shapefiles are simplified representations of selected geographic areas from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). These boundary files are specifically designed for small-scale thematic mapping. When possible, generalization is performed with the intent to maintain the hierarchical relationships among geographies and to maintain the alignment of geographies within a file set for a given year. Geographic areas may not align with the same areas from another year. Some geographies are available as nation-based files while others are available only as state-based files.
+            <gco:CharacterString>The 2017 cartographic boundary shapefiles are simplified representations of selected geographic areas from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). These boundary files are specifically designed for small-scale thematic mapping. When possible, generalization is performed with the intent to maintain the hierarchical relationships among geographies and to maintain the alignment of geographies within a file set for a given year. Geographic areas may not align with the same areas from another year. Some geographies are available as nation-based files while others are available only as state-based files.
 
 States and equivalent entities are the primary governmental divisions of the United States. In addition to the fifty states, the Census Bureau treats the District of Columbia, Puerto Rico, and each of the Island Areas (American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the U.S. Virgin Islands) as the statistical equivalents of states for the purpose of data presentation.</gco:CharacterString>
          </gmd:abstract>
@@ -146,7 +150,7 @@ States and equivalent entities are the primary governmental divisions of the Uni
          <gmd:descriptiveKeywords>
             <gmd:MD_Keywords>
                <gmd:keyword>
-                  <gco:CharacterString>2016</gco:CharacterString>
+                  <gco:CharacterString>2017</gco:CharacterString>
                </gmd:keyword>
                <gmd:keyword>
                   <gco:CharacterString>SHP</gco:CharacterString>
@@ -191,9 +195,7 @@ States and equivalent entities are the primary governmental divisions of the Uni
                <gmd:thesaurusName>
                   <gmd:CI_Citation>
                      <gmd:title>
-                        <gco:CharacterString>ISO 3166 Codes for the representation of names of countries and their subdivisions 
- 
-</gco:CharacterString>
+                        <gco:CharacterString>ISO 3166 Codes for the representation of names of countries and their subdivisions</gco:CharacterString>
                      </gmd:title>
                      <gmd:date gco:nilReason="unknown"/>
                   </gmd:CI_Citation>
@@ -242,10 +244,10 @@ These products are free to use in a product or publication, however acknowledgem
          <gmd:language>
             <gco:CharacterString>eng</gco:CharacterString>
          </gmd:language>
-         <gmd:characterSet>
+         <!--In the Metadata_Character_Set template!!!!!!!!!!!!!!!!!!!!!!!!!!--><gmd:characterSet>
             <gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode"
                                      codeListValue="UTF-8"
-                                     codeSpace="">UTF-8</gmd:MD_CharacterSetCode>
+                                     codeSpace="In the Metadata_Character_Set_CodeSpace template!!!!!!!!!!!!!!!!!!!!!!!!!!!!! CharSet UTF-8004"/>
          </gmd:characterSet>
          <gmd:topicCategory>
             <gmd:MD_TopicCategoryCode>boundaries</gmd:MD_TopicCategoryCode>
@@ -276,8 +278,8 @@ These products are free to use in a product or publication, however acknowledgem
                      <gmd:extent>
                         <gml:TimePeriod gml:id="boundingTemporalExtentA">
                            <gml:description>publication date</gml:description>
-                           <gml:beginPosition>2017-03</gml:beginPosition>
-                           <gml:endPosition>2017-03</gml:endPosition>
+                           <gml:beginPosition>2018-03</gml:beginPosition>
+                           <gml:endPosition>2018-03</gml:endPosition>
                         </gml:TimePeriod>
                      </gmd:extent>
                   </gmd:EX_TemporalExtent>
@@ -295,7 +297,7 @@ These products are free to use in a product or publication, however acknowledgem
          <gmd:featureCatalogueCitation>
             <gmd:CI_Citation>
                <gmd:title>
-                  <gco:CharacterString>Feature Catalog for the 2016   Current State and Equivalent  1:5,000,000  Cartographic Boundary File</gco:CharacterString>
+                  <gco:CharacterString>Feature Catalog for the 2017 Current State and Equivalent 1:5,000,000 Cartographic Boundary File</gco:CharacterString>
                </gmd:title>
                <gmd:date>
                   <gmd:CI_Date>
@@ -356,7 +358,7 @@ These products are free to use in a product or publication, however acknowledgem
                <gmd:onLine>
                   <gmd:CI_OnlineResource>
                      <gmd:linkage>
-                        <gmd:URL>https://www2.census.gov/geo/tiger/GENZ2016/shp/cb_2016_us_state_5m.zip</gmd:URL>
+                        <gmd:URL>https://www2.census.gov/geo/tiger/GENZ2017/shp/cb_2017_us_state_5m.zip</gmd:URL>
                      </gmd:linkage>
                      <gmd:name>
                         <gco:CharacterString>Shapefile Zip File</gco:CharacterString>
@@ -429,7 +431,7 @@ For the cartographic boundary files, the Point and Vector Object Count for the G
                         <gco:CharacterString>Spatial data were extracted from the MAF/TIGER database and processed through a U.S. Census Bureau batch generalization system.</gco:CharacterString>
                      </gmd:description>
                      <gmd:dateTime>
-                        <gco:DateTime>2017-03-01T00:00:00</gco:DateTime>
+                        <gco:DateTime>2018-03-01T00:00:00</gco:DateTime>
                      </gmd:dateTime>
                      <gmd:source>
                         <gmd:LI_Source>
@@ -444,20 +446,8 @@ For the cartographic boundary files, the Point and Vector Object Count for the G
                                  <gmd:alternateTitle>
                                     <gco:CharacterString>MAF/TIGER</gco:CharacterString>
                                  </gmd:alternateTitle>
-                                 <gmd:date>
-                                    <gmd:CI_Date>
-                                       <gmd:date>
-                                          <gco:Date>2016-05</gco:Date>
-                                       </gmd:date>
-                                       <gmd:dateType>
-                                          <gmd:CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode"
-                                                               codeListValue="creation">
-                                                       creation
-                                                    </gmd:CI_DateTypeCode>
-                                       </gmd:dateType>
-                                    </gmd:CI_Date>
-                                 </gmd:date>
-                                 <gmd:citedResponsibleParty>
+                                 <gmd:date gco:nilReason="inapplicable"/>
+                                 <!--See the gmd:sourceExtent element below for the date range--><gmd:citedResponsibleParty>
                                     <gmd:CI_ResponsibleParty>
                                        <gmd:organisationName>
                                           <gco:CharacterString>U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Geographic Customer Services Branch</gco:CharacterString>
@@ -474,6 +464,20 @@ For the cartographic boundary files, the Point and Vector Object Count for the G
                                  </gmd:otherCitationDetails>
                               </gmd:CI_Citation>
                            </gmd:sourceCitation>
+                           <gmd:sourceExtent>
+                              <gmd:EX_Extent>
+                                 <gmd:temporalElement>
+                                    <gmd:EX_TemporalExtent>
+                                       <gmd:extent>
+                                          <gml:TimePeriod gml:id="Cens201706">
+                                             <gml:beginPosition>201706</gml:beginPosition>
+                                             <gml:endPosition>201705</gml:endPosition>
+                                          </gml:TimePeriod>
+                                       </gmd:extent>
+                                    </gmd:EX_TemporalExtent>
+                                 </gmd:temporalElement>
+                              </gmd:EX_Extent>
+                           </gmd:sourceExtent>
                         </gmd:LI_Source>
                      </gmd:source>
                   </gmd:LI_ProcessStep>

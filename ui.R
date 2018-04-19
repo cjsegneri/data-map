@@ -117,7 +117,6 @@ dashboardPage(skin = "yellow",
       menuItem("Data Map", tabName = "datamap", icon = icon("map-marker")),
       menuItem("Data Table", tabName = "datatable", icon = icon("table")),
       menuItem("Pie Chart", tabName = "piechart", icon = icon("pie-chart")),
-      menuItem("Bar Plot", tabName = "barplot", icon = icon("bar-chart")),
       menuItem("Heat Map", tabName = "heatmap", icon = icon("map"))
     )
   ),
@@ -190,11 +189,16 @@ dashboardPage(skin = "yellow",
           )
         )
       ),
-      tabItem(tabName = "barplot",
-        h2("Bar Plot")
-      ),
       tabItem(tabName = "heatmap",
-        h2("Heat Map")
+        fluidRow(
+          column(12, align = 'center',
+            selectInput("heat_select", "Select Geographical Boundaries", choices = c(
+              "State" = "state",
+              "County" = "county")),
+            tags$style(type = "text/css", "#heat_map {height: calc(100vh - 80px) !important;}"),
+            leafletOutput("heat_map")
+          )
+        )
       )
     )
   )

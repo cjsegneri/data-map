@@ -4,6 +4,9 @@ library(shinydashboard)
 library(DT)
 library(leaflet)
 library(plotly)
+library(tmap)
+library(tmaptools)
+library(sf)
 
 
 ## reading in the two datasets ##
@@ -162,4 +165,45 @@ create_offender_pie = function(m, a, type, loc) {
 
   p = plot_ly(labels = labels, values = values, type = 'pie')
   return (p)
+}
+
+create_heat_map = function(m, a, type) {
+  if (type == "state") {
+    usgeo = read_shape("cb_2017_us_state_5m/cb_2017_us_state_5m.shp", as.sf = T)
+    freq = as.data.frame(table(m$missing_state))
+  } else {
+
+  }
+
+  usgeo$STUSPS = as.character(usgeo$STUSPS)
+  freq$Var1 = as.character(freq$Var1)
+  usgeo = usgeo[order(usgeo$STUSPS),]
+  freq = freq[order(freq$Var1),]
+  usgeo = usgeo[usgeo$STUSPS %in% freq$Var1,]
+  colnames(freq)[1] = "STUSPS"
+
+  usmap = append_data(usgeo, freq, key.shp = "STUSPS", key.data = "STUSPS")
+
+  mypalette = colorNumeric(palette = "Reds", domain = usmap$Freq)
+  popups = paste0("<b>State: ", usmap$NAME, "</b></b>", "Incidents: ", usmap$Freq)
+  l = leaflet(usmap) %>%
+    addProviderTiles("CartoDB.Positron") %>%
+    addPolygons(stroke = F,
+                smoothFactor = 0.2,
+                fillOpacity = 0.8,
+                color = "white",
+                fillColor = ~mypalette(usmap$Freq),
+                highlight = highlightOptions(
+                  weight = 5,
+                  color = "#666",
+                  dashArray = "",
+                  fillOpacity = 0.7,
+                  bringToFront = T),
+                label = popups,
+                labelOptions = labelOptions(
+                  style = list("font-weight" = "normal", padding = "3px 8px"),
+                  textsize = "15px",
+                  direction = "auto"))
+
+  return (l)
 }

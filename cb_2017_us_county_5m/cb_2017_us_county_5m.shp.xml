@@ -4,27 +4,29 @@
       <citation>
          <citeinfo>
             <origin>U.S. Department of Commerce, U.S. Census Bureau, Geography Division, Cartographic Products and Services Branch</origin>
-            <pubdate>201703</pubdate>
-            <title>2016 Cartographic Boundary File, Current State and Equivalent for United States, 1:5,000,000</title>
+            <pubdate>201803</pubdate>
+            <title>2017 Cartographic Boundary File, Current County and Equivalent for United States, 1:5,000,000</title>
             <geoform>vector digital data</geoform>
             <serinfo>
                <sername>Cartographic Boundary Files</sername>
-               <issue>2016</issue>
+               <issue>2017</issue>
             </serinfo>
-            <onlink>https://www2.census.gov/geo/tiger/GENZ2016/shp/cb_2016_us_state_5m.zip</onlink>
+            <onlink>https://www2.census.gov/geo/tiger/GENZ2017/shp/cb_2017_us_county_5m.zip</onlink>
          </citeinfo>
       </citation>
       <descript>
-         <abstract>The 2016 cartographic boundary shapefiles are simplified representations of selected geographic areas from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). These boundary files are specifically designed for small-scale thematic mapping. When possible, generalization is performed with the intent to maintain the hierarchical relationships among geographies and to maintain the alignment of geographies within a file set for a given year. Geographic areas may not align with the same areas from another year. Some geographies are available as nation-based files while others are available only as state-based files.
+         <abstract>The 2017 cartographic boundary shapefiles are simplified representations of selected geographic areas from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). These boundary files are specifically designed for small-scale thematic mapping. When possible, generalization is performed with the intent to maintain the hierarchical relationships among geographies and to maintain the alignment of geographies within a file set for a given year. Geographic areas may not align with the same areas from another year. Some geographies are available as nation-based files while others are available only as state-based files.
 
-States and equivalent entities are the primary governmental divisions of the United States. In addition to the fifty states, the Census Bureau treats the District of Columbia, Puerto Rico, and each of the Island Areas (American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the U.S. Virgin Islands) as the statistical equivalents of states for the purpose of data presentation.</abstract>
+The primary legal divisions of most states are termed counties. In Louisiana, these divisions are known as parishes. In Alaska, which has no counties, the equivalent entities are the organized boroughs, city and boroughs, municipalities, and for the unorganized area, census areas. The latter are delineated cooperatively for statistical purposes by the State of Alaska and the Census Bureau. In four states (Maryland, Missouri, Nevada, and Virginia), there are one or more incorporated places that are independent of any county organization and thus constitute primary divisions of their states. These incorporated places are known as independent cities and are treated as equivalent entities for purposes of data presentation. The District of Columbia and Guam have no primary divisions, and each area is considered an equivalent entity for purposes of data presentation. The Census Bureau treats the following entities as equivalents of counties for purposes of data presentation: Municipios in Puerto Rico, Districts and Islands in American Samoa, Municipalities in the Commonwealth of the Northern Mariana Islands, and Islands in the U.S. Virgin Islands. The entire area of the United States, Puerto Rico, and the Island Areas is covered by counties or equivalent entities.
+
+The generalized boundaries for counties and equivalent entities are based on those as of January 1, 2017, primarily as reported through the Census Bureau's Boundary and Annexation Survey (BAS).</abstract>
          <purpose>These files were specifically created to support small-scale thematic mapping. To improve the appearance of shapes at small scales, areas are represented with fewer vertices than detailed TIGER/Line Shapefiles. Cartographic boundary files take up less disk space than their ungeneralized counterparts. Cartographic boundary files take less time to render on screen than TIGER/Line Shapefiles. You can join this file with table data downloaded from American FactFinder by using the AFFGEOID field in the cartographic boundary file. If detailed boundaries are required, please use the TIGER/Line Shapefiles instead of the generalized cartographic boundary files.</purpose>
       </descript>
       <timeperd>
          <timeinfo>
             <rngdates>
-               <begdate>201703</begdate>
-               <enddate>201703</enddate>
+               <begdate>201803</begdate>
+               <enddate>201803</enddate>
             </rngdates>
          </timeinfo>
          <current>publication date</current>
@@ -48,10 +50,22 @@ States and equivalent entities are the primary governmental divisions of the Uni
          </theme>
          <theme>
             <themekt>None</themekt>
-            <themekey>2016</themekey>
+            <themekey>2017</themekey>
             <themekey>SHP</themekey>
+            <themekey>Borough</themekey>
             <themekey>Cartographic Boundary</themekey>
+            <themekey>Census Area</themekey>
+            <themekey>City</themekey>
+            <themekey>City and Borough</themekey>
+            <themekey>County</themekey>
+            <themekey>County equivalent</themekey>
+            <themekey>District</themekey>
             <themekey>Generalized</themekey>
+            <themekey>Independent City</themekey>
+            <themekey>Island</themekey>
+            <themekey>Municipality</themekey>
+            <themekey>Municipio</themekey>
+            <themekey>Parish</themekey>
             <themekey>State</themekey>
          </theme>
          <place>
@@ -110,11 +124,11 @@ For the cartographic boundary files, the Point and Vector Object Count for the G
             <srctime>
                <timeinfo>
                   <rngdates>
-                     <begdate>201506</begdate>
-                     <enddate>201605</enddate>
+                     <begdate>201706</begdate>
+                     <enddate>201705</enddate>
                   </rngdates>
                </timeinfo>
-               <srccurr>The dates describe the effective date of 2016 cartographic boundaries.</srccurr>
+               <srccurr>The dates describe the effective date of 2017 cartographic boundaries.</srccurr>
             </srctime>
             <srccitea>MAF/TIGER</srccitea>
             <srccontr>All spatial and feature data</srccontr>
@@ -122,7 +136,7 @@ For the cartographic boundary files, the Point and Vector Object Count for the G
          <procstep>
             <procdesc>Spatial data were extracted from the MAF/TIGER database and processed through a U.S. Census Bureau batch generalization system.</procdesc>
             <srcused>MAF/TIGER</srcused>
-            <procdate>201703</procdate>
+            <procdate>201803</procdate>
          </procstep>
       </lineage>
    </dataqual>
@@ -132,7 +146,7 @@ For the cartographic boundary files, the Point and Vector Object Count for the G
       <ptvctinf>
          <sdtsterm>
             <sdtstype>G-polygon</sdtstype>
-            <ptvctcnt>56</ptvctcnt>
+            <ptvctcnt>3233</ptvctcnt>
          </sdtsterm>
       </ptvctinf>
    </spdoinfo>
@@ -154,8 +168,8 @@ For the cartographic boundary files, the Point and Vector Object Count for the G
    <eainfo>
       <detailed>
          <enttyp>
-            <enttypl>cb_2016_us_state_5m.shp</enttypl>
-            <enttypd>Current State and Equivalent (national)</enttypd>
+            <enttypl>cb_2017_us_county_5m.shp</enttypl>
+            <enttypd>Current County and Equivalent (national)</enttypd>
             <enttypds>U.S. Census Bureau</enttypds>
          </enttyp>
          <attr>
@@ -170,8 +184,19 @@ For the cartographic boundary files, the Point and Vector Object Count for the G
             </attrdomv>
          </attr>
          <attr>
-            <attrlabl>STATENS</attrlabl>
-            <attrdef>Current state Geographic Names Information System (GNIS) code</attrdef>
+            <attrlabl>COUNTYFP</attrlabl>
+            <attrdef>Current county Federal Information Processing Series (FIPS) code</attrdef>
+            <attrdefs>U.S. Census Bureau</attrdefs>
+            <attrdomv>
+               <codesetd>
+                  <codesetn>National Standard Codes (ANSI INCITS 31-2009), Federal Information Processing Series (FIPS) - Counties/County Equivalents</codesetn>
+                  <codesets>U.S. Census Bureau</codesets>
+               </codesetd>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>COUNTYNS</attrlabl>
+            <attrdef>Current county Geographic Names Information System (GNIS) code</attrdef>
             <attrdefs>U.S. Census Bureau</attrdefs>
             <attrdomv>
                <codesetd>
@@ -193,45 +218,101 @@ For the cartographic boundary files, the Point and Vector Object Count for the G
          </attr>
          <attr>
             <attrlabl>GEOID</attrlabl>
-            <attrdef>State identifier; state FIPS code</attrdef>
+            <attrdef>County identifier; a concatenation of current state Federal Information Processing Series (FIPS) code and county FIPS code</attrdef>
             <attrdefs>U.S. Census Bureau</attrdefs>
             <attrdomv>
-               <codesetd>
-                  <codesetn>National Standard Codes (ANSI INCITS 38-2009), Federal Information Processing Series (FIPS) - States/State Equivalents</codesetn>
-                  <codesets>U.S. Census Bureau</codesets>
-               </codesetd>
-            </attrdomv>
-         </attr>
-         <attr>
-            <attrlabl>STUSPS</attrlabl>
-            <attrdef>Current United States Postal Service state abbreviation</attrdef>
-            <attrdefs>U.S. Postal Service</attrdefs>
-            <attrdomv>
-               <codesetd>
-                  <codesetn>Publication 28 - Postal Addressing Standards</codesetn>
-                  <codesets>U.S. Postal Service</codesets>
-               </codesetd>
+               <udom>The GEOID attribute is a concatenation of the state FIPS code followed by the county FIPS code. No spaces are allowed between the two codes. The state FIPS code is taken from "National Standard Codes (ANSI INCITS 38-2009), Federal Information Processing Series (FIPS) - States". The county FIPS code is taken from "National Standard Codes (ANSI INCITS 31-2009), Federal Information Processing Series (FIPS) - Counties/County Equivalents".</udom>
             </attrdomv>
          </attr>
          <attr>
             <attrlabl>NAME</attrlabl>
-            <attrdef>Current State name</attrdef>
+            <attrdef>Current county name</attrdef>
             <attrdefs>U.S. Census Bureau</attrdefs>
             <attrdomv>
                <codesetd>
-                  <codesetn>National Standard Codes (ANSI INCITS 38-2009), Federal Information Processing Series (FIPS) - States/State Equivalents</codesetn>
+                  <codesetn>National Standard Codes (ANSI INCITS 31-2009), Federal Information Processing Series (FIPS) - Counties/County Equivalents</codesetn>
                   <codesets>U.S. Census Bureau</codesets>
                </codesetd>
             </attrdomv>
          </attr>
          <attr>
             <attrlabl>LSAD</attrlabl>
-            <attrdef>Current legal/statistical area description code for state</attrdef>
+            <attrdef>Current legal/statistical area description code for county</attrdef>
             <attrdefs>U.S. Census Bureau</attrdefs>
             <attrdomv>
                <edom>
                   <edomv>00</edomv>
                   <edomvd>Blank</edomvd>
+                  <edomvds>U.S. Census Bureau</edomvds>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>03</edomv>
+                  <edomvd>City and Borough (suffix)</edomvd>
+                  <edomvds>U.S. Census Bureau</edomvds>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>04</edomv>
+                  <edomvd>Borough (suffix)</edomvd>
+                  <edomvds>U.S. Census Bureau</edomvds>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>05</edomv>
+                  <edomvd>Census Area (suffix)</edomvd>
+                  <edomvds>U.S. Census Bureau</edomvds>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>06</edomv>
+                  <edomvd>County (suffix)</edomvd>
+                  <edomvds>U.S. Census Bureau</edomvds>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>07</edomv>
+                  <edomvd>District (suffix)</edomvd>
+                  <edomvds>U.S. Census Bureau</edomvds>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>10</edomv>
+                  <edomvd>Island (suffix)</edomvd>
+                  <edomvds>U.S. Census Bureau</edomvds>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>12</edomv>
+                  <edomvd>Municipality (suffix)</edomvd>
+                  <edomvds>U.S. Census Bureau</edomvds>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>13</edomv>
+                  <edomvd>Municipio (suffix)</edomvd>
+                  <edomvds>U.S. Census Bureau</edomvds>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>15</edomv>
+                  <edomvd>Parish (suffix)</edomvd>
+                  <edomvds>U.S. Census Bureau</edomvds>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>25</edomv>
+                  <edomvd>city (suffix)</edomvd>
                   <edomvds>U.S. Census Bureau</edomvds>
                </edom>
             </attrdomv>
@@ -292,7 +373,7 @@ For the cartographic boundary files, the Point and Vector Object Count for the G
                <onlinopt>
                   <computer>
                      <networka>
-                        <networkr>https://www2.census.gov/geo/tiger/GENZ2016/shp/cb_2016_us_state_5m.zip</networkr>
+                        <networkr>https://www2.census.gov/geo/tiger/GENZ2017/shp/cb_2017_us_county_5m.zip</networkr>
                      </networka>
                   </computer>
                </onlinopt>
@@ -304,7 +385,7 @@ For the cartographic boundary files, the Point and Vector Object Count for the G
       <techpreq>The cartographic boundary files contain geographic data only and do not include display mapping software or statistical data. For information on how to use cartographic boundary file data with specific software package users shall contact the company that produced the software.</techpreq>
    </distinfo>
    <metainfo>
-      <metd>201703</metd>
+      <metd>201803</metd>
       <metc>
          <cntinfo>
             <cntorgp>

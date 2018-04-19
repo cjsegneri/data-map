@@ -6,18 +6,18 @@
                          xmlns:gml="http://www.opengis.net/gml/3.2"
                          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                          xmlns:gfc="http://www.isotc211.org/2005/gfc"
-                         xsi:schemaLocation="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/gfc/featureCataloging.xsd">
+                         xsi:schemaLocation="https://www.ngdc.noaa.gov/metadata/published/xsd/schema/gfc/featureCataloging.xsd http://www.isotc211.org/2005/gfc">
    <gmx:name>
-      <gco:CharacterString>Feature Catalog for the 2016 Current State and Equivalent  1:5,000,000 Cartographic Boundary File</gco:CharacterString>
+      <gco:CharacterString>Feature Catalog for the 2017 United States 1:5,000,000 Cartographic Boundary File</gco:CharacterString>
    </gmx:name>
    <gmx:scope>
       <gco:CharacterString>The Current State and Equivalent at a scale of 1:5,000,000</gco:CharacterString>
    </gmx:scope>
    <gmx:versionNumber>
-      <gco:CharacterString>cb_2016_state_5m</gco:CharacterString>
+      <gco:CharacterString>cb_2017_state_5m</gco:CharacterString>
    </gmx:versionNumber>
    <gmx:versionDate>
-      <gco:Date>2017-03</gco:Date>
+      <gco:Date>2018-03</gco:Date>
    </gmx:versionDate>
    <gmx:language>
       <gco:CharacterString>eng</gco:CharacterString>
@@ -33,7 +33,7 @@
    <gfc:featureType>
       <gfc:FC_FeatureType>
          <gfc:typeName>
-            <gco:LocalName>cb_2016_us_state_5m.shp</gco:LocalName>
+            <gco:LocalName>cb_2017_us_state_5m.shp</gco:LocalName>
          </gfc:typeName>
          <gfc:definition>
             <gco:CharacterString>Current State and Equivalent (national)</gco:CharacterString>
@@ -41,7 +41,7 @@
          <gfc:isAbstract>
             <gco:Boolean>false</gco:Boolean>
          </gfc:isAbstract>
-         <gfc:featureCatalogue uuidref="2016_state_5m.ea.iso.xml"/>
+         <gfc:featureCatalogue uuidref="2017_state_5m.ea.iso.xml"/>
          <gfc:carrierOfCharacteristics>
             <gfc:FC_FeatureAttribute>
                <gfc:memberName>
@@ -80,33 +80,8 @@
                      <gfc:label>
                         <gco:CharacterString>INCITS 446:2008 (Geographic Names Information System (GNIS)), Identifying Attributes for Named Physical and Cultural Geographic Features (Except Roads and Highways) of the United States, Its Territories, Outlying Areas, and Freely Associated Areas, and the Waters of the Same to the Limit of the Twelve-Mile Statutory Zone</gco:CharacterString>
                      </gfc:label>
-                     <gfc:definitionReference>
-                        <gfc:FC_DefinitionReference>
-                           <gfc:definitionSource>
-                              <gfc:FC_DefinitionSource>
-                                 <gfc:source>
-                                    <gmd:CI_Citation>
-                                       <gmd:title gco:nilReason="inapplicable"/>
-                                       <gmd:date gco:nilReason="unknown"/>
-                                       <gmd:citedResponsibleParty>
-                                          <gmd:CI_ResponsibleParty>
-                                             <gmd:organisationName>
-                                                <gco:CharacterString>U.S. Geological Survey (USGS)</gco:CharacterString>
-                                             </gmd:organisationName>
-                                             <gmd:role>
-                                                <gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode"
-                                                                 codeListValue="resourceProvider"
-                                                                 codeSpace="001">resourceProvider
-                                                  </gmd:CI_RoleCode>
-                                             </gmd:role>
-                                          </gmd:CI_ResponsibleParty>
-                                       </gmd:citedResponsibleParty>
-                                    </gmd:CI_Citation>
-                                 </gfc:source>
-                              </gfc:FC_DefinitionSource>
-                           </gfc:definitionSource>
-                        </gfc:FC_DefinitionReference>
-                     </gfc:definitionReference>
+                     <gfc:definitionReference xlink:title="United States Geological Survey (USGS)"
+                                              xlink:href="http://www.ngdc.noaa.gov/docucomp/8d0b86d3-09b4-4fc4-8e8e-2922517fe12d&#xA;                                                "/>
                   </gfc:FC_ListedValue>
                </gfc:listedValue>
             </gfc:FC_FeatureAttribute>

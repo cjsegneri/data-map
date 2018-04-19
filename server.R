@@ -153,4 +153,9 @@ server = function(input, output, session) {
     create_offender_pie(missing, abductions, input$pie_offender_select, loc)
   })
 
+  # configure the heatmap
+  output$heat_map = renderLeaflet({
+    create_heat_map(missing, abductions, input$heat_select)
+  })
+
 }
