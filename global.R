@@ -4,20 +4,22 @@ library(shinydashboard)
 library(DT)
 library(leaflet)
 library(plotly)
-library(tmap)
-library(tmaptools)
-library(sf)
 
 
 ## reading in the two datasets ##
 missing = read.csv("missing_children_clean.csv")
 abductions = read.csv("attempted_abductions_clean.csv")
+missing_no_postals = read.csv("missing_children_clean_no_postals.csv")
+abductions_no_postals = read.csv("attempted_abductions_clean_no_postals.csv")
 
 
 ## set the dates ##
 missing$missing_date = as.Date(missing$missing_date, "%m/%d/%Y")
+missing_no_postals$missing_date = as.Date(missing_no_postals$missing_date, "%m/%d/%Y")
 abductions$incident_date = as.Date(abductions$incident_date)
+abductions_no_postals$incident_date = as.Date(abductions_no_postals$incident_date)
 abductions = abductions[!is.na(abductions$incident_date),]
+abductions_no_postals = abductions_no_postals[!is.na(abductions_no_postals$incident_date),]
 
 
 ## functions for the server ##
@@ -121,7 +123,9 @@ create_child_pie = function(m, a, type, loc) {
       table(m$race)[[8]] + table(unlist(strsplit(as.character(a$child_race), "/")))[[8]]
     )
   }
-  p = plot_ly(labels = labels, values = values, type = 'pie')
+  p = plot_ly(labels = labels, values = values, type = 'pie',
+              textposition = 'inside',
+              textinfo = 'label+percent')
   return (p)
 }
 
@@ -163,47 +167,8 @@ create_offender_pie = function(m, a, type, loc) {
     )
   }
 
-  p = plot_ly(labels = labels, values = values, type = 'pie')
+  p = plot_ly(labels = labels, values = values, type = 'pie',
+              textposition = 'inside',
+              textinfo = 'label+percent')
   return (p)
-}
-
-create_heat_map = function(m, a, type) {
-  if (type == "state") {
-    usgeo = read_shape("cb_2017_us_state_5m/cb_2017_us_state_5m.shp", as.sf = T)
-    freq = as.data.frame(table(m$missing_state))
-  } else {
-
-  }
-
-  usgeo$STUSPS = as.character(usgeo$STUSPS)
-  freq$Var1 = as.character(freq$Var1)
-  usgeo = usgeo[order(usgeo$STUSPS),]
-  freq = freq[order(freq$Var1),]
-  usgeo = usgeo[usgeo$STUSPS %in% freq$Var1,]
-  colnames(freq)[1] = "STUSPS"
-
-  usmap = append_data(usgeo, freq, key.shp = "STUSPS", key.data = "STUSPS")
-
-  mypalette = colorNumeric(palette = "Reds", domain = usmap$Freq)
-  popups = paste0("<b>State: ", usmap$NAME, "</b></b>", "Incidents: ", usmap$Freq)
-  l = leaflet(usmap) %>%
-    addProviderTiles("CartoDB.Positron") %>%
-    addPolygons(stroke = F,
-                smoothFactor = 0.2,
-                fillOpacity = 0.8,
-                color = "white",
-                fillColor = ~mypalette(usmap$Freq),
-                highlight = highlightOptions(
-                  weight = 5,
-                  color = "#666",
-                  dashArray = "",
-                  fillOpacity = 0.7,
-                  bringToFront = T),
-                label = popups,
-                labelOptions = labelOptions(
-                  style = list("font-weight" = "normal", padding = "3px 8px"),
-                  textsize = "15px",
-                  direction = "auto"))
-
-  return (l)
 }

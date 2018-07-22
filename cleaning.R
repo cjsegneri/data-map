@@ -1,5 +1,6 @@
 
 ## read in the files ##
+setwd("~/Desktop/Work/NCMEC/data-map")
 library(gdata)
 nfa = read.xls("Media_Ready_LIMs_NFAs_5779s_2007-2017.xlsx")
 rfi = read.xls("RFI_Attempts_3.30.18_SwungOnCaseID_FINAL.xlsx")
@@ -24,6 +25,8 @@ colnames(nfa) = c(
   "vehicle_style",
   "vehicle_color"
 )
+# write clean data with no postals to a csv file
+write.csv(nfa, file = "missing_children_clean_no_postals.csv", row.names = F)
 # add lat and lon values
 colnames(postals)[1] = "missing_zip"
 nfa = merge(nfa, postals[,c(1,6,7)], by = "missing_zip")
@@ -165,6 +168,9 @@ rfi_clean$child_amount = unlist(lapply(strsplit(as.character(rfi_clean$child_id)
 
 # find the amount of offenders for each incident
 rfi_clean$offender_amount = unlist(lapply(strsplit(as.character(rfi_clean$offender_gender), "/"), length))
+
+# write clean data with no postals to a csv file
+write.csv(rfi_clean, file = "attempted_abductions_clean_no_postals.csv", row.names = F)
 
 # add lat and lon values
 colnames(postals)[1] = "incident_zip"

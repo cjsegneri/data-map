@@ -99,43 +99,58 @@ abductionFilters <<- tabBox(width = NULL, title = "Attempted Abduction Filters",
 )
 
 missingTable <<- box(width = NULL, title = "Missing Children Data Table", status = "warning",
-                     div(style = 'overflow-y: scroll', dataTableOutput("missing_table"))
+                     div(style = 'overflow-y: scroll', dataTableOutput("missing_table")),
+                     actionLink("data_btn", "", icon = icon("question"), class = "leftAlign"),
+                     downloadLink("down_data_tables", "Download", class = "rightAlign")
 )
 
 abductionTable <<- box(width = NULL, title = "Attempted Abductions Data Table", status = "warning",
-                       div(style = 'overflow-y: scroll', dataTableOutput("abduction_table"))
+                       div(style = 'overflow-y: scroll', dataTableOutput("abduction_table")),
+                       actionLink("data_btn", "", icon = icon("question"), class = "leftAlign"),
+                       downloadLink("down_data_tables", "Download", class = "rightAlign")
 )
 
 
 
 ## main UI ##
 dashboardPage(skin = "yellow",
-  dashboardHeader(title = "NCMEC DAT"),
+  dashboardHeader(title = "NCMEC Analysis Tool"),
   dashboardSidebar(
     sidebarMenu(
       menuItem("Homepage", tabName = "homepage", icon = icon("home")),
       menuItem("Data Map", tabName = "datamap", icon = icon("map-marker")),
       menuItem("Data Table", tabName = "datatable", icon = icon("table")),
-      menuItem("Pie Chart", tabName = "piechart", icon = icon("pie-chart")),
-      menuItem("Heat Map", tabName = "heatmap", icon = icon("map"))
+      menuItem("Pie Charts", tabName = "piechart", icon = icon("pie-chart"))
     )
   ),
   dashboardBody(
     tabItems(
       tabItem(tabName = "homepage",
-        h2("Homepage")
+        h1("Welcome to the National Center for Missing and Exploited Children Data Analysis Tool"),
+        HTML("<br/>"),
+        h3("By Connor Segneri - connorsegneri@gmail.com"),
+        HTML("<br/><br/>"),
+        column(6,
+          box(width = NULL, title = "About this Tool", solidHeader = T,
+            h4("This tool allows the user to visualize, filter, and download missing children and attempted kidnapping data provided by the National Council of Missing and Exploited Children. The \"Data Map\" tab displays the incidents across the United States and allows the user to visualize the filters that they apply to the data sets. The \"Data Table\" tab shows the user a classic \"excel spreadsheet\" view of the data that they can filter, sort, and search through. The \"Pie Charts\" tab shows the overall race, gender, and methods of the children and offenders for filterable locations. For more instructions, select the question mark buttons located in each tab's page.")
+          )
+        )
       ),
       tabItem(tabName = "datamap",
-        fluidRow(
+        fluidRow(tags$head(tags$style(".leftAlign{float:left;}")), tags$head(tags$style(".rightAlign{float:right;}")),
           column(4, align = 'center',
-            selectInput("map_select", "Select Data Set", choices = c(
-                          "Missing Children Set" = "mc",
-                          "Attempted Abductions Set" = "aa")),
-            uiOutput("map_filters")
+            fluidRow(missingFilters),
+            fluidRow(abductionFilters)
           ),
           column(8,
-            tags$style(type = "text/css", "#map {height: calc(100vh - 80px) !important;}"),
-            leafletOutput("map")
+            box(width = NULL, status = "warning",
+              actionLink("map_btn", "", icon = icon("question"), class = "leftAlign"),
+              downloadLink("down_map", "Download", class = "rightAlign"),
+              HTML("<br/>"),
+              tags$style(type = "text/css", "#map {height: calc(100vh - 80px) !important;}"),
+              leafletOutput("map")
+            )
+
           )
         )
       ),
@@ -147,8 +162,9 @@ dashboardPage(skin = "yellow",
                           "Attempted Abductions Set" = "aa"))
           )
         ),
-        fluidRow(
+        fluidRow(tags$head(tags$style(".leftAlign{float:left;}")), tags$head(tags$style(".rightAlign{float:right;}")),
           column(4, align = 'center',
+            actionLink("data_filter_btn", "", icon = icon("question"), class = "leftAlign"),
             uiOutput("dt_filters")
           ),
           column(8, align = 'center',
@@ -157,9 +173,11 @@ dashboardPage(skin = "yellow",
         )
       ),
       tabItem(tabName = "piechart",
-        fluidRow(
+        fluidRow(tags$head(tags$style(".leftAlign{float:left;}")),
           column(3, align = 'center',
             box(width = NULL, title = "Locations Filters", status = "primary",
+              actionLink("pie_filter_btn", "", icon = icon("question"), class = "leftAlign"),
+              HTML("<br/>"),
               selectInput("pie_state", "State", multiple = T, choices = c(
                 sort(unique(c(as.character(missing$missing_state), as.character(abductions$incident_state)))))),
               selectInput("pie_city", "City", multiple = T, choices = c(
@@ -184,19 +202,9 @@ dashboardPage(skin = "yellow",
                     "Method" = "method")),
                   plotlyOutput("pie_offender")
                 )
-              )
+              ),
+              actionLink("pie_btn", "", icon = icon("question"), class = "leftAlign")
             )
-          )
-        )
-      ),
-      tabItem(tabName = "heatmap",
-        fluidRow(
-          column(12, align = 'center',
-            selectInput("heat_select", "Select Geographical Boundaries", choices = c(
-              "State" = "state",
-              "County" = "county")),
-            tags$style(type = "text/css", "#heat_map {height: calc(100vh - 80px) !important;}"),
-            leafletOutput("heat_map")
           )
         )
       )

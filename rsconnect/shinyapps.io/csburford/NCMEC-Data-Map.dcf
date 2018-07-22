@@ -1,0 +1,13 @@
+name: NCMEC-Data-Map
+title: NCMEC-Data-Map
+username:
+account: csburford
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 336361
+bundleId: 1406401
+url: https://csburford.shinyapps.io/NCMEC-Data-Map/
+when: 1527903103.83569
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: cleaning.R|Media_Ready_LIMs_NFAs_5779s_2007-2017.xlsx|RFI_Attempts_3.30.18_SwungOnCaseID_FINAL.xlsx|testing.R|us_postal_codes.csv|ncmecData/Attempts_Hackathon_5_Years_of_Data.csv|ncmecData/Hackathon_Missing_Child_5_Years_of_Data.csv
